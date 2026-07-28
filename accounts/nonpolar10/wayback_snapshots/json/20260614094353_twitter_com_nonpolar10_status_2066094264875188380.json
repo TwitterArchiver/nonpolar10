@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2066094264875188380",
+    "created_at": "2026-06-14T09:43:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T10:43:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066094264875188380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1390592139193556992",
+          "start": 3,
+          "username": "nonpolar10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066094264875188380",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1738667440496906460",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nonpolar10: 但经验性地来说，剑锋所能指向的人，一直都只有一个。\n\n想到这里，如果接受这样的解释，那个模糊的图景就不再是一个可怕的隐喻，而是对已发生事件的确认。\n\n这个空间中，自始至终都没有第二双眼睛，意识到这一点后，那种决绝消失不见，胃也开始难受，意味着，这…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2066094264875188380",
+        "created_at": "2026-06-14T09:43:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T10:43:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066094264875188380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390592139193556992",
+              "start": 3,
+              "username": "nonpolar10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066094264875188380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1738667440496906460",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nonpolar10: 但经验性地来说，剑锋所能指向的人，一直都只有一个。\n\n想到这里，如果接受这样的解释，那个模糊的图景就不再是一个可怕的隐喻，而是对已发生事件的确认。\n\n这个空间中，自始至终都没有第二双眼睛，意识到这一点后，那种决绝消失不见，胃也开始难受，意味着，这…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1738667440496906460",
+        "created_at": "2023-12-23T21:06:35.000Z",
+        "edit_controls": {
+          "editable_until": "2023-12-23T22:06:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1738667440496906460"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1738667440496906460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 488,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "但经验性地来说，剑锋所能指向的人，一直都只有一个。\n\n想到这里，如果接受这样的解释，那个模糊的图景就不再是一个可怕的隐喻，而是对已发生事件的确认。\n\n这个空间中，自始至终都没有第二双眼睛，意识到这一点后，那种决绝消失不见，胃也开始难受，意味着，这双眼睛再次属于了被剑指着的那个人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "半途而废的天坑领域学术奴工，不知有几年活头的过期文学少女。生于语言中，死在沉默里，词语的肉身，症候性的非实存。昨日路过的黑猫🐈‍⬛，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 301,
+          "like_count": 2066,
+          "listed_count": 2,
+          "media_count": 137,
+          "tweet_count": 1607
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

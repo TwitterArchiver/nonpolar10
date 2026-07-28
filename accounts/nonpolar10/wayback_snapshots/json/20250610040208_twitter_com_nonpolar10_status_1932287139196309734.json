@@ -1,0 +1,128 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1932287132183461888",
+        "3_1932287133534052352",
+        "3_1932287127469064192"
+      ]
+    },
+    "author_id": "1390592139193556992",
+    "conversation_id": "1932287139196309734",
+    "created_at": "2025-06-10T04:02:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T05:02:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1932287139196309734"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ejAYCy9BEt",
+          "end": 166,
+          "expanded_url": "https://x.com/nonpolar10/status/1932287139196309734/photo/1",
+          "media_key": "3_1932287132183461888",
+          "start": 143,
+          "url": "https://t.co/ejAYCy9BEt"
+        },
+        {
+          "display_url": "pic.x.com/ejAYCy9BEt",
+          "end": 166,
+          "expanded_url": "https://x.com/nonpolar10/status/1932287139196309734/photo/1",
+          "media_key": "3_1932287133534052352",
+          "start": 143,
+          "url": "https://t.co/ejAYCy9BEt"
+        },
+        {
+          "display_url": "pic.x.com/ejAYCy9BEt",
+          "end": 166,
+          "expanded_url": "https://x.com/nonpolar10/status/1932287139196309734/photo/1",
+          "media_key": "3_1932287127469064192",
+          "start": 143,
+          "url": "https://t.co/ejAYCy9BEt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932287139196309734",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "仅作为此电子骨灰盒的内容物填充，虽然写东西本身就是“赋形”的努力，让不可见的东西可见的（此过程或允许作者能够熨平自己思绪中的杂乱褶皱），但在这里，或者说这个时候并不建议去看，直接发出来只是因为觉得自己怎样也还能再活一阵，懒得折腾“电子幽灵”那套，太麻烦，且无聊，也像是太把自己当回事。 https://t.co/ejAYCy9BEt"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1932287139196309734].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1932287139196309734",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1932287139196309734"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1932287132183461888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtDc6LXagAAFGyV.jpg",
+        "width": 1447
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1932287133534052352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtDc6QZa4AAO6XU.jpg",
+        "width": 1447
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1932287127469064192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtDc55zagAA9fRG.jpg",
+        "width": 1447
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 313,
+          "like_count": 1730,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 1334
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

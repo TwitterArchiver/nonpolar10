@@ -1,0 +1,137 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "1827240110607290645",
+    "created_at": "2024-08-24T14:53:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-24T15:53:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1827358530791469200"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1827358530791469200",
+    "in_reply_to_user_id": "1390592139193556992",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827358313266475216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "当一个人真正开始计划自己的死亡时，就会发现这也是一个需要费力进行的动作，并且同样是有附带影响的事件。假如在思维上了维持了那种一贯的虚无主义态度和（自身）价值无涉原则，就无法不对此感到不快，因为，问题就在于这种“不存在理所当然”的怀疑原则，最终必然迎头撞见自己「主观性」的不对称分布。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1827240110607290645",
+        "created_at": "2024-08-24T14:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-24T15:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827358530791469200"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1827358530791469200",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827358313266475216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当一个人真正开始计划自己的死亡时，就会发现这也是一个需要费力进行的动作，并且同样是有附带影响的事件。假如在思维上了维持了那种一贯的虚无主义态度和（自身）价值无涉原则，就无法不对此感到不快，因为，问题就在于这种“不存在理所当然”的怀疑原则，最终必然迎头撞见自己「主观性」的不对称分布。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1827240110607290645",
+        "created_at": "2024-08-24T14:52:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-24T15:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827358313266475216"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1827358313266475216",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827240110607290645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么要不停向自己追问活下去的理由？\n\n找到理由，否则就不，那么，理由就成为条件，而这样的东西似乎不存在，于是就变成了，“即将因此而不活”，这带来的焦虑或许是问题意识的根源。这焦虑意味着与它不相干的事物，无论多绝对地存在着，最终都被虚无化了。\n\n而那所等待的答案，并不是能够“找”到的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "Die Toteninsle/边界的宽度",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770748175294300160/fx_fSZEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 328,
+          "like_count": 1740,
+          "listed_count": 1,
+          "tweet_count": 1318
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

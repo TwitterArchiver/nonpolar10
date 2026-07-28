@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2060041078791963066",
+    "created_at": "2026-05-28T17:42:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T18:42:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060054023911465440"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060054023911465440",
+    "in_reply_to_user_id": "1390592139193556992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060052122956357998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "都是既定历史下个人行为准则的虚无化浪潮与历史性焦虑。\n\n陀氏那边面对的是社会主义者的革命，福柯这里则是处于冷战的阴云之下，知识分子的理论话语从来都是在相应的历史背景下产生，就算书里不提，它们也深深刻在了其意识当中。\n\n总之先停在这了，如果在那之前谁能先论述下这个让我偷个懒就更好了(笑)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2060041078791963066",
+        "created_at": "2026-05-28T17:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T18:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060054023911465440"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060054023911465440",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060052122956357998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "都是既定历史下个人行为准则的虚无化浪潮与历史性焦虑。\n\n陀氏那边面对的是社会主义者的革命，福柯这里则是处于冷战的阴云之下，知识分子的理论话语从来都是在相应的历史背景下产生，就算书里不提，它们也深深刻在了其意识当中。\n\n总之先停在这了，如果在那之前谁能先论述下这个让我偷个懒就更好了(笑)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2060041078791963066",
+        "created_at": "2026-05-28T17:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T18:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060052122956357998"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060052122956357998",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060052117071815162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "而摒弃了马克思主义分析范式的早期著作、他与尼采主义之间的关系（承袭与避让，虽然毫无疑问我现在是个尼采黑hhh）等等。\n\n原理上，陀与福柯有类似的处境，前者是尼采主义与其他无神论的冲击，后者则是曾在法国哲学界如日中天的“自由主义之王”——萨特的存在主义（实际上全部内容都是关于自由的虚无）3/n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "路过的黑猫🐈‍⬛，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 287,
+          "like_count": 1944,
+          "listed_count": 2,
+          "media_count": 135,
+          "tweet_count": 1539
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

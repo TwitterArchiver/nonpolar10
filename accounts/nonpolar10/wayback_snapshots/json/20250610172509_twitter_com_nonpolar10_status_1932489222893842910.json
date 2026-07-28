@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "1932489222893842910",
+    "created_at": "2025-06-10T17:25:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T18:25:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1932489222893842910"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1932489222893842910",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "任何问题都是反问。\n\n像是一个人夜路走得太久，原本用来自壮胆气的回声也会变得可怖起来，人一旦在心中叩问，自眉间飘落的焦虑，就如雪崩前的那片雪花。\n\n“怎么办？”\n“怎么办？”\n“怎么办？”\n……\n\n每一次回声的来处，都是一枝可能性的凋亡，记忆在脑海中模糊变形，又被什么研磨成不讲道理的躯体感受。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1932489222893842910",
+        "created_at": "2025-06-10T17:25:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T18:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932489222893842910"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1932489222893842910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "任何问题都是反问。\n\n像是一个人夜路走得太久，原本用来自壮胆气的回声也会变得可怖起来，人一旦在心中叩问，自眉间飘落的焦虑，就如雪崩前的那片雪花。\n\n“怎么办？”\n“怎么办？”\n“怎么办？”\n……\n\n每一次回声的来处，都是一枝可能性的凋亡，记忆在脑海中模糊变形，又被什么研磨成不讲道理的躯体感受。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 313,
+          "like_count": 1730,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 1336
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

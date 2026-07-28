@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2059239939737329723",
+    "created_at": "2026-05-26T18:14:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T19:14:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059337438473158790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1523552276119711745",
+          "start": 0,
+          "username": "DeorctheOrigin"
+        },
+        {
+          "end": 28,
+          "id": "1636852409577119746",
+          "start": 16,
+          "username": "Cocteau1848"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059337438473158790",
+    "in_reply_to_user_id": "1390592139193556992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059335806666658199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DeorctheOrigin @Cocteau1848 打个比方，西西弗斯每天推石上山，但在这里我们绝对不会像加缪一样想象他是幸福的，而是要这个西西弗斯为“巨石下山”负起责任，甚至每次滚下去的时候还推它一把。但同时思考，为什么会这样，怎么才能不这样？世界上是不是还有其他西西弗斯？\n\n也许永无解脱，但甘愿承受这种痛苦，与苦涩的知。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2059239939737329723",
+        "created_at": "2026-05-26T18:14:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T19:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059337438473158790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1523552276119711745",
+              "start": 0,
+              "username": "DeorctheOrigin"
+            },
+            {
+              "end": 28,
+              "id": "1636852409577119746",
+              "start": 16,
+              "username": "Cocteau1848"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059337438473158790",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059335806666658199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DeorctheOrigin @Cocteau1848 打个比方，西西弗斯每天推石上山，但在这里我们绝对不会像加缪一样想象他是幸福的，而是要这个西西弗斯为“巨石下山”负起责任，甚至每次滚下去的时候还推它一把。但同时思考，为什么会这样，怎么才能不这样？世界上是不是还有其他西西弗斯？\n\n也许永无解脱，但甘愿承受这种痛苦，与苦涩的知。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2059239939737329723",
+        "created_at": "2026-05-26T18:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T19:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059335806666658199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1523552276119711745",
+              "start": 0,
+              "username": "DeorctheOrigin"
+            },
+            {
+              "end": 28,
+              "id": "1636852409577119746",
+              "start": 16,
+              "username": "Cocteau1848"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059335806666658199",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059334545053544553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DeorctheOrigin @Cocteau1848 这种理论有点残酷，或者在某些理解下有点不近人情。\n\n人其实经常会有那种感到“别无选择”的时候，往往都是出于相当窘困的境况，人总是希望自我开脱，并认为命运不公。\n\n而且事实上，是的，它从来都不公平，但无法为自己申辩，只有从那个不公的结果为开始进行思虑，只能硬撑下去，就像一种中年人的悲哀。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "路过的黑猫，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 270,
+          "like_count": 1915,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 1495
+        },
+        "username": "nonpolar10",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-09T06:35:57.000Z",
+        "description": "Dark Ambience & Nature's Lover. Medival & Victoria Gothicism. Anti-anthropocentrism. Cure Seeker. Empath/HSP but ASD. Median. She/Her. Safe here🏳️‍⚧️🏳️‍🌈.",
+        "id": "1523552276119711745",
+        "name": "{{the Original Star}}",
+        "pinned_tweet_id": "1914168147600687604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880614058904416256/rjD4Reyf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 341,
+          "like_count": 65798,
+          "listed_count": 2,
+          "media_count": 707,
+          "tweet_count": 19359
+        },
+        "username": "DeorctheOrigin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-17T22:10:30.000Z",
+        "description": "",
+        "id": "1636852409577119746",
+        "name": "YouZi",
+        "pinned_tweet_id": "1636868317112684545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050182937501483008/AR6JcM7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 34,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 32
+        },
+        "username": "Cocteau1848",
+        "verified": false
+      }
+    ]
+  }
+}

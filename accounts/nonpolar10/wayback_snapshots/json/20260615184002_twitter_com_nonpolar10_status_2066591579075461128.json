@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2066507915406749907",
+    "created_at": "2026-06-15T18:40:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T19:40:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066591579075461128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1446461580141490179",
+          "start": 0,
+          "username": "liangjie_2021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066591579075461128",
+    "in_reply_to_user_id": "1390592139193556992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066587547527266453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liangjie_2021 物质性的基础并没有取消存在的根基，只是剥夺了人之于动物或苔藓的绝对特殊性，人只是确认到了这种像是因为并非受到偏爱而从某种存在的“等级制”中跌落的境况而已。\n\n而物质则是另一种疯狂，protein与核酸的纳米机器，有序分子的自发装配，又或者核聚变一样暴烈的东西。\n\n人的意识并不能真正“理解”物质"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2066507915406749907",
+        "created_at": "2026-06-15T18:40:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T19:40:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066591579075461128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1446461580141490179",
+              "start": 0,
+              "username": "liangjie_2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066591579075461128",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066587547527266453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liangjie_2021 物质性的基础并没有取消存在的根基，只是剥夺了人之于动物或苔藓的绝对特殊性，人只是确认到了这种像是因为并非受到偏爱而从某种存在的“等级制”中跌落的境况而已。\n\n而物质则是另一种疯狂，protein与核酸的纳米机器，有序分子的自发装配，又或者核聚变一样暴烈的东西。\n\n人的意识并不能真正“理解”物质"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2066507915406749907",
+        "created_at": "2026-06-15T18:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T19:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066587547527266453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1446461580141490179",
+              "start": 0,
+              "username": "liangjie_2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066587547527266453",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066584986929786943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liangjie_2021 如果人们观测到神经电信号与机体运动输出之间有毫秒级的稳定延迟就大喜过望地宣称发现了本体论的真理，这反而只是暴露了对存在本身理解的缺失。\n\n我们打个比方，一台风车，它的风帆被吹动，齿轮铰接的磨盘把小麦磨成面粉，但谁会说我们最终能得到面粉的原因是风帆而不是风呢？磨盘与风帆不是一体的呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "半途而废的天坑领域学术奴工，不知有几年活头的过期文学少女。生于语言中，死在沉默里，词语的肉身，症候性的非实存。昨日路过的黑猫🐈‍⬛，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 301,
+          "like_count": 2069,
+          "listed_count": 2,
+          "media_count": 137,
+          "tweet_count": 1626
+        },
+        "username": "nonpolar10",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-08T13:04:56.000Z",
+        "description": "「特别强调现实的残酷，反过来说是不了解残酷程度的反映，各种意义上，意味着准备不足。」 \n ──雾间诚一《作为败因的另类自我》",
+        "id": "1446461580141490179",
+        "name": "LiangJie🇵🇸🇺🇦🇧🇫🇲🇲",
+        "pinned_tweet_id": "1832651502332129631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897930207140757506/6VCaGro0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 985,
+          "following_count": 1348,
+          "like_count": 88661,
+          "listed_count": 12,
+          "media_count": 596,
+          "tweet_count": 11042
+        },
+        "username": "liangjie_2021",
+        "verified": false
+      }
+    ]
+  }
+}

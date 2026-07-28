@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2058933851796443386",
+    "created_at": "2026-05-25T16:38:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T17:38:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058950850513629400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1942714198762610693",
+          "start": 0,
+          "username": "birdinflow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058950850513629400",
+    "in_reply_to_user_id": "1942714198762610693",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058934296451096788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@birdinflow 笑死，耐药了…完全没用……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2058933851796443386",
+        "created_at": "2026-05-25T16:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T17:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058950850513629400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942714198762610693",
+              "start": 0,
+              "username": "birdinflow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058950850513629400",
+        "in_reply_to_user_id": "1942714198762610693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058934296451096788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@birdinflow 笑死，耐药了…完全没用……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942714198762610693",
+        "conversation_id": "2058933851796443386",
+        "created_at": "2026-05-25T15:32:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058934296451096788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1390592139193556992",
+              "start": 0,
+              "username": "nonpolar10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058934296451096788",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058933851796443386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nonpolar10 晚安~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "路过的黑猫，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 267,
+          "like_count": 1902,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 1465
+        },
+        "username": "nonpolar10",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-08T22:35:54.000Z",
+        "description": "去爱吧；“总有一天我会回到你身边”",
+        "id": "1942714198762610693",
+        "name": "青鸟",
+        "pinned_tweet_id": "2030402237869039956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942721150867709952/qGrKoSns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 161,
+          "like_count": 2100,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 532
+        },
+        "username": "birdinflow",
+        "verified": false
+      }
+    ]
+  }
+}

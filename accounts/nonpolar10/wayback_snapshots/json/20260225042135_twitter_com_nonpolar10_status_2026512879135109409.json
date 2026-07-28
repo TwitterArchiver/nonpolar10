@@ -1,0 +1,114 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2026512879135109409",
+    "created_at": "2026-02-25T04:21:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T05:21:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026512879135109409"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 12,
+          "normalized_text": "stray",
+          "probability": 0.5552,
+          "start": 8,
+          "type": "Other"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026512879135109409",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "stay or stray"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2026512879135109409",
+        "created_at": "2026-02-25T04:21:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T05:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026512879135109409"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "stray",
+              "probability": 0.5552,
+              "start": 8,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026512879135109409",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "stay or stray"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 266,
+          "like_count": 1798,
+          "listed_count": 2,
+          "media_count": 129,
+          "tweet_count": 1417
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

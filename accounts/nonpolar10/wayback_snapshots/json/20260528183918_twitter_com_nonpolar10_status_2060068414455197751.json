@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2059872195120427110",
+    "created_at": "2026-05-28T18:39:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T19:39:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060068414455197751"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060068414455197751",
+    "in_reply_to_user_id": "1390592139193556992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060068412416753885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好多次都感觉就像是挺不过去了（虽然我现在还喘着气hhh）。\n\n吸烟这样的事情，偶尔会勾起我的回忆，烟不离手的她们老两口，还有姥爷临终前捏紧我的手、用尽全力要呼唤我，我却只听见一点短促无力的气流声……泪，还有一去不返的童年景象，另一种无可救药的怀恋，我没被遗弃，也几乎都要归因于他……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2059872195120427110",
+        "created_at": "2026-05-28T18:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T19:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060068414455197751"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060068414455197751",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060068412416753885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好多次都感觉就像是挺不过去了（虽然我现在还喘着气hhh）。\n\n吸烟这样的事情，偶尔会勾起我的回忆，烟不离手的她们老两口，还有姥爷临终前捏紧我的手、用尽全力要呼唤我，我却只听见一点短促无力的气流声……泪，还有一去不返的童年景象，另一种无可救药的怀恋，我没被遗弃，也几乎都要归因于他……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2059872195120427110",
+        "created_at": "2026-05-28T18:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T19:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060068412416753885"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060068412416753885",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060068410378399990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "某种意义上，我现在也处于相似的“状态”，如果不是更严重的话，总之就像是在走上她的老路——虽然看上去这样或那样都是不同的，但注定要与精神问题和内心中的东西相伴。\n\n所以我对吸烟者可能有那样一种浪漫化的想象，在这之中，这些人宿命论式的结局就是某种类似过劳死一样的东西——我已经很有实感，有 4/n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "路过的黑猫🐈‍⬛，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 287,
+          "like_count": 1944,
+          "listed_count": 2,
+          "media_count": 135,
+          "tweet_count": 1544
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

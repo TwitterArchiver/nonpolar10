@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2055856756778025067",
+    "created_at": "2026-05-17T05:45:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T06:45:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055887375163855080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1942714198762610693",
+          "start": 0,
+          "username": "birdinflow"
+        },
+        {
+          "end": 26,
+          "id": "2022253175345143809",
+          "start": 12,
+          "username": "irisdesombres"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055887375163855080",
+    "in_reply_to_user_id": "1942714198762610693",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055884035985948724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@birdinflow @irisdesombres 或许是的，但这种anarchy不是既有结构的单纯废黜，以至于要倒退回一个关系的永恒前认知状态，同时放弃来自外部的可理解性。\n\n我愿意相信一种普遍性的友爱与实在而特殊的相互理解之统一，但这样的事情在实操上总有难度。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2055856756778025067",
+        "created_at": "2026-05-17T05:45:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T06:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055887375163855080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942714198762610693",
+              "start": 0,
+              "username": "birdinflow"
+            },
+            {
+              "end": 26,
+              "id": "2022253175345143809",
+              "start": 12,
+              "username": "irisdesombres"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055887375163855080",
+        "in_reply_to_user_id": "1942714198762610693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055884035985948724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@birdinflow @irisdesombres 或许是的，但这种anarchy不是既有结构的单纯废黜，以至于要倒退回一个关系的永恒前认知状态，同时放弃来自外部的可理解性。\n\n我愿意相信一种普遍性的友爱与实在而特殊的相互理解之统一，但这样的事情在实操上总有难度。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942714198762610693",
+        "conversation_id": "2055856756778025067",
+        "created_at": "2026-05-17T05:32:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T06:32:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055884035985948724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1390592139193556992",
+              "start": 0,
+              "username": "nonpolar10"
+            },
+            {
+              "end": 26,
+              "id": "2022253175345143809",
+              "start": 12,
+              "username": "irisdesombres"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055884035985948724",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055882641820561779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nonpolar10 @irisdesombres We need relationship anarchy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOIC.",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 262,
+          "like_count": 1842,
+          "listed_count": 2,
+          "media_count": 129,
+          "tweet_count": 1438
+        },
+        "username": "nonpolar10",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-08T22:35:54.000Z",
+        "description": "去爱吧；“总有一天我会回到你身边”",
+        "id": "1942714198762610693",
+        "name": "青鸟",
+        "pinned_tweet_id": "2030402237869039956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942721150867709952/qGrKoSns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 154,
+          "like_count": 1921,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 457
+        },
+        "username": "birdinflow",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T10:15:18.000Z",
+        "description": "𝗔𝗴𝗲𝗻𝗱𝗲𝗿\n世上本无真品一说，可有的人比所谓真品更真\n仁慈而高贵的是你@Diamond_kokoro",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 37,
+                "username": "Diamond_kokoro"
+              }
+            ]
+          }
+        },
+        "id": "2022253175345143809",
+        "name": "鴉尾鸢",
+        "pinned_tweet_id": "2034978855153234418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024275236531695616/xar82bpz_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 133,
+          "like_count": 7697,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 4963
+        },
+        "username": "irisdesombres",
+        "verified": false
+      }
+    ]
+  }
+}

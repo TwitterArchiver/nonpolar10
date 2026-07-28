@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2052267319205011662",
+    "created_at": "2026-05-07T06:00:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T07:00:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052267319205011662"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052267319205011662",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "比起说无性别以及无性恋云云，实际上在自己这里更多的是一种认同和取向的持续或者说永久性缺失，根本上讲，我认为自己是个多余的人，这种论断在许多意义上都适用。\n\n有时，尤其是感到被置入某种刻板印象中时就会略带挑衅性地自我呈现，否认绝对差异和试图以运动取消本质是我的症候，或也是种癔症表现。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2052267319205011662",
+        "created_at": "2026-05-07T06:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T07:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052267319205011662"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052267319205011662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "比起说无性别以及无性恋云云，实际上在自己这里更多的是一种认同和取向的持续或者说永久性缺失，根本上讲，我认为自己是个多余的人，这种论断在许多意义上都适用。\n\n有时，尤其是感到被置入某种刻板印象中时就会略带挑衅性地自我呈现，否认绝对差异和试图以运动取消本质是我的症候，或也是种癔症表现。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 262,
+          "like_count": 1811,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 1429
+        },
+        "url": "",
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

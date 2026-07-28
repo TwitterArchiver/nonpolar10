@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "1822297484992847876",
+    "created_at": "2024-08-10T15:42:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-10T16:42:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1822297484992847876"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nonpolar10/sta…",
+          "end": 166,
+          "expanded_url": "https://twitter.com/nonpolar10/status/1821977631954493449",
+          "start": 143,
+          "url": "https://t.co/glNJb9KiQx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822297484992847876",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821977631954493449",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "而当基质崩解，“孔”的继续存在则意味着死，这导致特定的有意识的痛苦，它们终究是关于死的感觉，并由此提示着“孔”的位置和形状，在这些千奇百怪的痛苦体验中，自我意识以及一个视点（或说主体）相对性地惊醒了，并将自身与基质对象化并作出区分，由此开始了一种“闭合”的尝试。（但从不存在一劳永逸） https://t.co/glNJb9KiQx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1822297484992847876",
+        "created_at": "2024-08-10T15:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-10T16:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822297484992847876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nonpolar10/sta…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/nonpolar10/status/1821977631954493449",
+              "start": 143,
+              "url": "https://t.co/glNJb9KiQx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822297484992847876",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821977631954493449",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "而当基质崩解，“孔”的继续存在则意味着死，这导致特定的有意识的痛苦，它们终究是关于死的感觉，并由此提示着“孔”的位置和形状，在这些千奇百怪的痛苦体验中，自我意识以及一个视点（或说主体）相对性地惊醒了，并将自身与基质对象化并作出区分，由此开始了一种“闭合”的尝试。（但从不存在一劳永逸） https://t.co/glNJb9KiQx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1821977631954493449",
+        "created_at": "2024-08-09T18:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-09T19:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821977631954493449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nonpolar10/sta…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/nonpolar10/status/1821962700123206119",
+              "start": 144,
+              "url": "https://t.co/psVlntxQhH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821977631954493449",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821962700123206119",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "原本边界吻合的状态中，存在被基质包裹且尚不具备有“探照”功能的意识，因而只能感知那个边界（表面）的形貌，它柔软、足够有韧性不至于破裂，且是多孔——且由此与基质连通，二者共同完成循环和代谢。当从这个界面上通过的“流”的模式对存在而言意味着必要的供给且良好运行时，其就能够以弱意识模式运转。 https://t.co/psVlntxQhH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "Die Toteninsle/边界的宽度",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770748175294300160/fx_fSZEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 328,
+          "like_count": 1716,
+          "listed_count": 1,
+          "tweet_count": 1311
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "1958550278279745725",
+    "created_at": "2025-08-21T15:22:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T16:22:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1958550278279745725"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1958550278279745725",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 27,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "几个月前，这种感觉是在鼻腔与眼中央某处的“硬化”，眼睛的剧烈刺痛感，严重时就像是要爆开。喷嚏是这几周的新症状，体验上，它更轻些，我愿将其视为某种“康复”迹象。\n\n不，其实是我，我的身体选择了特定的症状，像是某种“强力”的神经活动改变了其传导方向，相应地，心理状态的范畴或边界形状也不一样。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1958550278279745725",
+        "created_at": "2025-08-21T15:22:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T16:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958550278279745725"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1958550278279745725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "几个月前，这种感觉是在鼻腔与眼中央某处的“硬化”，眼睛的剧烈刺痛感，严重时就像是要爆开。喷嚏是这几周的新症状，体验上，它更轻些，我愿将其视为某种“康复”迹象。\n\n不，其实是我，我的身体选择了特定的症状，像是某种“强力”的神经活动改变了其传导方向，相应地，心理状态的范畴或边界形状也不一样。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 270,
+          "like_count": 1712,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 1382
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

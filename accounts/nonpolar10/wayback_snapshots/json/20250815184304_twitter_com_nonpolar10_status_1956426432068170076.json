@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "1956426432068170076",
+    "created_at": "2025-08-15T18:43:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T19:43:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1956426432068170076"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nonpolar10/sta…",
+          "end": 153,
+          "expanded_url": "https://twitter.com/nonpolar10/status/1956418775475269920",
+          "start": 130,
+          "url": "https://t.co/pde7hFR1O7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956426432068170076",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956418775475269920",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唯能论者不接受原子论是基于一种理论构造的保守或“现象学克制”，但实际上其想象力的发挥则朝向了一种特定逻辑框架内的解释论，玻尔兹曼没能活到佩兰实验发表的那天，稍微有点可惜，他在论战中太孤独了。而他的继任者艾伦费斯特则是在量子力学的进展面前感到彻底的无力和不解。 https://t.co/pde7hFR1O7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1351,
+        "media_key": "3_1956418767862517760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyaYgPpaUAAZNLl.jpg",
+        "width": 990
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1956426432068170076",
+        "created_at": "2025-08-15T18:43:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T19:43:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956426432068170076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nonpolar10/sta…",
+              "end": 153,
+              "expanded_url": "https://twitter.com/nonpolar10/status/1956418775475269920",
+              "start": 130,
+              "url": "https://t.co/pde7hFR1O7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956426432068170076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956418775475269920",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唯能论者不接受原子论是基于一种理论构造的保守或“现象学克制”，但实际上其想象力的发挥则朝向了一种特定逻辑框架内的解释论，玻尔兹曼没能活到佩兰实验发表的那天，稍微有点可惜，他在论战中太孤独了。而他的继任者艾伦费斯特则是在量子力学的进展面前感到彻底的无力和不解。 https://t.co/pde7hFR1O7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956418767862517760"
+          ]
+        },
+        "author_id": "1390592139193556992",
+        "conversation_id": "1956418775475269920",
+        "created_at": "2025-08-15T18:12:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T19:12:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956418775475269920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8UxLAoyEJc",
+              "end": 39,
+              "expanded_url": "https://x.com/nonpolar10/status/1956418775475269920/photo/1",
+              "media_key": "3_1956418767862517760",
+              "start": 16,
+              "url": "https://t.co/8UxLAoyEJc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956418775475269920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来玻尔兹曼1906年上吊死的 https://t.co/8UxLAoyEJc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 270,
+          "like_count": 1709,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 1375
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

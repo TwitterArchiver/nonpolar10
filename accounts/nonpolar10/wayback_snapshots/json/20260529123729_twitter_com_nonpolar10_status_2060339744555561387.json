@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060339741304999936"
+      ]
+    },
+    "author_id": "1390592139193556992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "Montana",
+          "id": "1004449615544872960",
+          "name": "Montana"
+        }
+      }
+    ],
+    "conversation_id": "2060339744555561387",
+    "created_at": "2026-05-29T12:37:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T13:37:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060339744555561387"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/f6L6wAgqOA",
+          "end": 167,
+          "expanded_url": "https://x.com/nonpolar10/status/2060339744555561387/photo/1",
+          "media_key": "3_2060339741304999936",
+          "start": 144,
+          "url": "https://t.co/f6L6wAgqOA"
+        },
+        {
+          "display_url": "x.com/literlandweb1/…",
+          "end": 191,
+          "expanded_url": "https://twitter.com/literlandweb1/status/2060081201675641300",
+          "start": 168,
+          "url": "https://t.co/UArc2JJqHK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060339744555561387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060081201675641300",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "加缪在哲学上其实是很弱的（萨特的理论本身也是种弱哲学，但加缪也与之毫无可比性），而事实上他给自己的定论也只是“一个男人”。\n\n至于青春伤痛虚无主义必读书目的《西西弗斯神话》其中的这个神罚的核心母题，我曾怀疑直接就是洗稿陀氏关于牢狱经验的描写。\n\n加缪真正强过萨特的地方可能就是会凹造型。 https://t.co/f6L6wAgqOA https://t.co/UArc2JJqHK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1029,
+        "media_key": "3_2060339741304999936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJfMFB0a0AA4GzI.jpg",
+        "width": 1339
+      },
+      {
+        "height": 362,
+        "media_key": "3_2060081197477249028",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbg7zAXwAQliQn.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060339741304999936"
+          ]
+        },
+        "author_id": "1390592139193556992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Montana",
+              "id": "1004449615544872960",
+              "name": "Montana"
+            }
+          }
+        ],
+        "conversation_id": "2060339744555561387",
+        "created_at": "2026-05-29T12:37:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T13:37:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060339744555561387"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f6L6wAgqOA",
+              "end": 167,
+              "expanded_url": "https://x.com/nonpolar10/status/2060339744555561387/photo/1",
+              "media_key": "3_2060339741304999936",
+              "start": 144,
+              "url": "https://t.co/f6L6wAgqOA"
+            },
+            {
+              "display_url": "x.com/literlandweb1/…",
+              "end": 191,
+              "expanded_url": "https://twitter.com/literlandweb1/status/2060081201675641300",
+              "start": 168,
+              "url": "https://t.co/UArc2JJqHK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060339744555561387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060081201675641300",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "加缪在哲学上其实是很弱的（萨特的理论本身也是种弱哲学，但加缪也与之毫无可比性），而事实上他给自己的定论也只是“一个男人”。\n\n至于青春伤痛虚无主义必读书目的《西西弗斯神话》其中的这个神罚的核心母题，我曾怀疑直接就是洗稿陀氏关于牢狱经验的描写。\n\n加缪真正强过萨特的地方可能就是会凹造型。 https://t.co/f6L6wAgqOA https://t.co/UArc2JJqHK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060081197477249028"
+          ]
+        },
+        "author_id": "714913406952800256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Montana",
+              "id": "1004449615544872960",
+              "name": "Montana"
+            }
+          }
+        ],
+        "conversation_id": "2060081201675641300",
+        "created_at": "2026-05-28T19:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T20:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060081201675641300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/USRSru8WgJ",
+              "end": 304,
+              "expanded_url": "https://x.com/literlandweb1/status/2060081201675641300/photo/1",
+              "media_key": "3_2060081197477249028",
+              "start": 281,
+              "url": "https://t.co/USRSru8WgJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060081201675641300",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {},
+          "text": "“Los dioses habían condenado a Sísifo a transportar sin cesar una roca hasta la cima de una montaña, desde donde la piedra volvía a caer por su propio peso. Pensaron, con algún fundamento, que no hay castigo más terrible que el trabajo inútil y sin esperanza”\n\"El mito de Sísifo\", Albert Camus"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 115,
+          "impression_count": 22367,
+          "like_count": 1050,
+          "quote_count": 11,
+          "reply_count": 13,
+          "retweet_count": 305
+        },
+        "reply_settings": "everyone",
+        "text": "“Los dioses habían condenado a Sísifo a transportar sin cesar una roca hasta la cima de una montaña, desde donde la piedra volvía a caer por su propio peso. Pensaron, con algún fundamento, que no hay castigo más terrible que el trabajo inútil y sin esperanza”\n\"El mito de Sísifo\", https://t.co/USRSru8WgJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "路过的黑猫🐈‍⬛，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 294,
+          "like_count": 1967,
+          "listed_count": 2,
+          "media_count": 135,
+          "tweet_count": 1553
+        },
+        "username": "nonpolar10",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-29T20:33:33.000Z",
+        "description": "Comunidad de amantes de la lectura y la literatura.",
+        "id": "714913406952800256",
+        "name": "literland",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1112616730940063744/_HCkdleC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1140859,
+          "following_count": 538,
+          "like_count": 195542,
+          "listed_count": 4222,
+          "media_count": 51346,
+          "tweet_count": 63879
+        },
+        "username": "literlandweb1",
+        "verified": true
+      }
+    ]
+  }
+}

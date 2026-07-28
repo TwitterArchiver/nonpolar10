@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2058841390176669994",
+    "created_at": "2026-05-25T09:23:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T10:23:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058841390176669994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1544825601730588672",
+          "start": 3,
+          "username": "polarized53"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058841390176669994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058841327958405614",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @polarized53: 翻译一下，电车难题真正对应的政治情境是，少数人与多数人处于一种性命或生计攸关的零和博弈，双方都有理由和意愿让“列车”从对方那边碾过，而你是一个偶然掌握了部分决定权的旁观者，责无旁贷的共情者，你有“投票权”，必须要在规定时限内做出非此即彼的决断，…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2058841390176669994",
+        "created_at": "2026-05-25T09:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T10:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058841390176669994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1544825601730588672",
+              "start": 3,
+              "username": "polarized53"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058841390176669994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058841327958405614",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @polarized53: 翻译一下，电车难题真正对应的政治情境是，少数人与多数人处于一种性命或生计攸关的零和博弈，双方都有理由和意愿让“列车”从对方那边碾过，而你是一个偶然掌握了部分决定权的旁观者，责无旁贷的共情者，你有“投票权”，必须要在规定时限内做出非此即彼的决断，…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1544825601730588672",
+        "conversation_id": "2058841327958405614",
+        "created_at": "2026-05-25T09:23:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T10:23:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058841327958405614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AngeloMcna6787…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/AngeloMcna6787/status/2053654326044934345",
+              "start": 143,
+              "url": "https://t.co/ewD04r1ded"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058841327958405614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053654326044934345",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "翻译一下，电车难题真正对应的政治情境是，少数人与多数人处于一种性命或生计攸关的零和博弈，双方都有理由和意愿让“列车”从对方那边碾过，而你是一个偶然掌握了部分决定权的旁观者，责无旁贷的共情者，你有“投票权”，必须要在规定时限内做出非此即彼的决断，不被允许拆解造成这一准现实的决定性矛盾。 https://t.co/ewD04r1ded"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 267,
+          "like_count": 1896,
+          "listed_count": 2,
+          "media_count": 129,
+          "tweet_count": 1463
+        },
+        "username": "nonpolar10",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-06T23:28:35.000Z",
+        "description": "一百四十字不足以充分表达任何稍微复杂的观点，话语的形成也需要时间和精力，于是它们总是未完成的思想，感谢你有耐心听我把话说完。如果我对一种反驳提出意见，并不等于我认同那个原本被驳斥的东西，也有可能它在我这里甚至不值一提。接受任何真诚与建设性的批评，如有冒犯误会，任何时候都欢迎沟通，可以私信。",
+        "id": "1544825601730588672",
+        "name": "素心 安",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057892500724195329/TTWt1GIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 1,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "username": "polarized53",
+        "verified": false
+      }
+    ]
+  }
+}

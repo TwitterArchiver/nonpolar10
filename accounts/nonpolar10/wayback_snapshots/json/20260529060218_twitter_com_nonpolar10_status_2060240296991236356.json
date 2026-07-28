@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2060186148635287961",
+    "created_at": "2026-05-29T06:02:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T07:02:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060240296991236356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1990151128605134848",
+          "start": 0,
+          "username": "ethicsofopacity"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060240296991236356",
+    "in_reply_to_user_id": "1990151128605134848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060186148635287961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ethicsofopacity 你好，“波德萊爾”。\n\n雖然事情在他這裡比盲目的戀人間更悲哀、不公、也更咎由自取而無可救贖。\n\n但也未必是假裝幸福，就像某種“局部勢阱”，把無論是從痛苦還是愉悅中的“享樂”當作了那個想象中無限的幸福，而事實上，很可能也不存在什麼“真正”而隻有某種“初心”。\n\n輸入法忘了繁轉簡，不想重寫，遂作罷。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2060186148635287961].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2060186148635287961",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2060186148635287961"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2060186148635287961",
+        "created_at": "2026-05-29T06:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T07:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060240296991236356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1990151128605134848",
+              "start": 0,
+              "username": "ethicsofopacity"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060240296991236356",
+        "in_reply_to_user_id": "1990151128605134848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060186148635287961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ethicsofopacity 你好，“波德萊爾”。\n\n雖然事情在他這裡比盲目的戀人間更悲哀、不公、也更咎由自取而無可救贖。\n\n但也未必是假裝幸福，就像某種“局部勢阱”，把無論是從痛苦還是愉悅中的“享樂”當作了那個想象中無限的幸福，而事實上，很可能也不存在什麼“真正”而隻有某種“初心”。\n\n輸入法忘了繁轉簡，不想重寫，遂作罷。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "路过的黑猫🐈‍⬛，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 288,
+          "like_count": 1947,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 1542
+        },
+        "username": "nonpolar10",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-16T20:13:16.000Z",
+        "description": "愿恨意给予我们关怀彼此的勇气",
+        "id": "1990151128605134848",
+        "name": "白",
+        "pinned_tweet_id": "2031199493350216183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990165123680358401/ms0prA5y_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 425,
+          "like_count": 6864,
+          "listed_count": 0,
+          "media_count": 216,
+          "tweet_count": 4671
+        },
+        "username": "ethicsofopacity",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "2058043233079562288",
+    "created_at": "2026-05-23T06:06:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T07:06:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058066960467071193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1422567543940677634",
+          "start": 0,
+          "username": "UraOlt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058066960467071193",
+    "in_reply_to_user_id": "1422567543940677634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058043233079562288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UraOlt 虽然我对当代心理学持一些保留看法，但这个概念的滥用还在于，大众有时候不太能区分其与所谓BPD或各种更复杂症状体系之间的差别，只是在需要解释自己感受时在印象中对上了一条两条就给人下诊断而成为攻击语汇，另外，这种心理学定义下的NPD自己贼喊捉贼的情况也不少见。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2058043233079562288",
+        "created_at": "2026-05-23T06:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T07:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058066960467071193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1422567543940677634",
+              "start": 0,
+              "username": "UraOlt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058066960467071193",
+        "in_reply_to_user_id": "1422567543940677634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058043233079562288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UraOlt 虽然我对当代心理学持一些保留看法，但这个概念的滥用还在于，大众有时候不太能区分其与所谓BPD或各种更复杂症状体系之间的差别，只是在需要解释自己感受时在印象中对上了一条两条就给人下诊断而成为攻击语汇，另外，这种心理学定义下的NPD自己贼喊捉贼的情况也不少见。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422567543940677634",
+        "conversation_id": "2058043233079562288",
+        "created_at": "2026-05-23T04:31:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T05:31:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058043233079562288"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058043233079562288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 197,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人们对NPD最大的误会就是：他只爱自己。其实他不懂什么是爱，他无法爱自己。NPD的本质是过度的自卑自厌，没安全感，没有自我。NPD恨自己，恨到无法承受。所以将这恨投射转移到了别人身上，觉得所有人都是敌人，仇人，骗子，所以自己只是在反击，错的是别人。他们内心无比痛苦、持续焦虑愤怒，只有把"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 263,
+          "like_count": 1872,
+          "listed_count": 2,
+          "media_count": 129,
+          "tweet_count": 1453
+        },
+        "username": "nonpolar10",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-03T14:38:43.000Z",
+        "description": "他骑着格拉尼，他的骏马，穿过迷雾与地狱的业火。/风湿/火热/✒️✏️🖌️🎨/🏳️‍⚧️",
+        "id": "1422567543940677634",
+        "location": "0.1km",
+        "name": "拭咩初拥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049537048395366400/QLpYzsuI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1485,
+          "following_count": 414,
+          "like_count": 211889,
+          "listed_count": 3,
+          "media_count": 129,
+          "tweet_count": 13606
+        },
+        "username": "UraOlt",
+        "verified": false
+      }
+    ]
+  }
+}

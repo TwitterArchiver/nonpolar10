@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2066191640600133994",
+    "created_at": "2026-06-14T16:10:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T17:10:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066191640600133994"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nonpolar10/sta…",
+          "end": 170,
+          "expanded_url": "https://twitter.com/nonpolar10/status/2066093386239742292",
+          "start": 147,
+          "url": "https://t.co/dCmccaFJKO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066191640600133994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066093386239742292",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "但无论如何，“我”总会试图回来，随着星期四的浪又回到这片砾石滩。\n\n这个“我”自然会试图维持某种表观的一致，但诚实地讲，其中也总包含对某些陌生回忆的再现，就像“我”与“我”之间并不总是能够轻易相认。\n\n海浪不停带走些什么，又送还些什么，一柄破碎的阳伞，一具陈年尸骨，可来来去去，谁又能记得清？ https://t.co/dCmccaFJKO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2066191640600133994",
+        "created_at": "2026-06-14T16:10:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T17:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066191640600133994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nonpolar10/sta…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/nonpolar10/status/2066093386239742292",
+              "start": 147,
+              "url": "https://t.co/dCmccaFJKO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066191640600133994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066093386239742292",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但无论如何，“我”总会试图回来，随着星期四的浪又回到这片砾石滩。\n\n这个“我”自然会试图维持某种表观的一致，但诚实地讲，其中也总包含对某些陌生回忆的再现，就像“我”与“我”之间并不总是能够轻易相认。\n\n海浪不停带走些什么，又送还些什么，一柄破碎的阳伞，一具陈年尸骨，可来来去去，谁又能记得清？ https://t.co/dCmccaFJKO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2066080855622373801",
+        "created_at": "2026-06-14T09:40:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T10:40:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066093386239742292"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066093386239742292",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066093382863352187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "总会自负地妄想能妥善解决它们，但只是灰溜溜地逃离，沉溺于某种绝对可耻的孤独，世界、自己又都变得陌生。\n\n但为什么会“痛苦”？特定的经验或意识运动为什么使人“痛苦”？是什么为它提供了某种意义的解析空间？毕竟无论如何，它是基于情感与智性的，想象力的自我摧残。\n\n依旧被剑指着，被那个人，被我。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "半途而废的天坑领域学术奴工，不知有几年活头的过期文学少女。生于语言中，死在沉默里，词语的肉身，症候性的非实存。昨日路过的黑猫🐈‍⬛，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 301,
+          "like_count": 2066,
+          "listed_count": 2,
+          "media_count": 137,
+          "tweet_count": 1610
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2059057234953294192",
+    "created_at": "2026-05-26T01:02:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T02:02:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059077608982401443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1942714198762610693",
+          "start": 0,
+          "username": "birdinflow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059077608982401443",
+    "in_reply_to_user_id": "1942714198762610693",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059062542316519772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@birdinflow 躯体化的症状，如果不想吃ssri（无论是因为副作用还是什么其他），偶尔吃点bzd这类温和的药物也有用，至少我是这样。\n\n或者主要是看什么样的心绪与精神活动导致了这种躯体化，大概，所以有时有用，有时没用。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2059057234953294192",
+        "created_at": "2026-05-26T01:02:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T02:02:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059077608982401443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942714198762610693",
+              "start": 0,
+              "username": "birdinflow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059077608982401443",
+        "in_reply_to_user_id": "1942714198762610693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059062542316519772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@birdinflow 躯体化的症状，如果不想吃ssri（无论是因为副作用还是什么其他），偶尔吃点bzd这类温和的药物也有用，至少我是这样。\n\n或者主要是看什么样的心绪与精神活动导致了这种躯体化，大概，所以有时有用，有时没用。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942714198762610693",
+        "conversation_id": "2059057234953294192",
+        "created_at": "2026-05-26T00:02:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T01:02:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059062542316519772"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059062542316519772",
+        "in_reply_to_user_id": "1942714198762610693",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059057234953294192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好疼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "路过的黑猫，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 268,
+          "like_count": 1908,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 1468
+        },
+        "username": "nonpolar10",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-08T22:35:54.000Z",
+        "description": "去爱吧；“总有一天我会回到你身边”",
+        "id": "1942714198762610693",
+        "name": "青鸟",
+        "pinned_tweet_id": "2030402237869039956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942721150867709952/qGrKoSns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 161,
+          "like_count": 2122,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 541
+        },
+        "username": "birdinflow",
+        "verified": false
+      }
+    ]
+  }
+}

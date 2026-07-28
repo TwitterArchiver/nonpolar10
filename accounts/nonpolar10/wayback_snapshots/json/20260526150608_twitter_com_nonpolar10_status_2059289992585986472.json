@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2059289992585986472",
+    "created_at": "2026-05-26T15:06:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T16:06:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059289992585986472"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059289992585986472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我重新喜欢起了给人写长回复，喜欢起那种有人愿意听我絮絮叨叨说个不停的感觉，就像是一种“被陪伴”的感觉，很温暖。\n\n有点像是回到了一个含蓄时代，就像许多年前自己会在匿名笔友网站上和人写一大堆有的没的那样，ta们中没有一个成为了我感官物理现实中的“朋友”，回信也很慢，但我依然经常会觉得满足。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2059289992585986472",
+        "created_at": "2026-05-26T15:06:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059289992585986472"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059289992585986472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我重新喜欢起了给人写长回复，喜欢起那种有人愿意听我絮絮叨叨说个不停的感觉，就像是一种“被陪伴”的感觉，很温暖。\n\n有点像是回到了一个含蓄时代，就像许多年前自己会在匿名笔友网站上和人写一大堆有的没的那样，ta们中没有一个成为了我感官物理现实中的“朋友”，回信也很慢，但我依然经常会觉得满足。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "路过的黑猫，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 270,
+          "like_count": 1911,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 1483
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

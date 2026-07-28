@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2060041078791963066",
+    "created_at": "2026-05-28T16:50:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T17:50:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060041078791963066"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/liangjie_2021/…",
+          "end": 170,
+          "expanded_url": "https://twitter.com/liangjie_2021/status/2059981055676010555",
+          "start": 147,
+          "url": "https://t.co/wgWCh413l7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060041078791963066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059981055676010555",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "另一个类似的例子可能是乔治·康吉莱姆对市民社会保守倾向有理由的维护，而他是福柯的老师。\n\n福柯在理论上本身并不是那样简单的一个“激进主义者”（这不是纯粹批评），这种误会或许也要归咎于他用扩音器在人群中喊话的经典照片。\n\n他们与陀的相似之处都是一定程度上想要超越“保守/进步的二元对立”，1/n https://t.co/wgWCh413l7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2060041078791963066",
+        "created_at": "2026-05-28T16:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060041078791963066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liangjie_2021/…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/liangjie_2021/status/2059981055676010555",
+              "start": 147,
+              "url": "https://t.co/wgWCh413l7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060041078791963066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059981055676010555",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "另一个类似的例子可能是乔治·康吉莱姆对市民社会保守倾向有理由的维护，而他是福柯的老师。\n\n福柯在理论上本身并不是那样简单的一个“激进主义者”（这不是纯粹批评），这种误会或许也要归咎于他用扩音器在人群中喊话的经典照片。\n\n他们与陀的相似之处都是一定程度上想要超越“保守/进步的二元对立”，1/n https://t.co/wgWCh413l7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1446461580141490179",
+        "conversation_id": "2059980670668300454",
+        "created_at": "2026-05-28T12:52:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:52:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059981055676010555"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059981055676010555",
+        "in_reply_to_user_id": "1446461580141490179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059980813928927365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "陀的深刻来自于对对手的理解和病理学分析，这种理解是基于深刻的亲身体验。如果《卡拉马佐夫兄弟》是对激进传统的宽恕，那么这种宽恕是带有怜悯和深深的焦虑的，因为担心那些愚蠢的人真的会得到他们渴望但不配拥有的权力。进步人士要证明他错了，就必须成为托尔斯泰认为我们本可以成为的更好的人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "路过的黑猫🐈‍⬛，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 287,
+          "like_count": 1944,
+          "listed_count": 2,
+          "media_count": 135,
+          "tweet_count": 1536
+        },
+        "username": "nonpolar10",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-08T13:04:56.000Z",
+        "description": "She's done away with emotion \nShe sees things clearly now \nShe says she sees it all from her room\nAnd it looks so small from her room",
+        "id": "1446461580141490179",
+        "name": "LiangJie🇵🇸🇺🇦🇧🇫🇲🇲",
+        "pinned_tweet_id": "1832651502332129631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897930207140757506/6VCaGro0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 960,
+          "following_count": 1319,
+          "like_count": 87523,
+          "listed_count": 12,
+          "media_count": 590,
+          "tweet_count": 10900
+        },
+        "username": "liangjie_2021",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2059239939737329723",
+    "created_at": "2026-05-26T12:13:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T13:13:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059246612619387297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1636852409577119746",
+          "start": 0,
+          "username": "Cocteau1848"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059246612619387297",
+    "in_reply_to_user_id": "1390592139193556992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059242718543667518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cocteau1848 ，又在对方那里寻找着某种承认的可能，人与人注视着彼此，又在脑海中想象着他人的注视，这是一种永远也无法摆脱的目光，而这一想象才正是那个地狱般的他者——所有人又都因此处于一种不自由的“状态”，也卸去了被迫不停思虑的责任，但谁也无法离开当下所有人一同构成的总体境况，一场真正的《禁闭》。2/n"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2059239939737329723",
+        "created_at": "2026-05-26T12:13:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T13:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059246612619387297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1636852409577119746",
+              "start": 0,
+              "username": "Cocteau1848"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059246612619387297",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059242718543667518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cocteau1848 ，又在对方那里寻找着某种承认的可能，人与人注视着彼此，又在脑海中想象着他人的注视，这是一种永远也无法摆脱的目光，而这一想象才正是那个地狱般的他者——所有人又都因此处于一种不自由的“状态”，也卸去了被迫不停思虑的责任，但谁也无法离开当下所有人一同构成的总体境况，一场真正的《禁闭》。2/n"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2059239939737329723",
+        "created_at": "2026-05-26T11:58:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T12:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059242718543667518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1636852409577119746",
+              "start": 0,
+              "username": "Cocteau1848"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059242718543667518",
+        "in_reply_to_user_id": "1636852409577119746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059239939737329723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cocteau1848 “何必用烤架呢？他人本就是地狱”\n\n萨特的本意大约是，不存在一个给定所有规则的上帝，那人就人被迫承受一种去不停以各种薄弱的根基作出决断的煎熬式的自由。同时，人总是在他人那里确认自身的存在，而在他人的目光之下又成为一个静滞的客体，一种想象，人需要发现差异来维持一种关于自我的想象 1/n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "路过的黑猫，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 269,
+          "like_count": 1910,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 1475
+        },
+        "username": "nonpolar10",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-17T22:10:30.000Z",
+        "description": "",
+        "id": "1636852409577119746",
+        "name": "YouZi",
+        "pinned_tweet_id": "1636868317112684545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050182937501483008/AR6JcM7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 30,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 30
+        },
+        "username": "Cocteau1848",
+        "verified": false
+      }
+    ]
+  }
+}

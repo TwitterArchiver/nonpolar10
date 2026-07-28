@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2059239939737329723",
+    "created_at": "2026-05-26T15:22:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T16:22:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059294029289013327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1636852409577119746",
+          "start": 0,
+          "username": "Cocteau1848"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059294029289013327",
+    "in_reply_to_user_id": "1390592139193556992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059286326974063068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cocteau1848 人对自身内在掌握着最直接的内观经验，而他人只能依据更加有限的表象比如一些话语、不经意的动作、表情来猜测或建立关于它的理论，而这又受限于理解者的自身经验。\n\n但那种内观却也不一定充分，或许甚至不能被动地构成某种“全息”，这是意识的有限性，而精神分析式的隐喻结构又总让人觉得不够可靠。9/n"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2059239939737329723",
+        "created_at": "2026-05-26T15:22:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059294029289013327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1636852409577119746",
+              "start": 0,
+              "username": "Cocteau1848"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059294029289013327",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059286326974063068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cocteau1848 人对自身内在掌握着最直接的内观经验，而他人只能依据更加有限的表象比如一些话语、不经意的动作、表情来猜测或建立关于它的理论，而这又受限于理解者的自身经验。\n\n但那种内观却也不一定充分，或许甚至不能被动地构成某种“全息”，这是意识的有限性，而精神分析式的隐喻结构又总让人觉得不够可靠。9/n"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136223258141839360",
+              "name": "Franz Kafka"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136223258141839360",
+              "name": "Franz Kafka"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166408461485101056",
+              "name": "Authors"
+            }
+          }
+        ],
+        "conversation_id": "2059239939737329723",
+        "created_at": "2026-05-26T14:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059286326974063068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1636852409577119746",
+              "start": 0,
+              "username": "Cocteau1848"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059286326974063068",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059281088690950589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cocteau1848 \"I cannot make you understand. I cannot make anyone understand what is happening inside me. I cannot even explain it to myself.\" --  Franz Kafka\n\n人经常是“撞见”自己的思想，很多时候就像出门被石头绊倒，而思想就是那块石头，在“存在”通向语言的途中，我们短暂或恒久地停留在那里。8/n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "路过的黑猫，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 270,
+          "like_count": 1911,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 1484
+        },
+        "username": "nonpolar10",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-17T22:10:30.000Z",
+        "description": "",
+        "id": "1636852409577119746",
+        "name": "YouZi",
+        "pinned_tweet_id": "1636868317112684545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050182937501483008/AR6JcM7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 33,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 32
+        },
+        "username": "Cocteau1848",
+        "verified": false
+      }
+    ]
+  }
+}

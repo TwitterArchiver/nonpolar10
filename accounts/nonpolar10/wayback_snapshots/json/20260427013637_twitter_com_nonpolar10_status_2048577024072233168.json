@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2048057043815485551",
+    "created_at": "2026-04-27T01:36:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T02:36:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048577024072233168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1488955970570964992",
+          "start": 0,
+          "username": "zhangdepei2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048577024072233168",
+    "in_reply_to_user_id": "1488955970570964992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048057043815485551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhangdepei2 就像…发芽的土豆一样？（笑）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2048057040585850880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwpBv_bgAAK5mk.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2048057038627078144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwpBosbAAA9f8Q.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2048057043815485551",
+        "created_at": "2026-04-27T01:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T02:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048577024072233168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1488955970570964992",
+              "start": 0,
+              "username": "zhangdepei2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048577024072233168",
+        "in_reply_to_user_id": "1488955970570964992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048057043815485551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhangdepei2 就像…发芽的土豆一样？（笑）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048057040585850880",
+            "3_2048057038627078144"
+          ]
+        },
+        "author_id": "1488955970570964992",
+        "conversation_id": "2048057043815485551",
+        "created_at": "2026-04-25T15:10:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T16:10:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048057043815485551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zCUMXUg4PA",
+              "end": 165,
+              "expanded_url": "https://x.com/zhangdepei2/status/2048057043815485551/photo/1",
+              "media_key": "3_2048057040585850880",
+              "start": 142,
+              "url": "https://t.co/zCUMXUg4PA"
+            },
+            {
+              "display_url": "pic.x.com/zCUMXUg4PA",
+              "end": 165,
+              "expanded_url": "https://x.com/zhangdepei2/status/2048057043815485551/photo/1",
+              "media_key": "3_2048057038627078144",
+              "start": 142,
+              "url": "https://t.co/zCUMXUg4PA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048057043815485551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在这家公司呆的时间虽说没多长，但我现在戾气很重，在那，除了干不完的活，还有种你死我亡的气氛，不是准备干掉这位，就是准备干掉那位。\n我的性格也变了，不再多愁善感，情绪的表达也模模糊糊，语言也极具攻击性。\n连续上了三周的班，算是刚刚休息，我已经不记得我多久没有像这样边吃薯片边玩游戏了。 https://t.co/zCUMXUg4PA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 264,
+          "like_count": 1801,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 1423
+        },
+        "username": "nonpolar10",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-02T19:22:35.000Z",
+        "description": "你好，很高兴能遇见你（棒读）",
+        "id": "1488955970570964992",
+        "name": "土豆分身术",
+        "pinned_tweet_id": "1647057063263219712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620789551156416517/LOqK13lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 535,
+          "like_count": 17834,
+          "listed_count": 0,
+          "media_count": 284,
+          "tweet_count": 3223
+        },
+        "username": "zhangdepei2",
+        "verified": false
+      }
+    ]
+  }
+}

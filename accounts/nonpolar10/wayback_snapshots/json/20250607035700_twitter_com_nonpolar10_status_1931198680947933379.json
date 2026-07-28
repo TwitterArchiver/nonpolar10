@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "1931198680947933379",
+    "created_at": "2025-06-07T03:57:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T04:57:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1931198680947933379"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1931198680947933379",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "实际上，自己存在过成为素食主义明确契机，大于是五年前，不过，在生物化学系的学生看来，动物与植物并没有绝对差别，我是说，差异是绝对的，但从演化的角度来看界，限是不可能的。\n\n说到底是种物哀其类，不过这并没妨碍自己在宰杀场景前颤栗，以至于也没法拿刀切肉。\n\n哀其更类者，这固然也是独断的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1931198680947933379",
+        "created_at": "2025-06-07T03:57:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T04:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931198680947933379"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1931198680947933379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "实际上，自己存在过成为素食主义明确契机，大于是五年前，不过，在生物化学系的学生看来，动物与植物并没有绝对差别，我是说，差异是绝对的，但从演化的角度来看界，限是不可能的。\n\n说到底是种物哀其类，不过这并没妨碍自己在宰杀场景前颤栗，以至于也没法拿刀切肉。\n\n哀其更类者，这固然也是独断的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 312,
+          "like_count": 1730,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 1331
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

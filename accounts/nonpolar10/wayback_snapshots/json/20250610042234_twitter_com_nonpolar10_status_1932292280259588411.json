@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "1932292280259588411",
+    "created_at": "2025-06-10T04:22:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T05:22:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1932292280259588411"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1932292280259588411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "以后也是如此了，隐藏的就是不建议在账号停更前看的内容，各种想到什么写什么，找个熟悉的地方把它们放下而已。\n\n好奇心太重硬去点开看也没什么，互联网就是这样，十万八千里，一些事是我无力改变的，另一些事情是已做了决定的。\n\n我没想对任何人做任何，但也不会有人有能力对我加以干涉。\n\n2025.06.10"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1932292280259588411",
+        "created_at": "2025-06-10T04:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T05:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932292280259588411"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1932292280259588411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以后也是如此了，隐藏的就是不建议在账号停更前看的内容，各种想到什么写什么，找个熟悉的地方把它们放下而已。\n\n好奇心太重硬去点开看也没什么，互联网就是这样，十万八千里，一些事是我无力改变的，另一些事情是已做了决定的。\n\n我没想对任何人做任何，但也不会有人有能力对我加以干涉。\n\n2025.06.10"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 313,
+          "like_count": 1730,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 1335
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

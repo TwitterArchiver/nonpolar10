@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "1821952098583359548",
+    "created_at": "2024-08-09T16:50:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-09T17:50:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1821952098583359548"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nonpolar10/sta…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/nonpolar10/status/1821945867420439033",
+          "start": 141,
+          "url": "https://t.co/ZqPYOxs3PO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821952098583359548",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821945867420439033",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在这里，所有的东西被一个连续但部分之间高度差异化的界面隔开，主体与客体的形状消弭，只有相互作用的效果以无可辩驳的感官经验的形式在这个界面上得以保存，只是，基于形式的复杂，尚且难以描述，或者，每吐出一个字都十分困难，言说动作只能在短暂的动力学窗口内完成，知道器官感受以强力将其关停。 https://t.co/ZqPYOxs3PO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1821952098583359548",
+        "created_at": "2024-08-09T16:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-09T17:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821952098583359548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nonpolar10/sta…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/nonpolar10/status/1821945867420439033",
+              "start": 141,
+              "url": "https://t.co/ZqPYOxs3PO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821952098583359548",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821945867420439033",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在这里，所有的东西被一个连续但部分之间高度差异化的界面隔开，主体与客体的形状消弭，只有相互作用的效果以无可辩驳的感官经验的形式在这个界面上得以保存，只是，基于形式的复杂，尚且难以描述，或者，每吐出一个字都十分困难，言说动作只能在短暂的动力学窗口内完成，知道器官感受以强力将其关停。 https://t.co/ZqPYOxs3PO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1821945867420439033",
+        "created_at": "2024-08-09T16:25:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-09T17:25:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821945867420439033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nonpolar10/sta…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/nonpolar10/status/1809968926513852553",
+              "start": 143,
+              "url": "https://t.co/kj1LgXNnH3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821945867420439033",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809968926513852553",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以，「那里」，或者说「井」下是什么地方呢？被彻底遗忘的开端，一个感官的世界，在此，本体论了关闭精神现象中解释性中介主体和分裂的绝对化主体之间的辩证运动，而上述两者相继解体后或“死”后，不会有任何语言概念乃至关于体验的意义真正幸存。\n\n有且只有「再造」的可能，或者，绝对的，最后的死。 https://t.co/kj1LgXNnH3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "Die Toteninsle/边界的宽度",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770748175294300160/fx_fSZEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 328,
+          "like_count": 1715,
+          "listed_count": 1,
+          "tweet_count": 1306
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

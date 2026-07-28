@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059985609318711297"
+      ]
+    },
+    "author_id": "1390592139193556992",
+    "conversation_id": "2059985612065886680",
+    "created_at": "2026-05-28T13:10:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T14:10:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059985612065886680"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YlSM2znnQW",
+          "end": 23,
+          "expanded_url": "https://x.com/nonpolar10/status/2059985612065886680/photo/1",
+          "media_key": "3_2059985609318711297",
+          "start": 0,
+          "url": "https://t.co/YlSM2znnQW"
+        },
+        {
+          "display_url": "x.com/liangjie_2021/…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/liangjie_2021/status/2059980670668300454",
+          "start": 24,
+          "url": "https://t.co/9qBTswJOd3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059985612065886680",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059980670668300454",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/YlSM2znnQW https://t.co/9qBTswJOd3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1344,
+        "media_key": "3_2059985609318711297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJaJ_1XbwAE1nDu.jpg",
+        "width": 1124
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059985609318711297"
+          ]
+        },
+        "author_id": "1390592139193556992",
+        "conversation_id": "2059985612065886680",
+        "created_at": "2026-05-28T13:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T14:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059985612065886680"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YlSM2znnQW",
+              "end": 23,
+              "expanded_url": "https://x.com/nonpolar10/status/2059985612065886680/photo/1",
+              "media_key": "3_2059985609318711297",
+              "start": 0,
+              "url": "https://t.co/YlSM2znnQW"
+            },
+            {
+              "display_url": "x.com/liangjie_2021/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/liangjie_2021/status/2059980670668300454",
+              "start": 24,
+              "url": "https://t.co/9qBTswJOd3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059985612065886680",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059980670668300454",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/YlSM2znnQW https://t.co/9qBTswJOd3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1446461580141490179",
+        "conversation_id": "2059980670668300454",
+        "created_at": "2026-05-28T12:50:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059980670668300454"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059980670668300454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "陀思妥耶夫斯基的小说将精英主义的指责颠倒了过来，突出了农民的政治顺从，并将其转化为一种美德，与激进知识分子的反叛和常常被腐蚀的敏感性形成了鲜明对比。这种模式在政治右翼的历史中反复出现，帮助它以农村和民粹的方式来构想反动，而无需对塑造社会大部分关系的权力和支配关系进行实质性的转变"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "路过的黑猫，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 285,
+          "like_count": 1940,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 1533
+        },
+        "username": "nonpolar10",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-08T13:04:56.000Z",
+        "description": "She's done away with emotion \nShe sees things clearly now \nShe says she sees it all from her room\nAnd it looks so small from her room",
+        "id": "1446461580141490179",
+        "name": "LiangJie🇵🇸🇺🇦🇧🇫🇲🇲",
+        "pinned_tweet_id": "1832651502332129631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897930207140757506/6VCaGro0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 960,
+          "following_count": 1319,
+          "like_count": 87501,
+          "listed_count": 12,
+          "media_count": 590,
+          "tweet_count": 10899
+        },
+        "username": "liangjie_2021",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2062034952372592871",
+    "created_at": "2026-06-03T05:02:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T06:02:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062037150791827765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1222825619391516672",
+          "start": 0,
+          "username": "tirpitzia9992"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062037150791827765",
+    "in_reply_to_user_id": "1222825619391516672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062034952372592871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tirpitzia9992 试着深呼吸，有镇定剂就来一片，天气允许的话不妨出去走走，或者拼命骑自行车，当然这只一时之计，心结则需另解……\n\n有时候，人终于会突然认识到“心碎”并不仅仅是个隐喻，至少它大概率不是作为单纯隐喻而被创造的（假如我们认为可以有对个独立的词语创造事件），只是在日常中被作为隐喻来使用而已。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2062034952372592871",
+        "created_at": "2026-06-03T05:02:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T06:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062037150791827765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1222825619391516672",
+              "start": 0,
+              "username": "tirpitzia9992"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062037150791827765",
+        "in_reply_to_user_id": "1222825619391516672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062034952372592871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tirpitzia9992 试着深呼吸，有镇定剂就来一片，天气允许的话不妨出去走走，或者拼命骑自行车，当然这只一时之计，心结则需另解……\n\n有时候，人终于会突然认识到“心碎”并不仅仅是个隐喻，至少它大概率不是作为单纯隐喻而被创造的（假如我们认为可以有对个独立的词语创造事件），只是在日常中被作为隐喻来使用而已。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1222825619391516672",
+        "conversation_id": "2062034952372592871",
+        "created_at": "2026-06-03T04:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T05:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062034952372592871"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062034952372592871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心脏好痛，我真的好难过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "半途而废的天坑领域学术奴工，不知有几年活头的过期文学少女。生于语言中，死在沉默里，词语的肉身，症候性的非实存。昨日路过的黑猫🐈‍⬛，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 299,
+          "like_count": 2029,
+          "listed_count": 2,
+          "media_count": 137,
+          "tweet_count": 1593
+        },
+        "username": "nonpolar10",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-30T10:15:43.000Z",
+        "description": "She | @kaguyamoe | Mathematical AI Researcher",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "kaguyamoe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tirpitzia.life",
+                "end": 23,
+                "expanded_url": "https://tirpitzia.life",
+                "start": 0,
+                "url": "https://t.co/GA3rSxRxTP"
+              }
+            ]
+          }
+        },
+        "id": "1222825619391516672",
+        "name": "Tirpitzia",
+        "pinned_tweet_id": "1364123157687230464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1545065625592430592/emHL0OBw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1092,
+          "following_count": 174,
+          "like_count": 23194,
+          "listed_count": 4,
+          "media_count": 357,
+          "tweet_count": 5545
+        },
+        "url": "https://t.co/GA3rSxRxTP",
+        "username": "tirpitzia9992",
+        "verified": false
+      }
+    ]
+  }
+}

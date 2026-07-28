@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2058545711566795113",
+    "created_at": "2026-05-24T14:15:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T15:15:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058552584831701456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1636852409577119746",
+          "start": 0,
+          "username": "Cocteau1848"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058552584831701456",
+    "in_reply_to_user_id": "1636852409577119746",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058545711566795113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cocteau1848 不限于亲密关系，任何只是稍微在意的人，对方表现出的不满经常让我无地自容地反思，或者对方稍微大声说话的时候也很容易应激性地陷入恐惧。\n\n当然，不是第一天面对这样的事情，所以有很多技术性的应对方式来尽量削弱它的影响，但每到这种时刻都会想起小时候与母亲的一些特定互动……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2058545711566795113",
+        "created_at": "2026-05-24T14:15:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T15:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058552584831701456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1636852409577119746",
+              "start": 0,
+              "username": "Cocteau1848"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058552584831701456",
+        "in_reply_to_user_id": "1636852409577119746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058545711566795113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cocteau1848 不限于亲密关系，任何只是稍微在意的人，对方表现出的不满经常让我无地自容地反思，或者对方稍微大声说话的时候也很容易应激性地陷入恐惧。\n\n当然，不是第一天面对这样的事情，所以有很多技术性的应对方式来尽量削弱它的影响，但每到这种时刻都会想起小时候与母亲的一些特定互动……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1636852409577119746",
+        "conversation_id": "2058545711566795113",
+        "created_at": "2026-05-24T13:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T14:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058545711566795113"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058545711566795113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可怕…亲密关系里对方的情绪对于我来说好可怕…为什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 267,
+          "like_count": 1888,
+          "listed_count": 2,
+          "media_count": 129,
+          "tweet_count": 1461
+        },
+        "username": "nonpolar10",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-17T22:10:30.000Z",
+        "description": "",
+        "id": "1636852409577119746",
+        "name": "YouZi",
+        "pinned_tweet_id": "1636868317112684545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050182937501483008/AR6JcM7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 23,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 13
+        },
+        "username": "Cocteau1848",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2059726540548837663",
+    "created_at": "2026-05-27T22:45:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T23:45:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059767956998095057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1942714198762610693",
+          "start": 0,
+          "username": "birdinflow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059767956998095057",
+    "in_reply_to_user_id": "1942714198762610693",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059765743730741444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@birdinflow 非要说的话，“爱”就是意识之中那样一种暂时的无限，自由的特定具象，它使人能从一种有限跃向另一种有限，将差异内化其中，不息地穿梭，而让世界现于其中。\n\n但人终究是有限的，就连死亡也是\n同样(对死亡的想象才是另一种虚假的无限)，永恒则只是另一场骗局。\n\n我喜欢“暂时”，就像从生到死亦是种暂时。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2059726540548837663",
+        "created_at": "2026-05-27T22:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T23:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059767956998095057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942714198762610693",
+              "start": 0,
+              "username": "birdinflow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059767956998095057",
+        "in_reply_to_user_id": "1942714198762610693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059765743730741444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@birdinflow 非要说的话，“爱”就是意识之中那样一种暂时的无限，自由的特定具象，它使人能从一种有限跃向另一种有限，将差异内化其中，不息地穿梭，而让世界现于其中。\n\n但人终究是有限的，就连死亡也是\n同样(对死亡的想象才是另一种虚假的无限)，永恒则只是另一场骗局。\n\n我喜欢“暂时”，就像从生到死亦是种暂时。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942714198762610693",
+        "conversation_id": "2059726540548837663",
+        "created_at": "2026-05-27T22:36:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T23:36:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059765743730741444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1390592139193556992",
+              "start": 0,
+              "username": "nonpolar10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059765743730741444",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059726542612431344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nonpolar10 人是有限的，死亡-无限是一种对有限存在的永恒诱惑，那么或许可以说“人的本质”是“朝向爱的”。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "路过的黑猫，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 278,
+          "like_count": 1928,
+          "listed_count": 2,
+          "media_count": 131,
+          "tweet_count": 1522
+        },
+        "username": "nonpolar10",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-08T22:35:54.000Z",
+        "description": "去爱吧；“总有一天我会回到你身边”",
+        "id": "1942714198762610693",
+        "name": "青鸟",
+        "pinned_tweet_id": "2030402237869039956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942721150867709952/qGrKoSns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 165,
+          "like_count": 2235,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 565
+        },
+        "username": "birdinflow",
+        "verified": false
+      }
+    ]
+  }
+}

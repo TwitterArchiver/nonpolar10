@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2059239939737329723",
+    "created_at": "2026-05-26T14:15:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T15:15:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059277131759374451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1636852409577119746",
+          "start": 0,
+          "username": "Cocteau1848"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059277131759374451",
+    "in_reply_to_user_id": "1390592139193556992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059273685329178988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cocteau1848 我们不由得回想起斯宾诺莎那个陈旧的断言：“一切规定都是否定”，至少它标志出差异的边界。\n\n如果它们不同，那么哪一种才是好的？对自己好的，于某个他者或大家更好的？但如果我们都是平等的，基于有限理性与难以解释之感性冲动而存在着的人，谁又能来进行这个裁断？苍天？还是神迹一样的东西？6/n"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2059239939737329723",
+        "created_at": "2026-05-26T14:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059277131759374451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1636852409577119746",
+              "start": 0,
+              "username": "Cocteau1848"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059277131759374451",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059273685329178988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cocteau1848 我们不由得回想起斯宾诺莎那个陈旧的断言：“一切规定都是否定”，至少它标志出差异的边界。\n\n如果它们不同，那么哪一种才是好的？对自己好的，于某个他者或大家更好的？但如果我们都是平等的，基于有限理性与难以解释之感性冲动而存在着的人，谁又能来进行这个裁断？苍天？还是神迹一样的东西？6/n"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2059239939737329723",
+        "created_at": "2026-05-26T14:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059273685329178988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1636852409577119746",
+              "start": 0,
+              "username": "Cocteau1848"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059273685329178988",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059264021161980402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cocteau1848 而当人在一个涉及他人的伦理场域中为自己的行动作出决定，就是要给一个不存在确切形式的主体间对象（如关系的内涵）添加规定性因素，例如“我认为这样该是好的”，并以此自我要求。\n\n而在关系的另一些末端（第二人称单数，或群体之中复数的单体与小集合），可想而知也发生着同样的事情。\n\n接下来，5/n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "路过的黑猫，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 270,
+          "like_count": 1911,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 1480
+        },
+        "username": "nonpolar10",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-17T22:10:30.000Z",
+        "description": "",
+        "id": "1636852409577119746",
+        "name": "YouZi",
+        "pinned_tweet_id": "1636868317112684545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050182937501483008/AR6JcM7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 33,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 31
+        },
+        "username": "Cocteau1848",
+        "verified": false
+      }
+    ]
+  }
+}

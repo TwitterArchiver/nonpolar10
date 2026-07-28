@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2044657072382607807",
+    "created_at": "2026-05-29T13:59:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T14:59:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060360506775605367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1440268407249649668",
+          "start": 0,
+          "username": "sjshb57"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060360506775605367",
+    "in_reply_to_user_id": "1440268407249649668",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044657072382607807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sjshb57 这个好，本来就是把推特当成随想笔记本一样的东西，但其本身的检索功能做得不好，甚至不如市面上很多开源免费笔记软件。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1358,
+        "media_key": "3_2044657059627737088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGAUwz6bIAA8ylk.jpg",
+        "width": 2135
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2044657072382607807",
+        "created_at": "2026-05-29T13:59:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T14:59:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060360506775605367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1440268407249649668",
+              "start": 0,
+              "username": "sjshb57"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060360506775605367",
+        "in_reply_to_user_id": "1440268407249649668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044657072382607807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sjshb57 这个好，本来就是把推特当成随想笔记本一样的东西，但其本身的检索功能做得不好，甚至不如市面上很多开源免费笔记软件。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044657059627737088"
+          ]
+        },
+        "author_id": "1440268407249649668",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          }
+        ],
+        "conversation_id": "2044657072382607807",
+        "created_at": "2026-04-16T06:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T07:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044657072382607807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3DQCVcGNVL",
+              "end": 158,
+              "expanded_url": "https://x.com/sjshb57/status/2044657072382607807/photo/1",
+              "media_key": "3_2044657059627737088",
+              "start": 135,
+              "url": "https://t.co/3DQCVcGNVL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044657072382607807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 2550,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "［白炽阅读器］正式开发完成\n\n基于 Electron 构建，存档 HTML 由配套爬虫项目采集生成，双击即可离线浏览。\n\n收录截至目前爬取4574条推文，与全部相差1498条，下一个版本更新迭代会补齐所有。\n\n如有bug等问题请直接私信我反馈，如果没有及时回复，致歉。 https://t.co/3DQCVcGNVL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "路过的黑猫🐈‍⬛，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 295,
+          "like_count": 1968,
+          "listed_count": 2,
+          "media_count": 135,
+          "tweet_count": 1557
+        },
+        "username": "nonpolar10",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-21T10:55:42.000Z",
+        "description": "被困在玻璃罐中的千纸鹤，真的可能自由吗？\n - 「全员永生计划」进行中 |  \n组织：https://t.co/zQUuHV5jgl | 互联网时光机 | 影子",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/TwitterArchiver",
+                "end": 66,
+                "expanded_url": "http://github.com/TwitterArchiver",
+                "start": 43,
+                "url": "https://t.co/zQUuHV5jgl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sjshb57",
+                "end": 23,
+                "expanded_url": "https://github.com/sjshb57",
+                "start": 0,
+                "url": "https://t.co/exd5BvIRMs"
+              }
+            ]
+          }
+        },
+        "id": "1440268407249649668",
+        "location": "🌏🌐",
+        "name": "拜託",
+        "pinned_tweet_id": "2059963380421804541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043709113801318400/w2Ah0L0Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 423,
+          "like_count": 603,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 170
+        },
+        "url": "https://t.co/exd5BvIRMs",
+        "username": "sjshb57",
+        "verified": true
+      }
+    ]
+  }
+}

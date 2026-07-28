@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2058929455473852850",
+    "created_at": "2026-05-26T07:01:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T08:01:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059168071877787926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2043756970151211008",
+          "start": 0,
+          "username": "else69761"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059168071877787926",
+    "in_reply_to_user_id": "2043756970151211008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059092315441106965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@else69761 呃……首先，不是“兄弟”。然后，这个就只是普通苯二氮卓类镇定剂，不是止咳片。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2058929455473852850",
+        "created_at": "2026-05-26T07:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T08:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059168071877787926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2043756970151211008",
+              "start": 0,
+              "username": "else69761"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059168071877787926",
+        "in_reply_to_user_id": "2043756970151211008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059092315441106965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@else69761 呃……首先，不是“兄弟”。然后，这个就只是普通苯二氮卓类镇定剂，不是止咳片。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043756970151211008",
+        "conversation_id": "2058929455473852850",
+        "created_at": "2026-05-26T02:00:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T03:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059092315441106965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1390592139193556992",
+              "start": 0,
+              "username": "nonpolar10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059092315441106965",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058929455473852850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nonpolar10 兄弟，这是剩余的小美吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "路过的黑猫，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 268,
+          "like_count": 1910,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 1473
+        },
+        "username": "nonpolar10",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-13T18:23:54.000Z",
+        "description": "嗯，想要抽抽大麻，想要吃策划药什么的，我站在od圈这一边",
+        "id": "2043756970151211008",
+        "location": "安徽省",
+        "name": "else",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054062701526261760/NSLbXR-i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 24,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 207
+        },
+        "username": "else69761",
+        "verified": false
+      }
+    ]
+  }
+}

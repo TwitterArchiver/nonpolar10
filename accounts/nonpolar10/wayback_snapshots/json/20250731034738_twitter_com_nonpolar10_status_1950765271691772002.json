@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "1950765271691772002",
+    "created_at": "2025-07-31T03:47:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T04:47:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950765271691772002"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nonpolar10/sta…",
+          "end": 170,
+          "expanded_url": "https://twitter.com/nonpolar10/status/1950761344225128593",
+          "start": 147,
+          "url": "https://t.co/MBuQ6NzNRH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950765271691772002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950761344225128593",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "按照我们的伦理，如果说人的“思想”就是建造某种通天塔的努力，那么其目的就只能有一个——将它搬回这个有限的此时此地。\n\n也就是要允许它浸透于凡间生活的种种“杂质”之中，并接受“有限性”律法之考验与来自凡间“材料”的修补，最终成为地上的、属人的，而非一个永恒可见却从不可触，如蜃楼海市的天国景观。 https://t.co/MBuQ6NzNRH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1950765271691772002",
+        "created_at": "2025-07-31T03:47:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T04:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950765271691772002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nonpolar10/sta…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/nonpolar10/status/1950761344225128593",
+              "start": 147,
+              "url": "https://t.co/MBuQ6NzNRH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950765271691772002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950761344225128593",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "按照我们的伦理，如果说人的“思想”就是建造某种通天塔的努力，那么其目的就只能有一个——将它搬回这个有限的此时此地。\n\n也就是要允许它浸透于凡间生活的种种“杂质”之中，并接受“有限性”律法之考验与来自凡间“材料”的修补，最终成为地上的、属人的，而非一个永恒可见却从不可触，如蜃楼海市的天国景观。 https://t.co/MBuQ6NzNRH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1950761344225128593",
+        "created_at": "2025-07-31T03:32:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T04:32:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950761344225128593"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1950761344225128593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "于是人们将“爱”作为一种超越性的标的加以呼唤。\n\n但很遗憾，或许任何超越性，从一开始都是有限世界中矛盾的体现，而不是其解决，即一种“天国想象”。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 301,
+          "like_count": 1723,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 1366
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

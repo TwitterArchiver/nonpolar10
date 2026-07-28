@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2059239939737329723",
+    "created_at": "2026-05-26T16:34:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T17:34:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059312350071763319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1636852409577119746",
+          "start": 0,
+          "username": "Cocteau1848"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059312350071763319",
+    "in_reply_to_user_id": "1390592139193556992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059301918628020535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cocteau1848 (返回6) 无论是什么给出了决断还是以何种方式抵达了共识，但在这种存在主义的理论中，人只有自知地将自己推向未来，以行动扬弃附着于自身的“本质”——人的处境一直在变化，认知总是不停更新，对自身的表述还有所欲望的内容有时也会随之改变（不清楚是否该说是悲哀，但暂且把它作为一种准现实来陈述）11/n"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2059239939737329723",
+        "created_at": "2026-05-26T16:34:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T17:34:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059312350071763319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1636852409577119746",
+              "start": 0,
+              "username": "Cocteau1848"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059312350071763319",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059301918628020535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cocteau1848 (返回6) 无论是什么给出了决断还是以何种方式抵达了共识，但在这种存在主义的理论中，人只有自知地将自己推向未来，以行动扬弃附着于自身的“本质”——人的处境一直在变化，认知总是不停更新，对自身的表述还有所欲望的内容有时也会随之改变（不清楚是否该说是悲哀，但暂且把它作为一种准现实来陈述）11/n"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2059239939737329723",
+        "created_at": "2026-05-26T15:53:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:53:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059301918628020535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1636852409577119746",
+              "start": 0,
+              "username": "Cocteau1848"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059301918628020535",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059294029289013327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cocteau1848 就在这样悲哀的境况下，人无可推脱地要承担起表述自身的责任，即便我们假定它们总是真诚的，却也常因不够适切，甚至有时南辕北辙而成为“错误”。“错误”造成他人理解的失谐，从而有时成为“谎言”，我们有限的世界就是由这样大大小小，无意或有心的谎言构成，而精心准备的谎言有时比真话反映更多真实。10/n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "路过的黑猫，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 270,
+          "like_count": 1912,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 1488
+        },
+        "username": "nonpolar10",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-17T22:10:30.000Z",
+        "description": "",
+        "id": "1636852409577119746",
+        "name": "YouZi",
+        "pinned_tweet_id": "1636868317112684545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050182937501483008/AR6JcM7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 33,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 32
+        },
+        "username": "Cocteau1848",
+        "verified": false
+      }
+    ]
+  }
+}

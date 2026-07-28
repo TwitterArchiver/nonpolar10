@@ -1,0 +1,160 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "1806033281965805750",
+    "created_at": "2024-06-26T18:34:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-26T19:34:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1806033281965805750"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nonpolar10/sta…",
+          "end": 100,
+          "expanded_url": "https://twitter.com/nonpolar10/status/1806020835528036832",
+          "start": 77,
+          "url": "https://t.co/Fsij5nhFPd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806033281965805750",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806020835528036832",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "In other words, the most luxurious and invaluable question at the same time. https://t.co/Fsij5nhFPd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1806033281965805750",
+        "created_at": "2024-06-26T18:34:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T19:34:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1806033281965805750"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nonpolar10/sta…",
+              "end": 100,
+              "expanded_url": "https://twitter.com/nonpolar10/status/1806020835528036832",
+              "start": 77,
+              "url": "https://t.co/Fsij5nhFPd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806033281965805750",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806020835528036832",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "In other words, the most luxurious and invaluable question at the same time. https://t.co/Fsij5nhFPd"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1806020826959171584"
+          ]
+        },
+        "author_id": "1390592139193556992",
+        "conversation_id": "1806020835528036832",
+        "created_at": "2024-06-26T17:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T18:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1806020835528036832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/5O4rvY4m5G",
+              "end": 98,
+              "expanded_url": "https://twitter.com/nonpolar10/status/1806020835528036832/photo/1",
+              "media_key": "3_1806020826959171584",
+              "start": 75,
+              "url": "https://t.co/5O4rvY4m5G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806020835528036832",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "To be, or not to be, that should be the most boring question from then on. https://t.co/5O4rvY4m5G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "Die Toteninsle/边界的宽度",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770748175294300160/fx_fSZEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 320,
+          "like_count": 1599,
+          "listed_count": 1,
+          "tweet_count": 1280
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

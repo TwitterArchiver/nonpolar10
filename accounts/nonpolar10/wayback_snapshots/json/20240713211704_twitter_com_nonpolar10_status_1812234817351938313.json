@@ -1,0 +1,148 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1812234718076710912"
+      ]
+    },
+    "author_id": "1390592139193556992",
+    "conversation_id": "1812234817351938313",
+    "created_at": "2024-07-13T21:17:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-13T22:17:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1812234817351938313"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/Z7H0OTzzqg",
+          "end": 25,
+          "expanded_url": "https://twitter.com/nonpolar10/status/1812234817351938313/video/1",
+          "media_key": "7_1812234718076710912",
+          "start": 2,
+          "url": "https://t.co/Z7H0OTzzqg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812234817351938313",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "淡 https://t.co/Z7H0OTzzqg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 40386,
+        "height": 720,
+        "media_key": "7_1812234718076710912",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1812234718076710912/pu/img/q4_gd3i1ldap-5S1.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1812234718076710912/pu/vid/avc1/480x270/d_dZTKdzxMRsRlWh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1812234718076710912/pu/vid/avc1/640x360/LE5_SC4baqomqbKP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1812234718076710912/pu/vid/avc1/1280x720/eXnGAOHG7Yoy_k2B.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1812234718076710912/pu/pl/1z96nEm3YbrdmDk6.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1812234718076710912"
+          ]
+        },
+        "author_id": "1390592139193556992",
+        "conversation_id": "1812234817351938313",
+        "created_at": "2024-07-13T21:17:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T22:17:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1812234817351938313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Z7H0OTzzqg",
+              "end": 25,
+              "expanded_url": "https://twitter.com/nonpolar10/status/1812234817351938313/video/1",
+              "media_key": "7_1812234718076710912",
+              "start": 2,
+              "url": "https://t.co/Z7H0OTzzqg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812234817351938313",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "淡 https://t.co/Z7H0OTzzqg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "Die Toteninsle/边界的宽度",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770748175294300160/fx_fSZEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 323,
+          "like_count": 1664,
+          "listed_count": 1,
+          "tweet_count": 1300
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

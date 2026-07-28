@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2059239939737329723",
+    "created_at": "2026-05-26T18:16:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T19:16:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059337862479483185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1523552276119711745",
+          "start": 0,
+          "username": "DeorctheOrigin"
+        },
+        {
+          "end": 28,
+          "id": "1636852409577119746",
+          "start": 16,
+          "username": "Cocteau1848"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059337862479483185",
+    "in_reply_to_user_id": "1523552276119711745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059336257403260958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DeorctheOrigin @Cocteau1848 是的，我毫不怀疑许多心理与精神问题就是在这种被隐化的链路中抵达的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2059239939737329723",
+        "created_at": "2026-05-26T18:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T19:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059337862479483185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1523552276119711745",
+              "start": 0,
+              "username": "DeorctheOrigin"
+            },
+            {
+              "end": 28,
+              "id": "1636852409577119746",
+              "start": 16,
+              "username": "Cocteau1848"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059337862479483185",
+        "in_reply_to_user_id": "1523552276119711745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059336257403260958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DeorctheOrigin @Cocteau1848 是的，我毫不怀疑许多心理与精神问题就是在这种被隐化的链路中抵达的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1523552276119711745",
+        "conversation_id": "2059239939737329723",
+        "created_at": "2026-05-26T18:09:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T19:09:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059336257403260958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1390592139193556992",
+              "start": 0,
+              "username": "nonpolar10"
+            },
+            {
+              "end": 24,
+              "id": "1636852409577119746",
+              "start": 12,
+              "username": "Cocteau1848"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059336257403260958",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059334545053544553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nonpolar10 @Cocteau1848 而且，遗忘并不意味着避免责任。\n责任和Karma仍然会来，只是来的形式看起来和自己无关了。但它带来的痛苦不取决于它是否被认领。\n于是自欺变成了自我闭环，面对Karma也需要自欺。自欺成为了看起来的万能解，成为了实质上的*对自我的解*-虚无感，空洞感，都是被这看似万能钥匙的自我消解长期侵蚀的结果"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "路过的黑猫，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 270,
+          "like_count": 1916,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 1496
+        },
+        "username": "nonpolar10",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-09T06:35:57.000Z",
+        "description": "Dark Ambience & Nature's Lover. Medival & Victoria Gothicism. Anti-anthropocentrism. Cure Seeker. Empath/HSP but ASD. Median. She/Her. Safe here🏳️‍⚧️🏳️‍🌈.",
+        "id": "1523552276119711745",
+        "name": "{{the Original Star}}",
+        "pinned_tweet_id": "1914168147600687604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880614058904416256/rjD4Reyf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 341,
+          "like_count": 65798,
+          "listed_count": 2,
+          "media_count": 707,
+          "tweet_count": 19359
+        },
+        "username": "DeorctheOrigin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-17T22:10:30.000Z",
+        "description": "",
+        "id": "1636852409577119746",
+        "name": "YouZi",
+        "pinned_tweet_id": "1636868317112684545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050182937501483008/AR6JcM7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 34,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 32
+        },
+        "username": "Cocteau1848",
+        "verified": false
+      }
+    ]
+  }
+}

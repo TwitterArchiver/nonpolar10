@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "1931195130347680013",
+    "created_at": "2025-06-07T03:42:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T04:42:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1931195130347680013"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1931195130347680013",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "从未反对动物保护，不过，为什么首先是动物权利，而不是其他困苦人类的权利？\n\n个人的一种阴暗揣测是，因为动物没有能力为人除权，而其他人类有，于此，前者事实上成为了一种审美活动。\n\n动物作为一种“自然的”艺术品，在“自然的”、“情感的”维度映照人类审美者自身，那么，说到底是一种固化的自恋形式。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1931195130347680013",
+        "created_at": "2025-06-07T03:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T04:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931195130347680013"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1931195130347680013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从未反对动物保护，不过，为什么首先是动物权利，而不是其他困苦人类的权利？\n\n个人的一种阴暗揣测是，因为动物没有能力为人除权，而其他人类有，于此，前者事实上成为了一种审美活动。\n\n动物作为一种“自然的”艺术品，在“自然的”、“情感的”维度映照人类审美者自身，那么，说到底是一种固化的自恋形式。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 312,
+          "like_count": 1730,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 1330
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

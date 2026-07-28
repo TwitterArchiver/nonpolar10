@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2059239939737329723",
+    "created_at": "2026-05-26T17:42:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T18:42:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059329307336687861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1523552276119711745",
+          "start": 0,
+          "username": "DeorctheOrigin"
+        },
+        {
+          "end": 28,
+          "id": "1636852409577119746",
+          "start": 16,
+          "username": "Cocteau1848"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059329307336687861",
+    "in_reply_to_user_id": "1523552276119711745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059328938397315508",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DeorctheOrigin @Cocteau1848 这样便进入“自欺”式的存在之中了，该说不说，波伏娃在《第二性》中进行的一部分批判就是按照这个逻辑走下来的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2059239939737329723",
+        "created_at": "2026-05-26T17:42:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T18:42:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059329307336687861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1523552276119711745",
+              "start": 0,
+              "username": "DeorctheOrigin"
+            },
+            {
+              "end": 28,
+              "id": "1636852409577119746",
+              "start": 16,
+              "username": "Cocteau1848"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059329307336687861",
+        "in_reply_to_user_id": "1523552276119711745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059328938397315508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DeorctheOrigin @Cocteau1848 这样便进入“自欺”式的存在之中了，该说不说，波伏娃在《第二性》中进行的一部分批判就是按照这个逻辑走下来的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1523552276119711745",
+        "conversation_id": "2059239939737329723",
+        "created_at": "2026-05-26T17:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T18:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059328938397315508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1390592139193556992",
+              "start": 0,
+              "username": "nonpolar10"
+            },
+            {
+              "end": 24,
+              "id": "1636852409577119746",
+              "start": 12,
+              "username": "Cocteau1848"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059328938397315508",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059242718543667518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nonpolar10 @Cocteau1848 很多时候比起被凝视被客体化，从想象中暴露出来触摸现实，对一些人来说更痛苦，更像真正的地狱。\n所以他们宁可用被客体化的小恶来避免更无法承受的痛苦。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "路过的黑猫，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 270,
+          "like_count": 1915,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 1491
+        },
+        "username": "nonpolar10",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-09T06:35:57.000Z",
+        "description": "Dark Ambience & Nature's Lover. Medival & Victoria Gothicism. Anti-anthropocentrism. Cure Seeker. Empath/HSP but ASD. Median. She/Her. Safe here🏳️‍⚧️🏳️‍🌈.",
+        "id": "1523552276119711745",
+        "name": "{{the Original Star}}",
+        "pinned_tweet_id": "1914168147600687604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880614058904416256/rjD4Reyf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 341,
+          "like_count": 65796,
+          "listed_count": 2,
+          "media_count": 707,
+          "tweet_count": 19354
+        },
+        "username": "DeorctheOrigin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-17T22:10:30.000Z",
+        "description": "",
+        "id": "1636852409577119746",
+        "name": "YouZi",
+        "pinned_tweet_id": "1636868317112684545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050182937501483008/AR6JcM7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 33,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 32
+        },
+        "username": "Cocteau1848",
+        "verified": false
+      }
+    ]
+  }
+}

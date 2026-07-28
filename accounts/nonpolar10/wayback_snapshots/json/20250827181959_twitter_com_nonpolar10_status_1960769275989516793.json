@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "1960769275989516793",
+    "created_at": "2025-08-27T18:19:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T19:19:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960769275989516793"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1960769275989516793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这旅程要去往何处？轻舟摇晃。“正在认知的人囿于时代……”\n“正相反，维吉尔，他把时代握在了自己的手中。”\n\n哦，此刻改变的正是认识，时而犹豫不决，时而停滞不前，等待之后像瀑布一样疾速倾泻。存在者的认识，笼罩了所有存在者, 世界那认识的罗网，规定了人类必须相信的东西。/4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1960769275989516793",
+        "created_at": "2025-08-27T18:19:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T19:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960769275989516793"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960769275989516793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这旅程要去往何处？轻舟摇晃。“正在认知的人囿于时代……”\n“正相反，维吉尔，他把时代握在了自己的手中。”\n\n哦，此刻改变的正是认识，时而犹豫不决，时而停滞不前，等待之后像瀑布一样疾速倾泻。存在者的认识，笼罩了所有存在者, 世界那认识的罗网，规定了人类必须相信的东西。/4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 266,
+          "like_count": 1720,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 1397
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

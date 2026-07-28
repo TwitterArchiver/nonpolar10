@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2055891996317991269",
+    "created_at": "2026-05-22T05:53:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T06:53:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057701261810733482"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2057701261810733482",
+    "in_reply_to_user_id": "1390592139193556992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055891996317991269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这些声音更接近一种使差异得以被表征的线索，统摄起我对一个个自身表象系列的理解，包含着相异的情态，甚至对身体功能的调度。\n\n例如像是预先组织起那些肌群，从而给定了我讲话时最合乎直觉的发音；还有各种感官，最显著的是嗅觉，只有特定的时候才抵达一种堪用的敏锐，也总是伴随着特定的心境与声音。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2055891996317991269",
+        "created_at": "2026-05-22T05:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T06:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057701261810733482"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057701261810733482",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055891996317991269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这些声音更接近一种使差异得以被表征的线索，统摄起我对一个个自身表象系列的理解，包含着相异的情态，甚至对身体功能的调度。\n\n例如像是预先组织起那些肌群，从而给定了我讲话时最合乎直觉的发音；还有各种感官，最显著的是嗅觉，只有特定的时候才抵达一种堪用的敏锐，也总是伴随着特定的心境与声音。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2055891996317991269",
+        "created_at": "2026-05-17T06:03:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T07:03:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055891996317991269"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055891996317991269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 168,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "脑海中有许多不同的“内在声音”，不同的音色、音高与节奏感，就像是不同的人在其中讲话，最近才后知后觉地发现，它们就是我语言中“自己”的所指。\n\n有一些声音能够在它出现的时候独占我的意识，有一些声音能够与其他声音共存乃至融合，而另有一些声音则像是不服从意志的强力，更多与经验性的存在相绑定。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOIC.",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 261,
+          "like_count": 1863,
+          "listed_count": 2,
+          "media_count": 129,
+          "tweet_count": 1451
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

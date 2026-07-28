@@ -1,0 +1,112 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "1809149803294835169",
+    "created_at": "2024-07-05T08:58:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-05T09:58:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1809149803294835169"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "归根结底，一个无聊的同时代人。",
+          "display_url": "x.com/contemporadiow…",
+          "end": 156,
+          "expanded_url": "https://x.com/contemporadiow?s=09",
+          "start": 133,
+          "status": 200,
+          "title": "电波中继 (@contemporadiow) on X",
+          "unwound_url": "https://x.com/contemporadiow?s=09",
+          "url": "https://t.co/9TOjeg1XIa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809149803294835169",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一个新号（隔离容器），会在这边放一些或许值得一看的转载文章以及自己写的东西。\n\n⚠️：纯政治和历史研究推\n⚠️：立场亲共（但不亲建制）\n\n近期会陆续发布的是一些关于法西斯主义和二十世纪德国的业余考察，属于是看一乐的水平，但有兴趣的话可以点个关注，或合作来完成它们。\nhttps://t.co/9TOjeg1XIa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1809149803294835169",
+        "created_at": "2024-07-05T08:58:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-05T09:58:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1809149803294835169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "归根结底，一个无聊的同时代人。",
+              "display_url": "x.com/contemporadiow…",
+              "end": 156,
+              "expanded_url": "https://x.com/contemporadiow?s=09",
+              "start": 133,
+              "status": 200,
+              "title": "电波中继 (@contemporadiow) on X",
+              "unwound_url": "https://x.com/contemporadiow?s=09",
+              "url": "https://t.co/9TOjeg1XIa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809149803294835169",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个新号（隔离容器），会在这边放一些或许值得一看的转载文章以及自己写的东西。\n\n⚠️：纯政治和历史研究推\n⚠️：立场亲共（但不亲建制）\n\n近期会陆续发布的是一些关于法西斯主义和二十世纪德国的业余考察，属于是看一乐的水平，但有兴趣的话可以点个关注，或合作来完成它们。\nhttps://t.co/9TOjeg1XIa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "Die Toteninsle/边界的宽度",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770748175294300160/fx_fSZEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 323,
+          "like_count": 1639,
+          "listed_count": 1,
+          "tweet_count": 1288
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

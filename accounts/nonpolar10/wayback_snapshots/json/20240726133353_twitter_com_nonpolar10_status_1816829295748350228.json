@@ -1,0 +1,161 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "1816829295748350228",
+    "created_at": "2024-07-26T13:33:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-26T14:33:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1816829295748350228"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nonpolar10/sta…",
+          "end": 165,
+          "expanded_url": "https://twitter.com/nonpolar10/status/1816819930295337211",
+          "start": 142,
+          "url": "https://t.co/gyvJQS43UU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816829295748350228",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816819930295337211",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "必须强调的是，人的社会关系实际上是也决然是一种物质现实，只因为在思维中被对象化，其物质性才因找不到单一实体存在而受到质疑。\n\n但既然语言或非语言性的概念、摹仿、重构的图示也都是现实的，其很有可能就是前者的具体形式，离散地存在于遭到隔离又可相互干涉的神经系统和被编码并流通的媒介之中。 https://t.co/gyvJQS43UU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1816829295748350228",
+        "created_at": "2024-07-26T13:33:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T14:33:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816829295748350228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nonpolar10/sta…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/nonpolar10/status/1816819930295337211",
+              "start": 142,
+              "url": "https://t.co/gyvJQS43UU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816829295748350228",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816819930295337211",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "必须强调的是，人的社会关系实际上是也决然是一种物质现实，只因为在思维中被对象化，其物质性才因找不到单一实体存在而受到质疑。\n\n但既然语言或非语言性的概念、摹仿、重构的图示也都是现实的，其很有可能就是前者的具体形式，离散地存在于遭到隔离又可相互干涉的神经系统和被编码并流通的媒介之中。 https://t.co/gyvJQS43UU"
+      },
+      {
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1816819930295337211",
+        "created_at": "2024-07-26T12:56:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T13:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816819930295337211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nonpolar10/sta…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/nonpolar10/status/1815394970087342536",
+              "start": 143,
+              "url": "https://t.co/T5F4UHDUZH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816819930295337211",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815394970087342536",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最后一句中「真实」其实是在说“同是物质性的”，在内感受之物质基础层面，二者都是神经系统在一定背景和历史下运行的效果。\n\n对前者，在某具体事件之前，它只根植且隐现于图示、概念和语言的空间，于是，他者很难直接确认其为一种存在；而后者，物质及摄入的动作，都可被他者的自然感官直接捕获为对象。 https://t.co/T5F4UHDUZH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "Die Toteninsle/边界的宽度",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770748175294300160/fx_fSZEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 326,
+          "like_count": 1705,
+          "listed_count": 1,
+          "tweet_count": 1304
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

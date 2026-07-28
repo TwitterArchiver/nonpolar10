@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "1949780278257602991",
+    "created_at": "2025-07-28T10:33:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T11:33:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949780278257602991"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1949780278257602991",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "始终认为“自杀”是不可能构成报复的，因为除非对方真正在意，它就不可能构成一种“伤害”。\n\n而一旦认为对方真正在意，那么自戕作为一种报复，其初衷就会动摇。\n\n事实上，此时它就变成了要去惩罚「一种具体的有限性」，即无论自己或他人，作为被现实俘获的生物，想要却没能跨越的东西。\n\n仍然是在呼唤爱。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1949780278257602991",
+        "created_at": "2025-07-28T10:33:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T11:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949780278257602991"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949780278257602991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "始终认为“自杀”是不可能构成报复的，因为除非对方真正在意，它就不可能构成一种“伤害”。\n\n而一旦认为对方真正在意，那么自戕作为一种报复，其初衷就会动摇。\n\n事实上，此时它就变成了要去惩罚「一种具体的有限性」，即无论自己或他人，作为被现实俘获的生物，想要却没能跨越的东西。\n\n仍然是在呼唤爱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 304,
+          "like_count": 1729,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 1363
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

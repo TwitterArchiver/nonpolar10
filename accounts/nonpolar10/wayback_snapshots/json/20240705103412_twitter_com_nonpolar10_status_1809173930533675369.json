@@ -1,0 +1,235 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1808931300075786241"
+      ],
+      "media_source_tweet_id": [
+        "1808931302827020734"
+      ]
+    },
+    "author_id": "1390592139193556992",
+    "conversation_id": "1809173930533675369",
+    "created_at": "2024-07-05T10:34:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-05T11:34:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1809173930533675369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "36889519",
+          "start": 3,
+          "username": "RaminNasibov"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/crh2h7Eksq",
+          "end": 41,
+          "expanded_url": "https://twitter.com/RaminNasibov/status/1808931302827020734/photo/1",
+          "media_key": "3_1808931300075786241",
+          "start": 18,
+          "url": "https://t.co/crh2h7Eksq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809173930533675369",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 251
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808931302827020734",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RaminNasibov: https://t.co/crh2h7Eksq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1808931300075786241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GRqdbuwaUAE--V6.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1808931300075786241"
+          ],
+          "media_source_tweet_id": [
+            "1808931302827020734"
+          ]
+        },
+        "author_id": "1390592139193556992",
+        "conversation_id": "1809173930533675369",
+        "created_at": "2024-07-05T10:34:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-05T11:34:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809173930533675369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "36889519",
+              "start": 3,
+              "username": "RaminNasibov"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/crh2h7Eksq",
+              "end": 41,
+              "expanded_url": "https://twitter.com/RaminNasibov/status/1808931302827020734/photo/1",
+              "media_key": "3_1808931300075786241",
+              "start": 18,
+              "url": "https://t.co/crh2h7Eksq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809173930533675369",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 251
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808931302827020734",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RaminNasibov: https://t.co/crh2h7Eksq"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1808931300075786241"
+          ]
+        },
+        "author_id": "36889519",
+        "conversation_id": "1808931302827020734",
+        "created_at": "2024-07-04T18:30:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T19:30:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808931302827020734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/crh2h7Eksq",
+              "end": 23,
+              "expanded_url": "https://twitter.com/RaminNasibov/status/1808931302827020734/photo/1",
+              "media_key": "3_1808931300075786241",
+              "start": 0,
+              "url": "https://t.co/crh2h7Eksq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808931302827020734",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 46005,
+          "like_count": 1392,
+          "quote_count": 4,
+          "reply_count": 3,
+          "retweet_count": 251
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/crh2h7Eksq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "Die Toteninsle/边界的宽度",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770748175294300160/fx_fSZEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 323,
+          "like_count": 1646,
+          "listed_count": 1,
+          "tweet_count": 1289
+        },
+        "username": "nonpolar10",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-01T05:13:30.000Z",
+        "description": "Designer 🎨 E-Mail: ramin@nasibov.me",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nasibov.me",
+                "end": 23,
+                "expanded_url": "https://www.nasibov.me",
+                "start": 0,
+                "url": "https://t.co/iCqDSJzjlc"
+              }
+            ]
+          }
+        },
+        "id": "36889519",
+        "location": "Metaverse",
+        "name": "Ramin Nasibov",
+        "pinned_tweet_id": "1808186280502550720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779874423719227392/us7m3cZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772572,
+          "following_count": 70287,
+          "like_count": 950700,
+          "listed_count": 3607,
+          "tweet_count": 57561
+        },
+        "url": "https://t.co/iCqDSJzjlc",
+        "username": "RaminNasibov",
+        "verified": true
+      }
+    ]
+  }
+}

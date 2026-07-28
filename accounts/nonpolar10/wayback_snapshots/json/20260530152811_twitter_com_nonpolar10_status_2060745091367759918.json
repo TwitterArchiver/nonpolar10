@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2060745091367759918",
+    "created_at": "2026-05-30T15:28:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T16:28:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060745091367759918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1390592139193556992",
+          "start": 3,
+          "username": "nonpolar10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060745091367759918",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1784660622229270595",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nonpolar10: 在另一个意义上，我们会说，“病态”并不是“正常”的反义，不等于一种“生理的失能”，或者当我们以生理学的名义将“正常”的状态参数化，此二者并不是在每个变量上有不同的表征值那样简单。事实上，病理学同时是生理学的开端与其在给定条件下所能抵达的的稳态边界…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 773,
+        "media_key": "3_1784660611240243200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GMRjXtGbMAAy_8_.png",
+        "width": 709
+      },
+      {
+        "height": 1016,
+        "media_key": "3_1784660611303079936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GMRjXtVaAAAi9Mz.png",
+        "width": 723
+      },
+      {
+        "height": 1055,
+        "media_key": "3_1784660612104273921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GMRjXwUbQAE8zDp.jpg",
+        "width": 528
+      },
+      {
+        "height": 1043,
+        "media_key": "3_1784660594928517120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GMRjWwVaAAA80s6.png",
+        "width": 654
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2060745091367759918",
+        "created_at": "2026-05-30T15:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T16:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060745091367759918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390592139193556992",
+              "start": 3,
+              "username": "nonpolar10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060745091367759918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1784660622229270595",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nonpolar10: 在另一个意义上，我们会说，“病态”并不是“正常”的反义，不等于一种“生理的失能”，或者当我们以生理学的名义将“正常”的状态参数化，此二者并不是在每个变量上有不同的表征值那样简单。事实上，病理学同时是生理学的开端与其在给定条件下所能抵达的的稳态边界…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1784660611240243200",
+            "3_1784660611303079936",
+            "3_1784660612104273921",
+            "3_1784660594928517120"
+          ]
+        },
+        "author_id": "1390592139193556992",
+        "conversation_id": "1784660622229270595",
+        "created_at": "2024-04-28T19:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-04-28T20:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1784660622229270595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xVerQNmMJZ",
+              "end": 168,
+              "expanded_url": "https://x.com/nonpolar10/status/1784660622229270595/photo/1",
+              "media_key": "3_1784660611240243200",
+              "start": 145,
+              "url": "https://t.co/xVerQNmMJZ"
+            },
+            {
+              "display_url": "pic.x.com/xVerQNmMJZ",
+              "end": 168,
+              "expanded_url": "https://x.com/nonpolar10/status/1784660622229270595/photo/1",
+              "media_key": "3_1784660611303079936",
+              "start": 145,
+              "url": "https://t.co/xVerQNmMJZ"
+            },
+            {
+              "display_url": "pic.x.com/xVerQNmMJZ",
+              "end": 168,
+              "expanded_url": "https://x.com/nonpolar10/status/1784660622229270595/photo/1",
+              "media_key": "3_1784660612104273921",
+              "start": 145,
+              "url": "https://t.co/xVerQNmMJZ"
+            },
+            {
+              "display_url": "pic.x.com/xVerQNmMJZ",
+              "end": 168,
+              "expanded_url": "https://x.com/nonpolar10/status/1784660622229270595/photo/1",
+              "media_key": "3_1784660594928517120",
+              "start": 145,
+              "url": "https://t.co/xVerQNmMJZ"
+            },
+            {
+              "display_url": "x.com/nonpolar10/sta…",
+              "end": 192,
+              "expanded_url": "https://twitter.com/nonpolar10/status/1784642126393090517",
+              "start": 169,
+              "url": "https://t.co/zKYAzB91gJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1784660622229270595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 168,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1784642126393090517",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在另一个意义上，我们会说，“病态”并不是“正常”的反义，不等于一种“生理的失能”，或者当我们以生理学的名义将“正常”的状态参数化，此二者并不是在每个变量上有不同的表征值那样简单。事实上，病理学同时是生理学的开端与其在给定条件下所能抵达的的稳态边界，须回忆起的是，病痛的出现早于医治的努力。 https://t.co/xVerQNmMJZ https://t.co/zKYAzB91gJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "路过的黑猫🐈‍⬛，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 296,
+          "like_count": 1996,
+          "listed_count": 2,
+          "media_count": 135,
+          "tweet_count": 1567
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "1827213353590362395",
+    "created_at": "2024-08-24T05:16:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-24T06:16:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1827213353590362395"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1827213353590362395",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "学来的笑容不属于我，算了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1827213353590362395",
+        "created_at": "2024-08-24T05:16:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-24T06:16:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1827213353590362395"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1827213353590362395",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "学来的笑容不属于我，算了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "Die Toteninsle/边界的宽度",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770748175294300160/fx_fSZEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 328,
+          "like_count": 1740,
+          "listed_count": 1,
+          "tweet_count": 1314
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "1938494131103535317",
+    "created_at": "2025-06-27T07:06:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T08:06:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1938494131103535317"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nonpolar10/sta…",
+          "end": 165,
+          "expanded_url": "https://twitter.com/nonpolar10/status/1937928879248965643",
+          "start": 142,
+          "url": "https://t.co/in7IIEGfnv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938494131103535317",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937928879248965643",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "于是，基于理性规定的等级制实际上也是感受的等级制，思考语境的等级制，经验的等级制。\n\n理性主义是理性主义者的自我美化，就像一种抽象的自由之于部分自由主义者，是一种对真实出发点与回归处的掩蔽。\n\n然其本身却未必有这样的自觉，自欺也可以是侵略性的，「无知」如是狡猾地克服了其内在的失谐。 https://t.co/in7IIEGfnv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1938494131103535317",
+        "created_at": "2025-06-27T07:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T08:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938494131103535317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nonpolar10/sta…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/nonpolar10/status/1937928879248965643",
+              "start": 142,
+              "url": "https://t.co/in7IIEGfnv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938494131103535317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937928879248965643",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "于是，基于理性规定的等级制实际上也是感受的等级制，思考语境的等级制，经验的等级制。\n\n理性主义是理性主义者的自我美化，就像一种抽象的自由之于部分自由主义者，是一种对真实出发点与回归处的掩蔽。\n\n然其本身却未必有这样的自觉，自欺也可以是侵略性的，「无知」如是狡猾地克服了其内在的失谐。 https://t.co/in7IIEGfnv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1937928879248965643",
+        "created_at": "2025-06-25T17:40:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T18:40:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937928879248965643"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1937928879248965643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人类社会依赖交流而被组织，于是语言世界规定了感受世界的虚拟地位，概念作为统一化的容器隐匿了感受本身的差异，而这也是相同概念实际上彼此相异的原理。\n\n不存在规定所有差异于是统摄意义世界的“逻各斯”，语言或概念作为一种创造，并未实现对感受的单纯超越，而是基于这种“代理统治”深刻依赖着感受。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 310,
+          "like_count": 1729,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 1348
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

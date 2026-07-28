@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "1827240110607290645",
+    "created_at": "2024-08-24T07:02:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-24T08:02:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1827240110607290645"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nonpolar10/sta…",
+          "end": 166,
+          "expanded_url": "https://twitter.com/nonpolar10/status/1827231256670826816",
+          "start": 143,
+          "url": "https://t.co/CtcEIkkamj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827240110607290645",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827231256670826816",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "也正因如此，所有行动才都是充分有责任的，毫不无辜的。\n\n本可以死，但是没有执行那个去死的动作，因此所有行动才都是自由的，但自由不是目的，而是前提。\n\n这一切似乎始于数年前的某个晚上纠结于所谓活下去的理由时，惊愕地发现去死也同样没有理由，否则，所有考量和行动都将成为某种纯粹投机的举动。 https://t.co/CtcEIkkamj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1827240110607290645",
+        "created_at": "2024-08-24T07:02:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-24T08:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1827240110607290645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nonpolar10/sta…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/nonpolar10/status/1827231256670826816",
+              "start": 143,
+              "url": "https://t.co/CtcEIkkamj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827240110607290645",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827231256670826816",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "也正因如此，所有行动才都是充分有责任的，毫不无辜的。\n\n本可以死，但是没有执行那个去死的动作，因此所有行动才都是自由的，但自由不是目的，而是前提。\n\n这一切似乎始于数年前的某个晚上纠结于所谓活下去的理由时，惊愕地发现去死也同样没有理由，否则，所有考量和行动都将成为某种纯粹投机的举动。 https://t.co/CtcEIkkamj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1827231256670826816",
+        "created_at": "2024-08-24T06:27:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-24T07:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1827231256670826816"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1827231256670826816",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一度决绝地想要彻底遗忘并远离，而实际上却没怎么变化的那部分经验是，必须确认依然有能力决定自己的死亡，并且使之不受任何阻碍地实现，唯有这一点，使得活下去作为一个动作成为可能。\n\n与过去不同的地方在于体验途径的变迁，而这只让它的引力更加无法抗拒，“解脱”的意味也更加有现实感。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "Die Toteninsle/边界的宽度",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770748175294300160/fx_fSZEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 328,
+          "like_count": 1740,
+          "listed_count": 1,
+          "tweet_count": 1316
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

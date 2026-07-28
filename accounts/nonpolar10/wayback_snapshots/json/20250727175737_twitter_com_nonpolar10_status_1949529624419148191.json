@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "1949529624419148191",
+    "created_at": "2025-07-27T17:57:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T18:57:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949529624419148191"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1949529624419148191",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "才刚刚开始。\n一些不受控的苏生。\n只是一些更剧烈体验的前奏。\n我不想，不敢，或其实人也无法“回去”。\n\n人能把握的只有不停消逝的当下而已，它们没有“成为”过去，或者说，不是“当下成为过去”。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1949529624419148191",
+        "created_at": "2025-07-27T17:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T18:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949529624419148191"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949529624419148191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "才刚刚开始。\n一些不受控的苏生。\n只是一些更剧烈体验的前奏。\n我不想，不敢，或其实人也无法“回去”。\n\n人能把握的只有不停消逝的当下而已，它们没有“成为”过去，或者说，不是“当下成为过去”。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 304,
+          "like_count": 1729,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 1357
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

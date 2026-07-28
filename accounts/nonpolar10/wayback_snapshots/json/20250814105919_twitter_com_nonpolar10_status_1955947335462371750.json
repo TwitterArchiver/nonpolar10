@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "1955947335462371750",
+    "created_at": "2025-08-14T10:59:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T11:59:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1955947335462371750"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1955947335462371750",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "死亡既不苦涩也不甜蜜，\n没有恐惧，没有欣喜，于是没有震颤。\n\n所有可能性的耗竭，或一种彻底的疲劳。\n一个与当下彻底无关的终点，\n它成为了一种非体验，被驱逐出想象的场域，\n限定在这个不可理解的物质世界，\n就像是，机体功能的停止，或者生理秩序的消亡，\n我都不太有能力干预。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1955947335462371750",
+        "created_at": "2025-08-14T10:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T11:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955947335462371750"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955947335462371750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "死亡既不苦涩也不甜蜜，\n没有恐惧，没有欣喜，于是没有震颤。\n\n所有可能性的耗竭，或一种彻底的疲劳。\n一个与当下彻底无关的终点，\n它成为了一种非体验，被驱逐出想象的场域，\n限定在这个不可理解的物质世界，\n就像是，机体功能的停止，或者生理秩序的消亡，\n我都不太有能力干预。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 270,
+          "like_count": 1707,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 1373
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

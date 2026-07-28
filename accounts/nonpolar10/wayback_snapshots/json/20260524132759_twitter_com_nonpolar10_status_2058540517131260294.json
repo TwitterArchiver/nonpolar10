@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Space and astronomy",
+          "id": "847899255880564736",
+          "name": "Space"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2058497293653807186",
+    "created_at": "2026-05-24T13:27:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T14:27:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058540517131260294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1636852409577119746",
+          "start": 0,
+          "username": "Cocteau1848"
+        },
+        {
+          "end": 24,
+          "id": "1942714198762610693",
+          "start": 13,
+          "username": "birdinflow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058540517131260294",
+    "in_reply_to_user_id": "1636852409577119746",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058527762688704697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cocteau1848 @birdinflow 要这样理解或许也不是完全不行，但我试图表述的是意识之内的时间体验，而非它的“本质存在”，也无意于将其还原为一种事件序列中的纯粹效果。\n\n如果说社会中对时间的描述是基于星体的运动或这样那样的天文历法，那么意识之中的时间体验也是基于各种标的与运动中的对象，而新事物也或多或少是“旧事物”。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2058497293653807186",
+        "created_at": "2026-05-24T13:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T14:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058540517131260294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1636852409577119746",
+              "start": 0,
+              "username": "Cocteau1848"
+            },
+            {
+              "end": 24,
+              "id": "1942714198762610693",
+              "start": 13,
+              "username": "birdinflow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058540517131260294",
+        "in_reply_to_user_id": "1636852409577119746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058527762688704697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cocteau1848 @birdinflow 要这样理解或许也不是完全不行，但我试图表述的是意识之内的时间体验，而非它的“本质存在”，也无意于将其还原为一种事件序列中的纯粹效果。\n\n如果说社会中对时间的描述是基于星体的运动或这样那样的天文历法，那么意识之中的时间体验也是基于各种标的与运动中的对象，而新事物也或多或少是“旧事物”。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1636852409577119746",
+        "conversation_id": "2058497293653807186",
+        "created_at": "2026-05-24T12:37:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T13:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058527762688704697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1390592139193556992",
+              "start": 0,
+              "username": "nonpolar10"
+            },
+            {
+              "end": 23,
+              "id": "1942714198762610693",
+              "start": 12,
+              "username": "birdinflow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058527762688704697",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058525589217374627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nonpolar10 @birdinflow 这是在说一种类似于广义相对论的概念…？时间不作为坐标而是作为一种动态的东西，与其他的东西的相互作用……？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 267,
+          "like_count": 1883,
+          "listed_count": 2,
+          "media_count": 129,
+          "tweet_count": 1459
+        },
+        "username": "nonpolar10",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-17T22:10:30.000Z",
+        "description": "",
+        "id": "1636852409577119746",
+        "name": "YouZi",
+        "pinned_tweet_id": "1636868317112684545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050182937501483008/AR6JcM7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 21,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "username": "Cocteau1848",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-08T22:35:54.000Z",
+        "description": "去爱吧；“总有一天我会回到你身边”",
+        "id": "1942714198762610693",
+        "name": "青鸟",
+        "pinned_tweet_id": "2030402237869039956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942721150867709952/qGrKoSns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 159,
+          "like_count": 2044,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 513
+        },
+        "username": "birdinflow",
+        "verified": false
+      }
+    ]
+  }
+}

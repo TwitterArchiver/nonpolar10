@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "1931162707467829537",
+    "created_at": "2025-06-07T01:34:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T02:34:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1931162707467829537"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1931162707467829537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "道德主义者要求的民主从来都是城邦公民式的，换言之“平等人”作为集体僭主。\n\n而随着时代，主要是生产效率与政治技术的发展，“平等人”的范畴基本总是在扩大，但这也恰好从原理上自证了边界的存在。\n\n于是边界之外的，永远在边界宽度之中的又是什么？除了纯粹的极端，是否还包含一些救赎乃至创造的可能？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1931162707467829537",
+        "created_at": "2025-06-07T01:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T02:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931162707467829537"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1931162707467829537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "道德主义者要求的民主从来都是城邦公民式的，换言之“平等人”作为集体僭主。\n\n而随着时代，主要是生产效率与政治技术的发展，“平等人”的范畴基本总是在扩大，但这也恰好从原理上自证了边界的存在。\n\n于是边界之外的，永远在边界宽度之中的又是什么？除了纯粹的极端，是否还包含一些救赎乃至创造的可能？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 312,
+          "like_count": 1730,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 1329
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

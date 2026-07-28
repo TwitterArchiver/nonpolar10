@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "1960214681433547095",
+    "created_at": "2025-08-26T05:36:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T06:36:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960214681433547095"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1960214681433547095",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "自己的梦中时常包含了过多的现实元素，以至于每次从其中醒来时都要花上好长的时间来确认自己究竟是否身处“现实”，以避免关于“现实”的认知被那种不清醒的经验组装所篡改。\n\n曾有一次，一些仿佛确凿的回忆，被惊觉只是半个月前做的某一场梦，那之后的很长时间里，对某些事情就几乎丧失了所谓实感。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1960214681433547095",
+        "created_at": "2025-08-26T05:36:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T06:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960214681433547095"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960214681433547095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自己的梦中时常包含了过多的现实元素，以至于每次从其中醒来时都要花上好长的时间来确认自己究竟是否身处“现实”，以避免关于“现实”的认知被那种不清醒的经验组装所篡改。\n\n曾有一次，一些仿佛确凿的回忆，被惊觉只是半个月前做的某一场梦，那之后的很长时间里，对某些事情就几乎丧失了所谓实感。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 267,
+          "like_count": 1718,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 1389
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "1644033946148290561",
+    "created_at": "2023-04-06T19:08:15.000Z",
+    "edit_controls": {
+      "editable_until": "2023-04-06T19:38:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1644054429329670144"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1644054429329670144",
+    "in_reply_to_user_id": "1390592139193556992",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1644053255461412865",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可恶啊，为什么我不懂猫语？没办法直接沟通，但真的很讨厌以“饲主”的身份，用强迫或构建情境的方式去做制衡式的调停。\n\n即便如此，到目前为止，虽然看了很多相关的东西，我做得仍旧很烂..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1644033946148290561",
+        "created_at": "2023-04-06T19:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2023-04-06T19:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1644054429329670144"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1644054429329670144",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1644053255461412865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可恶啊，为什么我不懂猫语？没办法直接沟通，但真的很讨厌以“饲主”的身份，用强迫或构建情境的方式去做制衡式的调停。\n\n即便如此，到目前为止，虽然看了很多相关的东西，我做得仍旧很烂..."
+      },
+      {
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1644033946148290561",
+        "created_at": "2023-04-06T19:03:35.000Z",
+        "edit_controls": {
+          "editable_until": "2023-04-06T19:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1644053255461412865"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1644053255461412865",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1644047859749371904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小霸王大概是个不折不扣的妈宝，所以才在新伙伴来的时候表现得异常排外。\n\n小金库见底，家庭关系稍尴尬，不好意思讨要更多生活费，没有回学校之后的奖学金和每月那点科研补助，房租，猫粮和罐头的钱都快不够了（苦笑\n\n太担心复学后它独守空房出问题，便有了小傻狗的到来，结果却更像是制造了新的问题。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "一般路过黑色小猫，看到了意味着你今天会倒霉（x  | 迫真日常推 | 不论时事，如觉话外之意，必是君心有所思（。| 互联网公墓一角的电子骨灰盒 | 超出字数限制的废言在→https://t.co/2utiXRd3qE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "alive.bar/@nonpolar",
+                "end": 108,
+                "expanded_url": "https://alive.bar/@nonpolar",
+                "start": 85,
+                "url": "https://t.co/2utiXRd3qE"
+              }
+            ]
+          }
+        },
+        "id": "1390592139193556992",
+        "location": "Solaris",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1557387846306402304/IvmBykL7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 242,
+          "listed_count": 2,
+          "tweet_count": 245
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

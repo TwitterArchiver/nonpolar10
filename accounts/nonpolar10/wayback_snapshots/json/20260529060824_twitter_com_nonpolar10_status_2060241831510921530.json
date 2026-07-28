@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2051996473265717346",
+    "created_at": "2026-05-29T06:08:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T07:08:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060241831510921530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1576928274168561669",
+          "start": 0,
+          "username": "wngzchn11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060241831510921530",
+    "in_reply_to_user_id": "1576928274168561669",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051996473265717346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wngzchn11 这太狂野了！(机翻)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2051996470451294208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHon6v2a0AAzNY_.jpg",
+        "width": 1231
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2051996473265717346",
+        "created_at": "2026-05-29T06:08:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T07:08:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060241831510921530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1576928274168561669",
+              "start": 0,
+              "username": "wngzchn11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060241831510921530",
+        "in_reply_to_user_id": "1576928274168561669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051996473265717346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wngzchn11 这太狂野了！(机翻)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051996470451294208"
+          ]
+        },
+        "author_id": "1576928274168561669",
+        "conversation_id": "2051996473265717346",
+        "created_at": "2026-05-06T12:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T13:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051996473265717346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K7UkpbDJl8",
+              "end": 35,
+              "expanded_url": "https://x.com/wngzchn11/status/2051996473265717346/photo/1",
+              "media_key": "3_2051996470451294208",
+              "start": 12,
+              "url": "https://t.co/K7UkpbDJl8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051996473265717346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 145,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喷不了，这个我真的喜欢 https://t.co/K7UkpbDJl8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "路过的黑猫🐈‍⬛，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 289,
+          "like_count": 1947,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 1545
+        },
+        "username": "nonpolar10",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-03T13:33:32.000Z",
+        "description": "Here's an apology for being poor in any foreign languages, but fluent in Chinese only.\n‖\n我的繁體字閱讀能力或許不足以支持我完全理解妳的訊息。\n在有歧義時，允許我要求妳重新組織語言。",
+        "id": "1576928274168561669",
+        "name": "梨渦原點",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1576929465204183041/UlvcJXM3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 1094,
+          "like_count": 10096,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 170
+        },
+        "username": "wngzchn11",
+        "verified": false
+      }
+    ]
+  }
+}

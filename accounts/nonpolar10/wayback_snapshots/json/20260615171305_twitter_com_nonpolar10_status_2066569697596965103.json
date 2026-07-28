@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2066507915406749907",
+    "created_at": "2026-06-15T17:13:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T18:13:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066569697596965103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1446461580141490179",
+          "start": 0,
+          "username": "liangjie_2021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066569697596965103",
+    "in_reply_to_user_id": "1390592139193556992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066562654467170595",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liangjie_2021 这也催生一种畸形的创伤文化，痛苦的体验失去脉络而无法被理解，只能以失能或疯狂来测量，而沦为一种感官性的“原质”——“五百毫升的孤独，整整一公升的悲痛，几个清晰可述的弹孔”，我是说，就像精神与心理诊断一样的东西。\n\n几把没有扳机的枪，如果不能回答那个总体性之问，我们最多只能触及这种代理物。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2066507915406749907",
+        "created_at": "2026-06-15T17:13:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T18:13:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066569697596965103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1446461580141490179",
+              "start": 0,
+              "username": "liangjie_2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066569697596965103",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066562654467170595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liangjie_2021 这也催生一种畸形的创伤文化，痛苦的体验失去脉络而无法被理解，只能以失能或疯狂来测量，而沦为一种感官性的“原质”——“五百毫升的孤独，整整一公升的悲痛，几个清晰可述的弹孔”，我是说，就像精神与心理诊断一样的东西。\n\n几把没有扳机的枪，如果不能回答那个总体性之问，我们最多只能触及这种代理物。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2066507915406749907",
+        "created_at": "2026-06-15T16:45:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T17:45:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066562654467170595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1446461580141490179",
+              "start": 0,
+              "username": "liangjie_2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066562654467170595",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066557145471164766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liangjie_2021 如果在冬夜，一个人。\n\n我们望着脚下苔藓蔓生的乌托邦残躯，寻找其中姑且可作燃薪的部分，它们也成为了这样一种消费文化，大胡子老人，红锤子，黑A字，阿连德又或者格瓦拉，从记忆到感觉，从愿望到遗忘，去经验化……\n\n一个私人感受的时代，人们彼此忌惮，就连“痛苦”也因总体性背景的缺失而不能相通。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "半途而废的天坑领域学术奴工，不知有几年活头的过期文学少女。生于语言中，死在沉默里，词语的肉身，症候性的非实存。昨日路过的黑猫🐈‍⬛，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 301,
+          "like_count": 2069,
+          "listed_count": 2,
+          "media_count": 137,
+          "tweet_count": 1620
+        },
+        "username": "nonpolar10",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-08T13:04:56.000Z",
+        "description": "「特别强调现实的残酷，反过来说是不了解残酷程度的反映，各种意义上，意味着准备不足。」 \n ──雾间诚一《作为败因的另类自我》",
+        "id": "1446461580141490179",
+        "name": "LiangJie🇵🇸🇺🇦🇧🇫🇲🇲",
+        "pinned_tweet_id": "1832651502332129631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897930207140757506/6VCaGro0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 983,
+          "following_count": 1348,
+          "like_count": 88661,
+          "listed_count": 12,
+          "media_count": 596,
+          "tweet_count": 11042
+        },
+        "username": "liangjie_2021",
+        "verified": false
+      }
+    ]
+  }
+}

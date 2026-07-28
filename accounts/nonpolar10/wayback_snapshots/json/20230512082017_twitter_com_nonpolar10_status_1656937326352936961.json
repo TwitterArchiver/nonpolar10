@@ -1,0 +1,143 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "1656937317368758273",
+    "created_at": "2023-05-12T08:20:17.000Z",
+    "edit_controls": {
+      "editable_until": "2023-05-12T08:50:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1656937326352936961"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1656937326352936961",
+    "in_reply_to_user_id": "1390592139193556992",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1656937323475664901",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对那些人而言，「代价」是什么？觉得他人的痛苦需要被更优先对待，是否也是种愚蠢的自命不凡？\n\n或许，其也只是比他人更脆弱，更早厌倦了这种寒冷与黑暗，更先活不下去吧，因而舍弃了曾经虚假的从容，折下自己身上的枯枝，点燃，或许也只是为了驱散自己身上的寒意。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1656937317368758273",
+        "created_at": "2023-05-12T08:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2023-05-12T08:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1656937326352936961"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1656937326352936961",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1656937323475664901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对那些人而言，「代价」是什么？觉得他人的痛苦需要被更优先对待，是否也是种愚蠢的自命不凡？\n\n或许，其也只是比他人更脆弱，更早厌倦了这种寒冷与黑暗，更先活不下去吧，因而舍弃了曾经虚假的从容，折下自己身上的枯枝，点燃，或许也只是为了驱散自己身上的寒意。"
+      },
+      {
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1656937317368758273",
+        "created_at": "2023-05-12T08:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2023-05-12T08:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1656937323475664901"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1656937323475664901",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1656937321118457863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "结果上来说，还是需要有人先去相信，往往也意味着受伤与误解，作为面对不确定性的另一姿态。\n\n在欺骗和背叛面前，信任又总是脆弱，孤立无援的人，需要“坚强”，而这很多时候又意味着共情的折损。\n\n究竟有多少温暖可以留给自己？多少能给予他人？有多少可供侵占与耗散？又如何不在这种撕扯中面目全非？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "一般路过黑色猫猫，看到了意味着您今天会倒霉（x  | 海嗣化ing | 迫真日常推 | 不论时事，如觉话外之意，必是君心有所思（。| 互联网公墓一角的电子骨灰盒 | 超出字数限制的废言在→https://t.co/2utiXRd3qE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "alive.bar/@nonpolar",
+                "end": 117,
+                "expanded_url": "https://alive.bar/@nonpolar",
+                "start": 94,
+                "url": "https://t.co/2utiXRd3qE"
+              }
+            ]
+          }
+        },
+        "id": "1390592139193556992",
+        "location": "Solaris",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1557387846306402304/IvmBykL7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 280,
+          "listed_count": 5,
+          "tweet_count": 396
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

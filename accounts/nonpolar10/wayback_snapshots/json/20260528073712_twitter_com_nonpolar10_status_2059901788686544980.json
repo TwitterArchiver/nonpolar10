@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2059894904567021836",
+    "created_at": "2026-05-28T07:37:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T08:37:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059901788686544980"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059901788686544980",
+    "in_reply_to_user_id": "1390592139193556992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059894904567021836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "换句话说，这种消费品，包含精神活性物质与一氧化碳、焦油的小细管，或者拉康派会说它是一个完美的“菲勒斯能指”，其实代表的正是一种未完结的现代性。\n\n现代性就是这种不可救赎的痛苦，我们被迫把自己放到到人与人之间，必须直接面对人存在本身的暴力。\n\n常会有人用人道主义来遮遮掩掩，但那都是徒劳。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2059894904567021836",
+        "created_at": "2026-05-28T07:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T08:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059901788686544980"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059901788686544980",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059894904567021836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "换句话说，这种消费品，包含精神活性物质与一氧化碳、焦油的小细管，或者拉康派会说它是一个完美的“菲勒斯能指”，其实代表的正是一种未完结的现代性。\n\n现代性就是这种不可救赎的痛苦，我们被迫把自己放到到人与人之间，必须直接面对人存在本身的暴力。\n\n常会有人用人道主义来遮遮掩掩，但那都是徒劳。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2059894904567021836",
+        "created_at": "2026-05-28T07:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T08:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059894904567021836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nonpolar10/sta…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/nonpolar10/status/2059872195120427110",
+              "start": 143,
+              "url": "https://t.co/dcq2Wg0HQx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059894904567021836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059872195120427110",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是一个另外的位置，就像是被日神放逐，却从未受邀也不屑于参加酒神的宴会。\n\n我享受可可的涩苦与馥郁，如一种恰当的沉思，也曾长久地对咖啡成瘾，全天敏锐警觉而疲劳、神经质。\n\n唯独没有吸烟的经验也厌恶烟味，但这依旧不妨碍我认为香烟是人类众多自我戕害方法中最伟大的几个之一，神奇的美洲树叶。 https://t.co/dcq2Wg0HQx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "路过的黑猫，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 281,
+          "like_count": 1933,
+          "listed_count": 2,
+          "media_count": 132,
+          "tweet_count": 1527
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

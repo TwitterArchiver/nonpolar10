@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2060756619148034180",
+    "created_at": "2026-05-30T16:14:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T17:14:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060756621366837442"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060756621366837442",
+    "in_reply_to_user_id": "1390592139193556992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060756619148034180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "“文明社会”事实上野蛮而残暴，家庭允诺温情却又冷漠严苛，人与人相互许诺真实，却常抵达共同维护的谎言。\n\n但这其实是一种非自然的、被生产的状态，而不是降临人间的纯粹历史与文化形式——如果谁非要在这表象中与之对抗，享受恶还是审美恶？暴烈挑衅还是忧郁自戕？萨德还是波德莱尔？不妨试着选择。2/n"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2060756619148034180",
+        "created_at": "2026-05-30T16:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T17:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060756621366837442"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060756621366837442",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060756619148034180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“文明社会”事实上野蛮而残暴，家庭允诺温情却又冷漠严苛，人与人相互许诺真实，却常抵达共同维护的谎言。\n\n但这其实是一种非自然的、被生产的状态，而不是降临人间的纯粹历史与文化形式——如果谁非要在这表象中与之对抗，享受恶还是审美恶？暴烈挑衅还是忧郁自戕？萨德还是波德莱尔？不妨试着选择。2/n"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2060756619148034180",
+        "created_at": "2026-05-30T16:13:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T17:13:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060756619148034180"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060756619148034180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人可以追同时寻着自己的痛苦与败德，以求让这个曾使他无比痛苦的世界，使这些痛苦的中介者同时感到内疚与被羞辱。\n\n而这种以邪恶与浪荡为善好的姿态，事实上就也像是种对“善”的愤世嫉俗，因而将其弃绝并与之表象对抗。\n\n而这行为之所以会有意义，大多依然源自“自己仍被关心与注视”的信念，是一种索求。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "路过的黑猫🐈‍⬛，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 296,
+          "like_count": 1996,
+          "listed_count": 2,
+          "media_count": 135,
+          "tweet_count": 1573
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

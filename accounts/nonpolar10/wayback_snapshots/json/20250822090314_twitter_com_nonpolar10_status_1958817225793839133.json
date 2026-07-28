@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "1958817225793839133",
+    "created_at": "2025-08-22T09:03:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T10:03:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1958817225793839133"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1958817225793839133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "存在主义与控制论在结论形成上的相似之处在于，并没有一个主体间的额外存在来保证某种主体间存在，进而也是进入主体间的主体内在知识的真实与连贯。\n\n于是，便有“他人即地狱、自我即他者”，于是，在编码与解译信息并以之作为行动的依据这一点上，信息论与控制论确实可以说只有场域的，而无质性的区别。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1958817225793839133",
+        "created_at": "2025-08-22T09:03:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T10:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958817225793839133"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1958817225793839133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "存在主义与控制论在结论形成上的相似之处在于，并没有一个主体间的额外存在来保证某种主体间存在，进而也是进入主体间的主体内在知识的真实与连贯。\n\n于是，便有“他人即地狱、自我即他者”，于是，在编码与解译信息并以之作为行动的依据这一点上，信息论与控制论确实可以说只有场域的，而无质性的区别。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 270,
+          "like_count": 1712,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 1383
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

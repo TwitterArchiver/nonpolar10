@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2062034952372592871",
+    "created_at": "2026-06-03T05:19:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T06:19:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062041483763736741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1222825619391516672",
+          "start": 0,
+          "username": "tirpitzia9992"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062041483763736741",
+    "in_reply_to_user_id": "1222825619391516672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062039060445855918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tirpitzia9992 想不起来什么时候互关的了，像是非常久。倒也不用特意感谢，只要时间和精力允许，我其实还挺喜欢给人写长回复的。\n\n另外，记得前段时间也曾听熟人说起你的一些事情（没记错的话应该是比较正面的），现在觉得这世界还真小。\n\n虽然不清楚发生了什么，总之，希望也你能早点好起来，但也别给自己太大压力。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2062034952372592871",
+        "created_at": "2026-06-03T05:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T06:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062041483763736741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1222825619391516672",
+              "start": 0,
+              "username": "tirpitzia9992"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062041483763736741",
+        "in_reply_to_user_id": "1222825619391516672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062039060445855918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tirpitzia9992 想不起来什么时候互关的了，像是非常久。倒也不用特意感谢，只要时间和精力允许，我其实还挺喜欢给人写长回复的。\n\n另外，记得前段时间也曾听熟人说起你的一些事情（没记错的话应该是比较正面的），现在觉得这世界还真小。\n\n虽然不清楚发生了什么，总之，希望也你能早点好起来，但也别给自己太大压力。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1222825619391516672",
+        "conversation_id": "2062034952372592871",
+        "created_at": "2026-06-03T05:09:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T06:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062039060445855918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1390592139193556992",
+              "start": 0,
+              "username": "nonpolar10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062039060445855918",
+        "in_reply_to_user_id": "1222825619391516672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062038909320835439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nonpolar10 总之非常感谢你的留言，我会好起来的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "半途而废的天坑领域学术奴工，不知有几年活头的过期文学少女。生于语言中，死在沉默里，词语的肉身，症候性的非实存。昨日路过的黑猫🐈‍⬛，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 299,
+          "like_count": 2031,
+          "listed_count": 2,
+          "media_count": 137,
+          "tweet_count": 1595
+        },
+        "username": "nonpolar10",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-30T10:15:43.000Z",
+        "description": "She | @kaguyamoe | Mathematical AI Researcher",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "kaguyamoe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tirpitzia.life",
+                "end": 23,
+                "expanded_url": "https://tirpitzia.life",
+                "start": 0,
+                "url": "https://t.co/GA3rSxRxTP"
+              }
+            ]
+          }
+        },
+        "id": "1222825619391516672",
+        "name": "Tirpitzia",
+        "pinned_tweet_id": "1364123157687230464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1545065625592430592/emHL0OBw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1092,
+          "following_count": 174,
+          "like_count": 23197,
+          "listed_count": 4,
+          "media_count": 357,
+          "tweet_count": 5547
+        },
+        "url": "https://t.co/GA3rSxRxTP",
+        "username": "tirpitzia9992",
+        "verified": false
+      }
+    ]
+  }
+}

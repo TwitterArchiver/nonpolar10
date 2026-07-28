@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      }
+    ],
+    "conversation_id": "2059239939737329723",
+    "created_at": "2026-05-26T18:44:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T19:44:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059344924039057585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1523552276119711745",
+          "start": 0,
+          "username": "DeorctheOrigin"
+        },
+        {
+          "end": 28,
+          "id": "1636852409577119746",
+          "start": 16,
+          "username": "Cocteau1848"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059344924039057585",
+    "in_reply_to_user_id": "1523552276119711745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059342301684756802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DeorctheOrigin @Cocteau1848 我想，那些思考，那些可能付诸实践的尝试和那些苦涩的知，对他来说就是意义所在。\n\n他未必需要塑造出一种稳固的享乐结构，但假如说有些时候可以的话(也不乏这类例子，例如苦修者和俄国文学中的那些魔怔人)，我们能想象人一再地去体味痛苦，但这与加缪所言的那种“幸福”完全不一样，并非止步于“荒诞性”。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2059239939737329723",
+        "created_at": "2026-05-26T18:44:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T19:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059344924039057585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1523552276119711745",
+              "start": 0,
+              "username": "DeorctheOrigin"
+            },
+            {
+              "end": 28,
+              "id": "1636852409577119746",
+              "start": 16,
+              "username": "Cocteau1848"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059344924039057585",
+        "in_reply_to_user_id": "1523552276119711745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059342301684756802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DeorctheOrigin @Cocteau1848 我想，那些思考，那些可能付诸实践的尝试和那些苦涩的知，对他来说就是意义所在。\n\n他未必需要塑造出一种稳固的享乐结构，但假如说有些时候可以的话(也不乏这类例子，例如苦修者和俄国文学中的那些魔怔人)，我们能想象人一再地去体味痛苦，但这与加缪所言的那种“幸福”完全不一样，并非止步于“荒诞性”。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1523552276119711745",
+        "conversation_id": "2059239939737329723",
+        "created_at": "2026-05-26T18:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T19:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059342301684756802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1390592139193556992",
+              "start": 0,
+              "username": "nonpolar10"
+            },
+            {
+              "end": 24,
+              "id": "1636852409577119746",
+              "start": 12,
+              "username": "Cocteau1848"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059342301684756802",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059337438473158790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nonpolar10 @Cocteau1848 不，我认为西西弗斯是感到意义的-我不说他幸福，我也不认为这是基于想象。\n这是一个逻辑性推论。\n因为他要学会在这个过程中感到意义来维持存在。这不是一种自我欺骗的意义，而是真正的乐在其中的意义。\n否则，他必然陷入虚无主义，他就不会再继续推石头了。\n他仍在推，因为他生出了独属自己的意义结构"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "路过的黑猫，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 270,
+          "like_count": 1918,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 1501
+        },
+        "username": "nonpolar10",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-09T06:35:57.000Z",
+        "description": "Dark Ambience & Nature's Lover. Medival & Victoria Gothicism. Anti-anthropocentrism. Cure Seeker. Empath/HSP but ASD. Median. She/Her. Safe here🏳️‍⚧️🏳️‍🌈.",
+        "id": "1523552276119711745",
+        "name": "{{the Original Star}}",
+        "pinned_tweet_id": "1914168147600687604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880614058904416256/rjD4Reyf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 341,
+          "like_count": 65805,
+          "listed_count": 2,
+          "media_count": 707,
+          "tweet_count": 19361
+        },
+        "username": "DeorctheOrigin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-17T22:10:30.000Z",
+        "description": "",
+        "id": "1636852409577119746",
+        "name": "YouZi",
+        "pinned_tweet_id": "1636868317112684545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050182937501483008/AR6JcM7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 34,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 32
+        },
+        "username": "Cocteau1848",
+        "verified": false
+      }
+    ]
+  }
+}

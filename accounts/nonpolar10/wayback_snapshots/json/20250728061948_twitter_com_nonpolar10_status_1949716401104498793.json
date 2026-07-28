@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "1949716401104498793",
+    "created_at": "2025-07-28T06:19:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T07:19:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949716401104498793"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1949716401104498793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨日并不是单通过演奏找回了那种过去的状态或某种“灵韵”。\n\n而是，已经预先处于了一个临近的位置，演奏中的动力学将自己朝着某个方向彻底「抛」了过去。\n\n“该这样弹吗？”自己并不确定，但一个音接着一个音，手臂的运动，呼吸的方式都像是自动回忆起来，这是种不受控的体验，就像坐秋千时的那种心惊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1949716401104498793",
+        "created_at": "2025-07-28T06:19:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T07:19:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949716401104498793"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949716401104498793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨日并不是单通过演奏找回了那种过去的状态或某种“灵韵”。\n\n而是，已经预先处于了一个临近的位置，演奏中的动力学将自己朝着某个方向彻底「抛」了过去。\n\n“该这样弹吗？”自己并不确定，但一个音接着一个音，手臂的运动，呼吸的方式都像是自动回忆起来，这是种不受控的体验，就像坐秋千时的那种心惊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 304,
+          "like_count": 1729,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 1360
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "1961456745001464075",
+    "created_at": "2025-08-29T15:51:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T16:51:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961456751150084401"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1961456751150084401",
+    "in_reply_to_user_id": "1390592139193556992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961456747173814429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "才意识到今天是所谓七夕节，但节日似乎从来和我关系不深，似乎从来就没怎么真正期待过任何节日，“生日”更是许多年没过了。\n\n但后者可能更复杂些，它是更多一个关于我母亲的，而不是我的日子，一个我们不同痛苦的共同开端。如果每到这天，就要被迫回忆起*很多*事情的话，逃避或许就不算可耻吧……？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1961456745001464075",
+        "created_at": "2025-08-29T15:51:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T16:51:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961456751150084401"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961456751150084401",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961456747173814429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "才意识到今天是所谓七夕节，但节日似乎从来和我关系不深，似乎从来就没怎么真正期待过任何节日，“生日”更是许多年没过了。\n\n但后者可能更复杂些，它是更多一个关于我母亲的，而不是我的日子，一个我们不同痛苦的共同开端。如果每到这天，就要被迫回忆起*很多*事情的话，逃避或许就不算可耻吧……？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1961456745001464075",
+        "created_at": "2025-08-29T15:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T16:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961456747173814429"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961456747173814429",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961456745001464075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有预先收集好的一个播放列表，十几个演奏版本的肖邦15号前奏曲“雨滴”，诞生自上一次的“危机应对”，五月份。\n\n有效，不过当下的心境与那时不同，或者说，此刻唤起了一些来自过去的要素，但意识中某一部分回到的“过去”与那个确切时刻它曾在的地方截然不同。\n\n它所要去往的地方，大抵也不同。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 268,
+          "like_count": 1723,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 1403
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

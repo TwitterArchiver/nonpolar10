@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2066080855622373801",
+    "created_at": "2026-06-14T08:50:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T09:50:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066080855622373801"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066080855622373801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每当脑海中堆积的都是使人感到痛苦的东西，表达就被自动抑止，我难以回忆起在这种时候是否存在一些意识的主观时刻，即自己认为“不该”。\n\n就像，某个时候才恍然发现自己几乎无法再哭出来了，取而代之是鼻子的酸胀痛痒，喷嚏打个不停。\n\n偶尔能感觉到那些在腺体中打转的泪，但它们无法从干涩的眼中逃逸。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2066080855622373801",
+        "created_at": "2026-06-14T08:50:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T09:50:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066080855622373801"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066080855622373801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每当脑海中堆积的都是使人感到痛苦的东西，表达就被自动抑止，我难以回忆起在这种时候是否存在一些意识的主观时刻，即自己认为“不该”。\n\n就像，某个时候才恍然发现自己几乎无法再哭出来了，取而代之是鼻子的酸胀痛痒，喷嚏打个不停。\n\n偶尔能感觉到那些在腺体中打转的泪，但它们无法从干涩的眼中逃逸。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "半途而废的天坑领域学术奴工，不知有几年活头的过期文学少女。生于语言中，死在沉默里，词语的肉身，症候性的非实存。昨日路过的黑猫🐈‍⬛，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 301,
+          "like_count": 2065,
+          "listed_count": 2,
+          "media_count": 137,
+          "tweet_count": 1603
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

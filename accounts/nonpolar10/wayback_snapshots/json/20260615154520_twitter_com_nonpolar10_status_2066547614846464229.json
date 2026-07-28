@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2066507915406749907",
+    "created_at": "2026-06-15T15:45:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T16:45:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066547614846464229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1446461580141490179",
+          "start": 0,
+          "username": "liangjie_2021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066547614846464229",
+    "in_reply_to_user_id": "1390592139193556992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066542420003819811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liangjie_2021 至于说“毫无意义的不自由”，这就是后现代社会中“原子人”要面临的基本处境，逃避于快感也无济于事，文化乃至“政治行动”有时也沦为消费品，某种一次性的“感受性”素材。\n\n甚至这种感受也景观化了，基于反身性的意识活动，感受本身才是真正的消费对象，它就是这样被依赖而又遭到唾弃，最终人又退回“虚无”。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2066507915406749907",
+        "created_at": "2026-06-15T15:45:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066547614846464229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1446461580141490179",
+              "start": 0,
+              "username": "liangjie_2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066547614846464229",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066542420003819811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liangjie_2021 至于说“毫无意义的不自由”，这就是后现代社会中“原子人”要面临的基本处境，逃避于快感也无济于事，文化乃至“政治行动”有时也沦为消费品，某种一次性的“感受性”素材。\n\n甚至这种感受也景观化了，基于反身性的意识活动，感受本身才是真正的消费对象，它就是这样被依赖而又遭到唾弃，最终人又退回“虚无”。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2066507915406749907",
+        "created_at": "2026-06-15T15:24:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066542420003819811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1446461580141490179",
+              "start": 0,
+              "username": "liangjie_2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066542420003819811",
+        "in_reply_to_user_id": "1446461580141490179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066531240216543366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liangjie_2021 虽然有点咬文嚼字，但我认为其实并不存在一个工具理性与“自然性”的纯粹对立，如果说有什么“自然”的话，那也是种“技术自然”，也可说是某种“历史性”的条件，人们对它的理解和运用，以及借由其实现的自我塑造。\n\n或者，资本主义的工具理性确实以其自身标定了一种特定的自然性，这是一对历史性共生的概念。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "半途而废的天坑领域学术奴工，不知有几年活头的过期文学少女。生于语言中，死在沉默里，词语的肉身，症候性的非实存。昨日路过的黑猫🐈‍⬛，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 301,
+          "like_count": 2069,
+          "listed_count": 2,
+          "media_count": 137,
+          "tweet_count": 1616
+        },
+        "username": "nonpolar10",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-08T13:04:56.000Z",
+        "description": "「特别强调现实的残酷，反过来说是不了解残酷程度的反映，各种意义上，意味着准备不足。」 \n ──雾间诚一《作为败因的另类自我》",
+        "id": "1446461580141490179",
+        "name": "LiangJie🇵🇸🇺🇦🇧🇫🇲🇲",
+        "pinned_tweet_id": "1832651502332129631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897930207140757506/6VCaGro0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 983,
+          "following_count": 1348,
+          "like_count": 88655,
+          "listed_count": 12,
+          "media_count": 596,
+          "tweet_count": 11041
+        },
+        "username": "liangjie_2021",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2059057234953294192",
+    "created_at": "2026-05-26T01:08:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T02:08:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059079182521680060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1942714198762610693",
+          "start": 0,
+          "username": "birdinflow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059079182521680060",
+    "in_reply_to_user_id": "1942714198762610693",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059078086440710175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@birdinflow 视情况而定吧，如果症状严重到什么都做不了，且持续很久，同时又有其他事情要做，偶尔吃上两片也无妨，某种神经活性物质，我就是这样对待它们的（作为某种反精神病主义者）。\n\n这并不是，也无法构成一种治疗，与是否认同所谓医疗诊断也毫无关系。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2059057234953294192",
+        "created_at": "2026-05-26T01:08:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T02:08:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059079182521680060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942714198762610693",
+              "start": 0,
+              "username": "birdinflow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059079182521680060",
+        "in_reply_to_user_id": "1942714198762610693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059078086440710175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@birdinflow 视情况而定吧，如果症状严重到什么都做不了，且持续很久，同时又有其他事情要做，偶尔吃上两片也无妨，某种神经活性物质，我就是这样对待它们的（作为某种反精神病主义者）。\n\n这并不是，也无法构成一种治疗，与是否认同所谓医疗诊断也毫无关系。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942714198762610693",
+        "conversation_id": "2059057234953294192",
+        "created_at": "2026-05-26T01:04:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T02:04:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059078086440710175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1390592139193556992",
+              "start": 0,
+              "username": "nonpolar10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059078086440710175",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059077608982401443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nonpolar10 嗯嗯。不过我对药物不是特别感兴趣（出于症状的性质以及可能一些别的原因）。不过还是谢谢泥！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "路过的黑猫，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 268,
+          "like_count": 1908,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 1469
+        },
+        "username": "nonpolar10",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-08T22:35:54.000Z",
+        "description": "去爱吧；“总有一天我会回到你身边”",
+        "id": "1942714198762610693",
+        "name": "青鸟",
+        "pinned_tweet_id": "2030402237869039956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942721150867709952/qGrKoSns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 161,
+          "like_count": 2123,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 542
+        },
+        "username": "birdinflow",
+        "verified": false
+      }
+    ]
+  }
+}

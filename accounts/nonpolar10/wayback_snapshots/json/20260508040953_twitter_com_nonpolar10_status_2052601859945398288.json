@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2052601859945398288",
+    "created_at": "2026-05-08T04:09:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T05:09:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052601859945398288"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052601859945398288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "时常这样反思，让我喜欢和人相处的因素主要是一种逃遁的渴望，如此便能够忘记自身，忘记那些可悲与可笑的内容，对方露出笑容我似乎就能同等程度地也笑出来，帮到了别人仿佛就也能对那种宽慰感同身受。至少它使我从那种冷漠与严苛的视线与多余且令人目眩的自由中暂时解脱。\n\n朋友不多，则是另外一回事。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2052601859945398288",
+        "created_at": "2026-05-08T04:09:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T05:09:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052601859945398288"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052601859945398288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "时常这样反思，让我喜欢和人相处的因素主要是一种逃遁的渴望，如此便能够忘记自身，忘记那些可悲与可笑的内容，对方露出笑容我似乎就能同等程度地也笑出来，帮到了别人仿佛就也能对那种宽慰感同身受。至少它使我从那种冷漠与严苛的视线与多余且令人目眩的自由中暂时解脱。\n\n朋友不多，则是另外一回事。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 262,
+          "like_count": 1815,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 1430
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

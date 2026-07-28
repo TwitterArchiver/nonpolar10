@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2066507915406749907",
+    "created_at": "2026-06-15T15:15:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T16:15:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066540125425951049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1446461580141490179",
+          "start": 0,
+          "username": "liangjie_2021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066540125425951049",
+    "in_reply_to_user_id": "1446461580141490179",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066532340944470311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liangjie_2021 我同意这一点，其实如果你熟悉“我”的话，应该就能知道，这正是我的态度，或者说我所相信的，即人所能把握的任何意义永远都是与其他意识共在的，并且它是一种脆弱的，总会面临消亡与各种其他有限性的“活物”，而非永恒或无限。\n\n当时胃疼比较难挨，挣扎着写满140字就停下来了，所以有很多表意的空缺。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2066507915406749907",
+        "created_at": "2026-06-15T15:15:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066540125425951049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1446461580141490179",
+              "start": 0,
+              "username": "liangjie_2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066540125425951049",
+        "in_reply_to_user_id": "1446461580141490179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066532340944470311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liangjie_2021 我同意这一点，其实如果你熟悉“我”的话，应该就能知道，这正是我的态度，或者说我所相信的，即人所能把握的任何意义永远都是与其他意识共在的，并且它是一种脆弱的，总会面临消亡与各种其他有限性的“活物”，而非永恒或无限。\n\n当时胃疼比较难挨，挣扎着写满140字就停下来了，所以有很多表意的空缺。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1446461580141490179",
+        "conversation_id": "2066507915406749907",
+        "created_at": "2026-06-15T14:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T15:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066532340944470311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1390592139193556992",
+              "start": 0,
+              "username": "nonpolar10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066532340944470311",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066516807423492301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nonpolar10 就像虚无主义本身也是一种以自身为形而上学的意识形态一样，虽然自然是毫无意义的，但我们还是可以基于人类社会和未来寻找一种普遍性的“意义”，正因为意义本身是历史性概念，才让这种愿景成为可能"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "半途而废的天坑领域学术奴工，不知有几年活头的过期文学少女。生于语言中，死在沉默里，词语的肉身，症候性的非实存。昨日路过的黑猫🐈‍⬛，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 301,
+          "like_count": 2068,
+          "listed_count": 2,
+          "media_count": 137,
+          "tweet_count": 1614
+        },
+        "username": "nonpolar10",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-08T13:04:56.000Z",
+        "description": "「特别强调现实的残酷，反过来说是不了解残酷程度的反映，各种意义上，意味着准备不足。」 \n ──雾间诚一《作为败因的另类自我》",
+        "id": "1446461580141490179",
+        "name": "LiangJie🇵🇸🇺🇦🇧🇫🇲🇲",
+        "pinned_tweet_id": "1832651502332129631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897930207140757506/6VCaGro0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 983,
+          "following_count": 1348,
+          "like_count": 88653,
+          "listed_count": 12,
+          "media_count": 596,
+          "tweet_count": 11041
+        },
+        "username": "liangjie_2021",
+        "verified": false
+      }
+    ]
+  }
+}

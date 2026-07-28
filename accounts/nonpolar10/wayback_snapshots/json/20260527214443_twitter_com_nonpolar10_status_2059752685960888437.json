@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      }
+    ],
+    "conversation_id": "2059726540548837663",
+    "created_at": "2026-05-27T21:44:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T22:44:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059752685960888437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2015624869665456129",
+          "start": 0,
+          "username": "Oyama_Mihari01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059752685960888437",
+    "in_reply_to_user_id": "2015624869665456129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059740321630879985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oyama_Mihari01 咬人一口就能把他者转变成与自己相似的东西……有轻易摧毁他人平静生活的可怕能力，害怕阳光，被恐惧与厌恶，被视作邪恶，被悬赏与猎杀，因过长的寿命而必须承受别离，以及——渴望爱……我不清楚这是否就是吸血鬼这种幻想生物在文学中成为一种浪漫化形象的原因……嗯…我曾幻想被吸食血液而感到兴奋……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2059726540548837663",
+        "created_at": "2026-05-27T21:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T22:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059752685960888437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2015624869665456129",
+              "start": 0,
+              "username": "Oyama_Mihari01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059752685960888437",
+        "in_reply_to_user_id": "2015624869665456129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059740321630879985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oyama_Mihari01 咬人一口就能把他者转变成与自己相似的东西……有轻易摧毁他人平静生活的可怕能力，害怕阳光，被恐惧与厌恶，被视作邪恶，被悬赏与猎杀，因过长的寿命而必须承受别离，以及——渴望爱……我不清楚这是否就是吸血鬼这种幻想生物在文学中成为一种浪漫化形象的原因……嗯…我曾幻想被吸食血液而感到兴奋……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015624869665456129",
+        "conversation_id": "2059726540548837663",
+        "created_at": "2026-05-27T20:55:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T21:55:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059740321630879985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1390592139193556992",
+              "start": 0,
+              "username": "nonpolar10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059740321630879985",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059726540548837663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nonpolar10 成为吸血鬼吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "路过的黑猫，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 278,
+          "like_count": 1928,
+          "listed_count": 2,
+          "media_count": 131,
+          "tweet_count": 1517
+        },
+        "username": "nonpolar10",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-26T03:19:07.000Z",
+        "description": "我曾无比痛苦…",
+        "id": "2015624869665456129",
+        "location": "Wubba lubba dub dub！",
+        "name": "OyamaMihari🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059603011706773504/JxdSx_SA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 99,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 211
+        },
+        "username": "Oyama_Mihari01",
+        "verified": false
+      }
+    ]
+  }
+}

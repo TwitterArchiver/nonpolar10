@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2060085660145594691",
+    "created_at": "2026-05-28T19:47:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T20:47:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060085660145594691"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/philosophymeme…",
+          "end": 179,
+          "expanded_url": "https://twitter.com/philosophymeme0/status/2060028683230880021",
+          "start": 156,
+          "url": "https://t.co/ToEeV4ZJak"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060085660145594691",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060028683230880021",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Deleulu X Guatata 🩷❤️ （x）\n\n暂且抛开对德勒兹理论的探讨（意见）\n\n人们，至少在中文互联网似乎总是习惯于忽视瓜塔里在他们理论形成中的贡献——虽然我想确实可能主要是德勒兹完成了那种系统性的综合，但很多关键术语都是这个非科班哲学家瓜塔里贡献的。\n\n远嫁他乡的妻子和……（你们想嗑的可以开始了 https://t.co/ToEeV4ZJak"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 733,
+        "media_key": "3_2060028677786681349",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJaxKv6XwAUY1Dt.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2060085660145594691",
+        "created_at": "2026-05-28T19:47:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T20:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060085660145594691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/philosophymeme…",
+              "end": 179,
+              "expanded_url": "https://twitter.com/philosophymeme0/status/2060028683230880021",
+              "start": 156,
+              "url": "https://t.co/ToEeV4ZJak"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060085660145594691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060028683230880021",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Deleulu X Guatata 🩷❤️ （x）\n\n暂且抛开对德勒兹理论的探讨（意见）\n\n人们，至少在中文互联网似乎总是习惯于忽视瓜塔里在他们理论形成中的贡献——虽然我想确实可能主要是德勒兹完成了那种系统性的综合，但很多关键术语都是这个非科班哲学家瓜塔里贡献的。\n\n远嫁他乡的妻子和……（你们想嗑的可以开始了 https://t.co/ToEeV4ZJak"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060028677786681349"
+          ]
+        },
+        "author_id": "1168637213250334721",
+        "conversation_id": "2060028683230880021",
+        "created_at": "2026-05-28T16:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060028683230880021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YonlhsqQ1O",
+              "end": 23,
+              "expanded_url": "https://x.com/philosophymeme0/status/2060028683230880021/photo/1",
+              "media_key": "3_2060028677786681349",
+              "start": 0,
+              "url": "https://t.co/YonlhsqQ1O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060028683230880021",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 3453,
+          "like_count": 75,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YonlhsqQ1O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "路过的黑猫🐈‍⬛，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 287,
+          "like_count": 1944,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 1545
+        },
+        "username": "nonpolar10",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-02T21:30:07.000Z",
+        "description": "(ノﾟ∀ﾟ)ノ⌒･*:.｡. .｡.:*･゜ﾟ･*☆\nadmin. @algaraabia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "algaraabia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/philosophy_shi…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/philosophy_shitposting?igsh=aGZ0ZnB0c211bHAw",
+                "start": 0,
+                "url": "https://t.co/KAkHBy6zcB"
+              }
+            ]
+          }
+        },
+        "id": "1168637213250334721",
+        "name": "philosophy memes 🔗",
+        "pinned_tweet_id": "2058483169263825248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964582232930082816/I6ajwTUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172238,
+          "following_count": 47,
+          "like_count": 1174,
+          "listed_count": 485,
+          "media_count": 2042,
+          "tweet_count": 2079
+        },
+        "url": "https://t.co/KAkHBy6zcB",
+        "username": "philosophymeme0",
+        "verified": true
+      }
+    ]
+  }
+}

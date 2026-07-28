@@ -1,0 +1,161 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "1808807223591907816",
+    "created_at": "2024-07-04T10:17:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-04T11:17:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1808807223591907816"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nonpolar10/sta…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/nonpolar10/status/1808803501642035374",
+          "start": 11,
+          "url": "https://t.co/TAf2KcD5AW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808807223591907816",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808803501642035374",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "而仅仅是结束的结束。 https://t.co/TAf2KcD5AW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1808807223591907816",
+        "created_at": "2024-07-04T10:17:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T11:17:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808807223591907816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nonpolar10/sta…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/nonpolar10/status/1808803501642035374",
+              "start": 11,
+              "url": "https://t.co/TAf2KcD5AW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808807223591907816",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808803501642035374",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "而仅仅是结束的结束。 https://t.co/TAf2KcD5AW"
+      },
+      {
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1808803501642035374",
+        "created_at": "2024-07-04T10:02:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T11:02:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808803501642035374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nonpolar10/sta…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/nonpolar10/status/1808797712374247568",
+              "start": 148,
+              "url": "https://t.co/eEQWekyogn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808803501642035374",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808797712374247568",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "「必须忘记」「只能忘记」，它们真正的内涵实际上是「莫失莫忘」，一切(事件)都没结束，但(生活)必须继续。\n\n必须，必须回去，于是——人在那里为自己留下一个深渊，它们随时准备出现在所有路的中间或尽头，过去的，现在的，将来的。\n\n你滑落\n\n它通向“死之岛”，但这远非一切的结束，甚至不是开始的结束。 https://t.co/eEQWekyogn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "Die Toteninsle/边界的宽度",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770748175294300160/fx_fSZEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 323,
+          "like_count": 1633,
+          "listed_count": 1,
+          "tweet_count": 1288
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

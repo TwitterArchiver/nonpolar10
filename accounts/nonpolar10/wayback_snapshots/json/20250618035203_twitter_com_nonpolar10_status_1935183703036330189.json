@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "1935005927440343318",
+    "created_at": "2025-06-18T03:52:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T04:52:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935183703036330189"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1935183703036330189",
+    "in_reply_to_user_id": "1390592139193556992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935018397395468651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "而是，任何“相信”都只能作为“途径”来理解，相信是意识“选择”未来的方式，或一种真诚的自欺，这种选择不是完全自由的，也不是彻底决定论的。\n\n“等号”或“是”的确定性关系乃最大的诡辩，从来都只能从一种担保或注册的方式理解。\n\n而以一个理想的无限远点去拉平并否定各种“相信”间的差异，则是另一种偏废。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1935005927440343318",
+        "created_at": "2025-06-18T03:52:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T04:52:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935183703036330189"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1935183703036330189",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935018397395468651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "而是，任何“相信”都只能作为“途径”来理解，相信是意识“选择”未来的方式，或一种真诚的自欺，这种选择不是完全自由的，也不是彻底决定论的。\n\n“等号”或“是”的确定性关系乃最大的诡辩，从来都只能从一种担保或注册的方式理解。\n\n而以一个理想的无限远点去拉平并否定各种“相信”间的差异，则是另一种偏废。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1935005927440343318",
+        "created_at": "2025-06-17T16:55:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T17:55:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935018397395468651"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1935018397395468651",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935013767638827510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "于是，那份“信仰”的牢固实际体现在能否承受那种撕裂，此外，它本身还是一种“过去没有，而未来无效”的东西。\n\n问题不在于“信”的不可能，因为这早已昭然若揭，任何“相信”在原理上都是“有问题”的，它们遵循类似的模式，无论公理与逻辑的修辞学、现象和假说的归纳法，还是范式与共同体中话语和规则的塑造。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 311,
+          "like_count": 1729,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 1343
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

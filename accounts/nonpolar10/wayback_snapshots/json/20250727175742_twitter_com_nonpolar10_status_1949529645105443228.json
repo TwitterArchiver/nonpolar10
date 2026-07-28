@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "1949529624419148191",
+    "created_at": "2025-07-27T17:57:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T18:57:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949529645105443228"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1949529645105443228",
+    "in_reply_to_user_id": "1390592139193556992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949529640974041218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "记忆的形式是运动着的“当下”，它也是一种“当下”的运动，于是，不存在一种“提取”。\n\n关于历史时间结构的本体论，从一开始就排斥着具体的存在，或至少拒绝一般直接理解而趋于某种神秘化。\n\n辩证法想要把握这种历史运动的具象，却也经常沦为一种寄生式的解释论。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1949529624419148191",
+        "created_at": "2025-07-27T17:57:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T18:57:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949529645105443228"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949529645105443228",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949529640974041218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "记忆的形式是运动着的“当下”，它也是一种“当下”的运动，于是，不存在一种“提取”。\n\n关于历史时间结构的本体论，从一开始就排斥着具体的存在，或至少拒绝一般直接理解而趋于某种神秘化。\n\n辩证法想要把握这种历史运动的具象，却也经常沦为一种寄生式的解释论。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1949529624419148191",
+        "created_at": "2025-07-27T17:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T18:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949529640974041218"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949529640974041218",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949529624419148191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“时间”在意识内并不是一种线性的固定结构，（曾经的）未来也成为过去，过去（与成为过去的未来）也能再现于未来。\n\n无论过去或未来都是虚有。\n\n虚有之物只能以想象把握，却不断汇入唯一的当下，于是存在的运动便是虚有的运动。\n\n“当下”中介着二者内容物的运动，承受那种分裂，是可能性的具象。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 304,
+          "like_count": 1729,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 1357
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

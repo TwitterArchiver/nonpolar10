@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2059507778306380257",
+    "created_at": "2026-05-27T07:08:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T08:08:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059532234781249715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1422567543940677634",
+          "start": 0,
+          "username": "UraOlt"
+        },
+        {
+          "end": 23,
+          "id": "1489468526826082312",
+          "start": 8,
+          "username": "Diamond_Kokoro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059532234781249715",
+    "in_reply_to_user_id": "1422567543940677634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059507778306380257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UraOlt @Diamond_Kokoro 确实有时候很不舒服，甚至被骂了而感到惊恐也只能先强作镇定，也要先赔礼，\n\n我也不会骂人，不会吐脏字，也只能对事不对人，或者只是对人的特定，有限时间经验内的行为，说到底，我经常还是愿意相信人的反思力永与向好的可能性，愿意相信人能够自我超越……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2059507778306380257",
+        "created_at": "2026-05-27T07:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T08:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059532234781249715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1422567543940677634",
+              "start": 0,
+              "username": "UraOlt"
+            },
+            {
+              "end": 23,
+              "id": "1489468526826082312",
+              "start": 8,
+              "username": "Diamond_Kokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059532234781249715",
+        "in_reply_to_user_id": "1422567543940677634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059507778306380257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UraOlt @Diamond_Kokoro 确实有时候很不舒服，甚至被骂了而感到惊恐也只能先强作镇定，也要先赔礼，\n\n我也不会骂人，不会吐脏字，也只能对事不对人，或者只是对人的特定，有限时间经验内的行为，说到底，我经常还是愿意相信人的反思力永与向好的可能性，愿意相信人能够自我超越……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422567543940677634",
+        "conversation_id": "2059507778306380257",
+        "created_at": "2026-05-27T05:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T06:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059507778306380257"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/UraOlt/status/…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/UraOlt/status/2059505906036187149",
+              "start": 59,
+              "url": "https://t.co/6bCgeiBxOo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059507778306380257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 182,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059505906036187149",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "被家人、熟人这样过，我说不出难听的话，我也不知道的原因，极度愤怒的时候想骂人但说不出来脏话，被训成这种性格，很无力， https://t.co/6bCgeiBxOo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "路过的黑猫，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 270,
+          "like_count": 1923,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 1506
+        },
+        "username": "nonpolar10",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-03T14:38:43.000Z",
+        "description": "他骑着格拉尼，他的骏马，穿过迷雾与地狱的业火。/风湿/火热/✒️✏️🖌️🎨/🏳️‍⚧️",
+        "id": "1422567543940677634",
+        "location": "0.1km",
+        "name": "素",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049537048395366400/QLpYzsuI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1489,
+          "following_count": 418,
+          "like_count": 212821,
+          "listed_count": 3,
+          "media_count": 130,
+          "tweet_count": 13639
+        },
+        "username": "UraOlt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "@irisdesombres 愛人，請祢穿過秦淮的夜找到我。我們一起回去，回到羅馬祢所喜歡的神廟，用幸福、歡笑和生命來愛。直到死神悄然來臨，在我們親吻彼此的時候親吻祢和我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "irisdesombres"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "name": "小羽",
+        "pinned_tweet_id": "2057594069967352086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059088486138068992/8HzinsZx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 138,
+          "like_count": 7191,
+          "listed_count": 3,
+          "media_count": 193,
+          "tweet_count": 4981
+        },
+        "username": "Diamond_Kokoro",
+        "verified": true
+      }
+    ]
+  }
+}

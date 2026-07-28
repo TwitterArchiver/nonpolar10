@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "1930691675229433972",
+    "created_at": "2025-06-05T18:22:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T19:22:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930691679927009591"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1930691679927009591",
+    "in_reply_to_user_id": "1390592139193556992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930691676919755115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "战后的后现代主义思想广泛吸取了海氏的遗产，尤其是阿伦特，像美狄亚一样叛离了她的兄弟姐妹……虽然但总体上后现代主义的形式更加温和，但它无疑也给了海德格尔另一次机会，这个问题我们在这里就先放下不谈。\n3/n"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1930691675229433972",
+        "created_at": "2025-06-05T18:22:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T19:22:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930691679927009591"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1930691679927009591",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930691676919755115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "战后的后现代主义思想广泛吸取了海氏的遗产，尤其是阿伦特，像美狄亚一样叛离了她的兄弟姐妹……虽然但总体上后现代主义的形式更加温和，但它无疑也给了海德格尔另一次机会，这个问题我们在这里就先放下不谈。\n3/n"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1930691675229433972",
+        "created_at": "2025-06-05T18:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T19:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930691676919755115"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1930691676919755115",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930691675229433972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "正如前面两个thread说到的，“谋杀”是一种恰当但又稍微过头的隐喻，意识主体的虚拟化存在状态与那个确实\n且唯一的死亡之间尚且存在一段不长不短的距离，此为可能性的空间。\n\n海德格尔对往昔与英雄主义的追奉，和斗争作为共同体形成条件的想法无疑正朝着某种战争意识形态运动，也无疑其加入了纳粹党。2/n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 312,
+          "like_count": 1730,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 1327
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

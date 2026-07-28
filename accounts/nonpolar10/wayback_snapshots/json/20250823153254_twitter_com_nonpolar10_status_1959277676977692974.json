@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "1959277676977692974",
+    "created_at": "2025-08-23T15:32:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T16:32:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1959277676977692974"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1959277676977692974",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果不存在一种对无关意识对信息加工的“绝对真实”之有效承诺，人首先便只能退而求次地把握某种内在的绝对，但在这个开端，它仍是一种想象的综合。\n\n但在意识的开端，不存在比想象更真实的东西，比起唯心论，这其实更接近一种现象学的“实在论”。我们通过确认彼此想象的内容，历史性地抵达有限的“真实”。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1959277676977692974",
+        "created_at": "2025-08-23T15:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T16:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959277676977692974"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959277676977692974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果不存在一种对无关意识对信息加工的“绝对真实”之有效承诺，人首先便只能退而求次地把握某种内在的绝对，但在这个开端，它仍是一种想象的综合。\n\n但在意识的开端，不存在比想象更真实的东西，比起唯心论，这其实更接近一种现象学的“实在论”。我们通过确认彼此想象的内容，历史性地抵达有限的“真实”。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 270,
+          "like_count": 1713,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 1384
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

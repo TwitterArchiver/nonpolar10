@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2059239939737329723",
+    "created_at": "2026-05-26T19:25:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T20:25:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059355197995159729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1636852409577119746",
+          "start": 0,
+          "username": "Cocteau1848"
+        },
+        {
+          "end": 28,
+          "id": "1523552276119711745",
+          "start": 13,
+          "username": "DeorctheOrigin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059355197995159729",
+    "in_reply_to_user_id": "1636852409577119746",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059350949752189267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cocteau1848 @DeorctheOrigin Enmancipation，自由与解放，系统性困境的不再，人类彼此孤立境况的结束。\n\n对国际共运失败与堕落的惋惜，对当今革命低潮和新自由主义保守浪潮、资本主义新封建、新奴隶制的积怨。\n\n曾熄灭过的，一点理想主义的火星。\n\n嗯…我这就去睡，明天醒了再推石头……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2059239939737329723",
+        "created_at": "2026-05-26T19:25:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T20:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059355197995159729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1636852409577119746",
+              "start": 0,
+              "username": "Cocteau1848"
+            },
+            {
+              "end": 28,
+              "id": "1523552276119711745",
+              "start": 13,
+              "username": "DeorctheOrigin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059355197995159729",
+        "in_reply_to_user_id": "1636852409577119746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059350949752189267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cocteau1848 @DeorctheOrigin Enmancipation，自由与解放，系统性困境的不再，人类彼此孤立境况的结束。\n\n对国际共运失败与堕落的惋惜，对当今革命低潮和新自由主义保守浪潮、资本主义新封建、新奴隶制的积怨。\n\n曾熄灭过的，一点理想主义的火星。\n\n嗯…我这就去睡，明天醒了再推石头……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1636852409577119746",
+        "conversation_id": "2059239939737329723",
+        "created_at": "2026-05-26T19:08:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T20:08:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059350949752189267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1390592139193556992",
+              "start": 0,
+              "username": "nonpolar10"
+            },
+            {
+              "end": 27,
+              "id": "1523552276119711745",
+              "start": 12,
+              "username": "DeorctheOrigin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059350949752189267",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059348113115205740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nonpolar10 @DeorctheOrigin 这是在说你主张要怀抱着某种意义；但是在这个过程中存在着某种很微妙的“说服自己这样有意义”的某种假装或者扮演意义的歧路，要小心分辨的意思吗\n\n还有，快去睡觉啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "路过的黑猫，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 270,
+          "like_count": 1921,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 1504
+        },
+        "username": "nonpolar10",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-17T22:10:30.000Z",
+        "description": "",
+        "id": "1636852409577119746",
+        "name": "YouZi",
+        "pinned_tweet_id": "1636868317112684545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050182937501483008/AR6JcM7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 34,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 33
+        },
+        "username": "Cocteau1848",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-09T06:35:57.000Z",
+        "description": "Dark Ambience & Nature's Lover. Medival & Victoria Gothicism. Anti-anthropocentrism. Cure Seeker. Empath/HSP but ASD. Median. She/Her. Safe here🏳️‍⚧️🏳️‍🌈.",
+        "id": "1523552276119711745",
+        "name": "{{the Original Star}}",
+        "pinned_tweet_id": "1914168147600687604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880614058904416256/rjD4Reyf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 341,
+          "like_count": 65806,
+          "listed_count": 2,
+          "media_count": 707,
+          "tweet_count": 19362
+        },
+        "username": "DeorctheOrigin",
+        "verified": false
+      }
+    ]
+  }
+}

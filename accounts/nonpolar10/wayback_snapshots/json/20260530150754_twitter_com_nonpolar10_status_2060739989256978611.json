@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      }
+    ],
+    "conversation_id": "2060739989256978611",
+    "created_at": "2026-05-30T15:07:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T16:07:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060739989256978611"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060739989256978611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "贴标签游戏\n\n半途而废的天坑专业学术奴工，不知还有几年活头的过期文学少女，路过的黑猫。\n\n社交退缩者，间歇性话多者，放弃自杀者，亲密关系不享受者，亲疏无别者，工地友谊缔造者，可靠的同伴，微笑的小幽灵。\n\n消沉者，激越者，症候式行动者。\n\n心脏弱，肠胃弱，神经弱。\n\n活在语言里，死在沉默中。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2060739989256978611",
+        "created_at": "2026-05-30T15:07:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T16:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060739989256978611"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060739989256978611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "贴标签游戏\n\n半途而废的天坑专业学术奴工，不知还有几年活头的过期文学少女，路过的黑猫。\n\n社交退缩者，间歇性话多者，放弃自杀者，亲密关系不享受者，亲疏无别者，工地友谊缔造者，可靠的同伴，微笑的小幽灵。\n\n消沉者，激越者，症候式行动者。\n\n心脏弱，肠胃弱，神经弱。\n\n活在语言里，死在沉默中。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "路过的黑猫🐈‍⬛，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 296,
+          "like_count": 1996,
+          "listed_count": 2,
+          "media_count": 135,
+          "tweet_count": 1566
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

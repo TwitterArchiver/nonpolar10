@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2066507915406749907",
+    "created_at": "2026-06-15T18:21:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T19:21:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066587023499297226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1446461580141490179",
+          "start": 0,
+          "username": "liangjie_2021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066587023499297226",
+    "in_reply_to_user_id": "1390592139193556992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066584986929786943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liangjie_2021 人们只是观测到神经电信号的观测与机体运动输出之间有毫秒级的稳定延迟，就大喜过望地宣称发现了本体论的真理，这反而暴露了对存在本身理解的缺失。\n\n但我们打个比方，一台风车，它的风帆被吹动，齿轮铰接的磨盘把小麦磨成面粉，但谁会说能得到面粉的原因是风帆而不是风呢？磨盘与风帆不是一体的呢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2066507915406749907",
+        "created_at": "2026-06-15T18:21:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T19:21:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066587023499297226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1446461580141490179",
+              "start": 0,
+              "username": "liangjie_2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066587023499297226",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066584986929786943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liangjie_2021 人们只是观测到神经电信号的观测与机体运动输出之间有毫秒级的稳定延迟，就大喜过望地宣称发现了本体论的真理，这反而暴露了对存在本身理解的缺失。\n\n但我们打个比方，一台风车，它的风帆被吹动，齿轮铰接的磨盘把小麦磨成面粉，但谁会说能得到面粉的原因是风帆而不是风呢？磨盘与风帆不是一体的呢？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2066507915406749907",
+        "created_at": "2026-06-15T18:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T19:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066584986929786943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1446461580141490179",
+              "start": 0,
+              "username": "liangjie_2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066584986929786943",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066580512546898249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liangjie_2021 即我们自身成为这样一种认知内容的拟象，模仿与歇斯底里，而不存在任何额外的意义，它们只是徒劳与幻觉。但相较于建造长城或金字塔而死的奴隶，“我们”还有这份通透与清醒，有追求自己定义之快乐的自由——只剩下悲哀与享乐之间的二极震荡，基本就是叔本华式愚蠢的悲观主义，最多也只是加缪式的荒诞主义。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "半途而废的天坑领域学术奴工，不知有几年活头的过期文学少女。生于语言中，死在沉默里，词语的肉身，症候性的非实存。昨日路过的黑猫🐈‍⬛，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 301,
+          "like_count": 2069,
+          "listed_count": 2,
+          "media_count": 137,
+          "tweet_count": 1625
+        },
+        "username": "nonpolar10",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-08T13:04:56.000Z",
+        "description": "「特别强调现实的残酷，反过来说是不了解残酷程度的反映，各种意义上，意味着准备不足。」 \n ──雾间诚一《作为败因的另类自我》",
+        "id": "1446461580141490179",
+        "name": "LiangJie🇵🇸🇺🇦🇧🇫🇲🇲",
+        "pinned_tweet_id": "1832651502332129631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897930207140757506/6VCaGro0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 984,
+          "following_count": 1348,
+          "like_count": 88661,
+          "listed_count": 12,
+          "media_count": 596,
+          "tweet_count": 11042
+        },
+        "username": "liangjie_2021",
+        "verified": false
+      }
+    ]
+  }
+}

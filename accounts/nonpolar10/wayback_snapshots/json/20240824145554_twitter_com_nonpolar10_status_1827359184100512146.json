@@ -1,0 +1,137 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "1827240110607290645",
+    "created_at": "2024-08-24T14:55:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-24T15:55:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1827359184100512146"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1827359184100512146",
+    "in_reply_to_user_id": "1390592139193556992",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827358530791469200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "恍然发现，其实并没思考过去死的理由，实际上，只是不停地排除着活下去的动因，也就是，只有活着才是被考虑的事件（这绝对不是无辜的），而死亡仅作为它的不在场，前者因此就成为一种实在的理所应当，包含了诸多甚至所有既定价值的地方，而这在那时是无法被接受的，于是，忽然在某种剧烈的恶心中惊醒。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1827240110607290645",
+        "created_at": "2024-08-24T14:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-24T15:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827359184100512146"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1827359184100512146",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827358530791469200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "恍然发现，其实并没思考过去死的理由，实际上，只是不停地排除着活下去的动因，也就是，只有活着才是被考虑的事件（这绝对不是无辜的），而死亡仅作为它的不在场，前者因此就成为一种实在的理所应当，包含了诸多甚至所有既定价值的地方，而这在那时是无法被接受的，于是，忽然在某种剧烈的恶心中惊醒。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1827240110607290645",
+        "created_at": "2024-08-24T14:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-24T15:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827358530791469200"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1827358530791469200",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827358313266475216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当一个人真正开始计划自己的死亡时，就会发现这也是一个需要费力进行的动作，并且同样是有附带影响的事件。假如在思维上了维持了那种一贯的虚无主义态度和（自身）价值无涉原则，就无法不对此感到不快，因为，问题就在于这种“不存在理所当然”的怀疑原则，最终必然迎头撞见自己「主观性」的不对称分布。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "Die Toteninsle/边界的宽度",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770748175294300160/fx_fSZEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 328,
+          "like_count": 1740,
+          "listed_count": 1,
+          "tweet_count": 1319
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

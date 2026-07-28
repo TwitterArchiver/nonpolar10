@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "1935005927440343318",
+    "created_at": "2025-06-17T16:55:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T17:55:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935018397395468651"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1935018397395468651",
+    "in_reply_to_user_id": "1390592139193556992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935013767638827510",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "于是，那份“信仰”的牢固实际体现在能否承受那种撕裂，此外，它本身还是一种“过去没有，而未来无效”的东西。\n\n问题不在于“信”的不可能，因为这早已昭然若揭，任何“相信”在原理上都是“有问题”的，它们遵循类似的模式，无论公理与逻辑的修辞学、现象和假说的归纳法，还是范式与共同体中话语和规则的塑造。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1935005927440343318",
+        "created_at": "2025-06-17T16:55:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T17:55:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935018397395468651"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1935018397395468651",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935013767638827510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "于是，那份“信仰”的牢固实际体现在能否承受那种撕裂，此外，它本身还是一种“过去没有，而未来无效”的东西。\n\n问题不在于“信”的不可能，因为这早已昭然若揭，任何“相信”在原理上都是“有问题”的，它们遵循类似的模式，无论公理与逻辑的修辞学、现象和假说的归纳法，还是范式与共同体中话语和规则的塑造。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1935005927440343318",
+        "created_at": "2025-06-17T16:36:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T17:36:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935013767638827510"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1935013767638827510",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935005927440343318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以，绝望与希望是不折不扣的神学命题，是一张在慌乱中拉起的风帆，问题只在于意识中的那阵“风”是从这边吹来还是从那边吹来，但这并不总是偶然。\n\n朝向风来的地方，到那边去——意识离开自己的绝对空间，以此拒绝被吹向一个更加盲目的深处。\n\n逆风航行所依赖的是帆面间的压差，或者说，帆与风间的角度。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 311,
+          "like_count": 1729,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 1342
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

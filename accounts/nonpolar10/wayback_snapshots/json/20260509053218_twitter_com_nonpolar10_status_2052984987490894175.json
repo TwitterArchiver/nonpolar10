@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "2052984972437565950",
+    "created_at": "2026-05-09T05:32:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T06:32:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052984987490894175"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052984987490894175",
+    "in_reply_to_user_id": "1390592139193556992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052984981388177721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "自己应当总是厌倦了“儿童心理学”，但像又不可避免似的每走几步就被一些早期经验的影子击中——顺着当下的一些感觉，意识仿佛自动寻到了过往，陷入某种恍惚。\n\n有时会觉得自己就是为了回味曾经的那些耻辱，才让当下的事情发生，无论有多遗憾，无论这样的结果多不合适，那都像是我的选择，而非偶然的命运。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2052984972437565950",
+        "created_at": "2026-05-09T05:32:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T06:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052984987490894175"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052984987490894175",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052984981388177721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自己应当总是厌倦了“儿童心理学”，但像又不可避免似的每走几步就被一些早期经验的影子击中——顺着当下的一些感觉，意识仿佛自动寻到了过往，陷入某种恍惚。\n\n有时会觉得自己就是为了回味曾经的那些耻辱，才让当下的事情发生，无论有多遗憾，无论这样的结果多不合适，那都像是我的选择，而非偶然的命运。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2052984972437565950",
+        "created_at": "2026-05-09T05:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T06:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052984981388177721"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052984981388177721",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052984976799584541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "与波德莱尔表面上相反却像是同构的，这是一朵“善之花”，却来自对恶之果的追认与不放松，必须清洗侵入自己意识的这些不纯粹，于是，实际上是为“加害者”进行着赎罪，是的，我或多或少曾爱我的“加害者”们，至少是以某些复杂的情愫，因而不愿相信那些背叛，更不能宽恕自己的盲目，自己的“别无选择”。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOIC.",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 262,
+          "like_count": 1821,
+          "listed_count": 2,
+          "media_count": 129,
+          "tweet_count": 1435
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

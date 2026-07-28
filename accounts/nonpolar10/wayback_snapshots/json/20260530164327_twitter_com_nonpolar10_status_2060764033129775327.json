@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2060756619148034180",
+    "created_at": "2026-05-30T16:43:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T17:43:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060764033129775327"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060764033129775327",
+    "in_reply_to_user_id": "1390592139193556992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060761371701358919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "的理解，或着，其实是问题意识，而这又与自然科学体系中对成果评议与具体研究项目的组织方式密不可分了（再谈下去会很长，所以先搁置）。\n\n但那些物质，它并不是我们的「原因」和「本质」，把受遮蔽或不能由“天然技术”认知的东西当作本质，是没认知到技术本身对其意识作用的，前代人类的智性局限。5/n"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2060756619148034180",
+        "created_at": "2026-05-30T16:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T17:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060764033129775327"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060764033129775327",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060761371701358919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "的理解，或着，其实是问题意识，而这又与自然科学体系中对成果评议与具体研究项目的组织方式密不可分了（再谈下去会很长，所以先搁置）。\n\n但那些物质，它并不是我们的「原因」和「本质」，把受遮蔽或不能由“天然技术”认知的东西当作本质，是没认知到技术本身对其意识作用的，前代人类的智性局限。5/n"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2060756619148034180",
+        "created_at": "2026-05-30T16:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T17:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060761371701358919"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060761371701358919",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060758683244790077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "物质能与我们的精神互动，而我们的精神活动有依赖生理上的物质组织形式。当代的生物学虽不至于为它提供全部的系统工程与控制论解释，却能够将要素进行相对有效的分离，并基于可复现的现象进行测验，以及在我看来稍微有点盲目的理论构建。\n\n这种看法主要是来自学界似乎对于什么才是“现象”缺乏合适 4/n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "路过的黑猫🐈‍⬛，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 296,
+          "like_count": 1996,
+          "listed_count": 2,
+          "media_count": 135,
+          "tweet_count": 1575
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

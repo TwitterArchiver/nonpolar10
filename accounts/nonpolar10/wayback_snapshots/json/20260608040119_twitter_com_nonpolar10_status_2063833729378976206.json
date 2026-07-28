@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2063609848777039965",
+    "created_at": "2026-06-08T04:01:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T05:01:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063833729378976206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1488955970570964992",
+          "start": 0,
+          "username": "zhangdepei2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063833729378976206",
+    "in_reply_to_user_id": "1488955970570964992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063609848777039965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhangdepei2 “连续工作一个月没有休息”无论这不是种修辞上的模糊，是被压榨还是心甘情愿，听起来都很成问题。\n\n孤独、压抑和迷茫，一些无定形的忧虑，为了逃离它们，人总是更愿意选择确定的折磨——麻痹，或剥夺自己的感受与思考。\n\n经验上，这种状态似乎总会被击穿，不能在此之前多给自己些时间想想的话，会很麻烦。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2063609848777039965",
+        "created_at": "2026-06-08T04:01:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T05:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063833729378976206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1488955970570964992",
+              "start": 0,
+              "username": "zhangdepei2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063833729378976206",
+        "in_reply_to_user_id": "1488955970570964992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063609848777039965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhangdepei2 “连续工作一个月没有休息”无论这不是种修辞上的模糊，是被压榨还是心甘情愿，听起来都很成问题。\n\n孤独、压抑和迷茫，一些无定形的忧虑，为了逃离它们，人总是更愿意选择确定的折磨——麻痹，或剥夺自己的感受与思考。\n\n经验上，这种状态似乎总会被击穿，不能在此之前多给自己些时间想想的话，会很麻烦。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1488955970570964992",
+        "conversation_id": "2063609848777039965",
+        "created_at": "2026-06-07T13:11:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:11:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063609848777039965"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063609848777039965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 151,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果我能闲下来的话，我是会很愿意发推的，就像几年前一样。\n连续工作了一个月没有休息，今天总算是能休息一天。\n在单休的时候会怀念双休，在连续上班的时候，又会怀念起单休，我的底线啊，总是一退再退。\n生活的压力……我真的需要这么大吗？没车没房，一人吃饱，全家不饿，也似乎不比如此辛劳。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "半途而废的天坑领域学术奴工，不知有几年活头的过期文学少女。生于语言中，死在沉默里，词语的肉身，症候性的非实存。昨日路过的黑猫🐈‍⬛，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 299,
+          "like_count": 2053,
+          "listed_count": 2,
+          "media_count": 137,
+          "tweet_count": 1600
+        },
+        "username": "nonpolar10",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-02T19:22:35.000Z",
+        "description": "你好，很高兴能遇见你（棒读）",
+        "id": "1488955970570964992",
+        "name": "土豆分身术",
+        "pinned_tweet_id": "1647057063263219712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620789551156416517/LOqK13lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 534,
+          "like_count": 18335,
+          "listed_count": 0,
+          "media_count": 285,
+          "tweet_count": 3249
+        },
+        "username": "zhangdepei2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2058552027874050185",
+    "created_at": "2026-05-24T15:06:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T16:06:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058565353039675643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1636852409577119746",
+          "start": 0,
+          "username": "Cocteau1848"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058565353039675643",
+    "in_reply_to_user_id": "1636852409577119746",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058552027874050185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cocteau1848 “To love is to suffer, and there can  be no love otherwise.”虽然我习惯于把对人的关切当作是“自己的一厢情愿”，但同时也觉得“爱”（若我允许自己权宜性地使用这个代称）这样的事情靠蛮力是不行的。\n\n心意相通有赖于长久互动中的理解与默契，若对“爱”的内容无法达成一致，很容易想象将造成何种恐慌。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2058552027874050185",
+        "created_at": "2026-05-24T15:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T16:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058565353039675643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1636852409577119746",
+              "start": 0,
+              "username": "Cocteau1848"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058565353039675643",
+        "in_reply_to_user_id": "1636852409577119746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058552027874050185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cocteau1848 “To love is to suffer, and there can  be no love otherwise.”虽然我习惯于把对人的关切当作是“自己的一厢情愿”，但同时也觉得“爱”（若我允许自己权宜性地使用这个代称）这样的事情靠蛮力是不行的。\n\n心意相通有赖于长久互动中的理解与默契，若对“爱”的内容无法达成一致，很容易想象将造成何种恐慌。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1636852409577119746",
+        "conversation_id": "2058552027874050185",
+        "created_at": "2026-05-24T14:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T15:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058552027874050185"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058552027874050185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直以为爱这种感情在很大程度上是单向的，对于那些对方愿意接受的爱，我希望我的自愿是不求回报的。有时候，我会想，或许只有这样我才能够觉得自己在爱。  \n\n可是，我发现我很矛盾…想到自己的曾经给出的爱将会被无视、甚至变成对方刻意回避的痛苦，会让我很委屈。我不喜欢自己这样委屈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 266,
+          "like_count": 1888,
+          "listed_count": 2,
+          "media_count": 129,
+          "tweet_count": 1463
+        },
+        "username": "nonpolar10",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-17T22:10:30.000Z",
+        "description": "",
+        "id": "1636852409577119746",
+        "name": "YouZi",
+        "pinned_tweet_id": "1636868317112684545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050182937501483008/AR6JcM7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 24,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 15
+        },
+        "username": "Cocteau1848",
+        "verified": false
+      }
+    ]
+  }
+}

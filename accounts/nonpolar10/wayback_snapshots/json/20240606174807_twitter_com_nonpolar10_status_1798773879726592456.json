@@ -1,0 +1,84 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "1798773879726592456",
+    "created_at": "2024-06-06T17:48:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-06T18:48:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1798773879726592456"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1798773879726592456",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "总是后知后觉地发现左眼在流泪。\n\n可与此同时，发生了什么？\n\n在这里不仅不存在确定性的概念与明晰的解释，意识本身也变得浅淡，回忆也总是徒劳，除了一种淡漠…以及能实在感受到却似乎并不属于自己，也无法拒绝的身体痛苦外，别无他物。\n\n它们被萃取，分离，而后丢弃，最终只剩一种微漠而干枯的印象。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1798773879726592456",
+        "created_at": "2024-06-06T17:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-06T18:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1798773879726592456"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1798773879726592456",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "总是后知后觉地发现左眼在流泪。\n\n可与此同时，发生了什么？\n\n在这里不仅不存在确定性的概念与明晰的解释，意识本身也变得浅淡，回忆也总是徒劳，除了一种淡漠…以及能实在感受到却似乎并不属于自己，也无法拒绝的身体痛苦外，别无他物。\n\n它们被萃取，分离，而后丢弃，最终只剩一种微漠而干枯的印象。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "Die Toteninsle/边界的宽度",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770748175294300160/fx_fSZEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 315,
+          "like_count": 1526,
+          "listed_count": 1,
+          "tweet_count": 1276
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

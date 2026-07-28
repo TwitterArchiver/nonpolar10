@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2056221025671528887",
+    "created_at": "2026-05-18T06:26:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T07:26:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056260150575698192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2022253175345143809",
+          "start": 0,
+          "username": "irisdesombres"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056260150575698192",
+    "in_reply_to_user_id": "1390592139193556992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056257283701772715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@irisdesombres 而与此同时，对于一般的共同体概念，其局限性也十分明显——它总是要求一个外部，仿佛存在一种彻底的对立或切断，并以此塑造成一种群体压力，标志着理解、共情，以至于经验的限度。\n\n但另一方面，人所能够经验的物质世界是有限的，所能够创造的历史也是有限的，一切都是在具体而偶然的条件下发生。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2056221025671528887",
+        "created_at": "2026-05-18T06:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T07:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056260150575698192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2022253175345143809",
+              "start": 0,
+              "username": "irisdesombres"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056260150575698192",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056257283701772715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@irisdesombres 而与此同时，对于一般的共同体概念，其局限性也十分明显——它总是要求一个外部，仿佛存在一种彻底的对立或切断，并以此塑造成一种群体压力，标志着理解、共情，以至于经验的限度。\n\n但另一方面，人所能够经验的物质世界是有限的，所能够创造的历史也是有限的，一切都是在具体而偶然的条件下发生。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2056221025671528887",
+        "created_at": "2026-05-18T06:15:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T07:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056257283701772715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2022253175345143809",
+              "start": 0,
+              "username": "irisdesombres"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056257283701772715",
+        "in_reply_to_user_id": "2022253175345143809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056221025671528887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@irisdesombres 取决于对所谓同一性有怎样的要求，人与人从来都是相似却又不同，最重要的，人是会变化的。\n\n于是，所谓“共同体”的观念更多要从一种主张、一种承诺的角度来理解，是时间之中基于共同意识的存在而非永恒本质，人不喜欢真正的孤独，它脆弱而无意义，但被过度强调的同一性会又吞噬掉那些未能被表述的差异。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOIC.",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 259,
+          "like_count": 1843,
+          "listed_count": 2,
+          "media_count": 129,
+          "tweet_count": 1442
+        },
+        "username": "nonpolar10",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T10:15:18.000Z",
+        "description": "𝗔𝗴𝗲𝗻𝗱𝗲𝗿\n世上本无真品一说，可有的人比所谓真品更真\n仁慈而高贵的是你@Diamond_kokoro",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 37,
+                "username": "Diamond_kokoro"
+              }
+            ]
+          }
+        },
+        "id": "2022253175345143809",
+        "name": "鴉尾鸢",
+        "pinned_tweet_id": "2034978855153234418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024275236531695616/xar82bpz_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 134,
+          "like_count": 7749,
+          "listed_count": 1,
+          "media_count": 190,
+          "tweet_count": 4981
+        },
+        "username": "irisdesombres",
+        "verified": false
+      }
+    ]
+  }
+}

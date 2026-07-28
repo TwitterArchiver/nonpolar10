@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2066507915406749907",
+    "created_at": "2026-06-15T13:42:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T14:42:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066516807423492301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1446461580141490179",
+          "start": 0,
+          "username": "liangjie_2021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066516807423492301",
+    "in_reply_to_user_id": "1446461580141490179",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066507915406749907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liangjie_2021 对象化与符号化，“神经雕刻”，隐喻网络，遗忘，无意识。\n\n意向的迷走，物的梦呓？\n\n人的理性主观必须面对这种恶心感而无可逃脱，毫无道理可讲，它只是思考的伴生物，人最终总会发现自己存在的物性与无根基性。\n\n意识到只能自由地在不自由中抉择是苦刑无疑，而若那不自由也“毫无意义”，便是折磨的极致。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2066507915406749907",
+        "created_at": "2026-06-15T13:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T14:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066516807423492301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1446461580141490179",
+              "start": 0,
+              "username": "liangjie_2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066516807423492301",
+        "in_reply_to_user_id": "1446461580141490179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066507915406749907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liangjie_2021 对象化与符号化，“神经雕刻”，隐喻网络，遗忘，无意识。\n\n意向的迷走，物的梦呓？\n\n人的理性主观必须面对这种恶心感而无可逃脱，毫无道理可讲，它只是思考的伴生物，人最终总会发现自己存在的物性与无根基性。\n\n意识到只能自由地在不自由中抉择是苦刑无疑，而若那不自由也“毫无意义”，便是折磨的极致。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1446461580141490179",
+        "conversation_id": "2066507915406749907",
+        "created_at": "2026-06-15T13:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T14:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066507915406749907"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066507915406749907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 95,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "意志虽然在推动我们，把我们推向某一个特定的方向，但却是在一座树篱迷宫的内部移动，哪条路走得通，是由世界的其他部分决定的，而跟我们想要什么无关。所以说，我们是在迷宫里不情不愿地移动，而不是自由自在。来自外部和内部的压力组合在一起，共同判定了我们在这座名为“生活”的疯狂树篱迷宫中的路径"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "半途而废的天坑领域学术奴工，不知有几年活头的过期文学少女。生于语言中，死在沉默里，词语的肉身，症候性的非实存。昨日路过的黑猫🐈‍⬛，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 301,
+          "like_count": 2066,
+          "listed_count": 2,
+          "media_count": 137,
+          "tweet_count": 1613
+        },
+        "username": "nonpolar10",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-08T13:04:56.000Z",
+        "description": "「特别强调现实的残酷，反过来说是不了解残酷程度的反映，各种意义上，意味着准备不足。」 \n ──雾间诚一《作为败因的另类自我》",
+        "id": "1446461580141490179",
+        "name": "LiangJie🇵🇸🇺🇦🇧🇫🇲🇲",
+        "pinned_tweet_id": "1832651502332129631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897930207140757506/6VCaGro0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 983,
+          "following_count": 1348,
+          "like_count": 88644,
+          "listed_count": 12,
+          "media_count": 596,
+          "tweet_count": 11039
+        },
+        "username": "liangjie_2021",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2063609848777039965",
+    "created_at": "2026-06-09T07:01:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T08:01:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064241424347091413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1488955970570964992",
+          "start": 0,
+          "username": "zhangdepei2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064241424347091413",
+    "in_reply_to_user_id": "1488955970570964992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064013169379651593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhangdepei2 嗯嗯，土豆搬家hhh，意义或者价值什么的都可以之后慢慢考虑，反正在这种压榨工人和摧残心智的黑心企业是待不久的。\n\n我们不是前现代的奴隶，失去了脚上的锁链却得到了工资，但消费也被等同于生存。而对于资本主义，这种新“锁链”的一端在人脖子上，另一端则在人自己手中，而“主人”现在只需要操纵思想。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2063609848777039965",
+        "created_at": "2026-06-09T07:01:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T08:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064241424347091413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1488955970570964992",
+              "start": 0,
+              "username": "zhangdepei2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064241424347091413",
+        "in_reply_to_user_id": "1488955970570964992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064013169379651593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhangdepei2 嗯嗯，土豆搬家hhh，意义或者价值什么的都可以之后慢慢考虑，反正在这种压榨工人和摧残心智的黑心企业是待不久的。\n\n我们不是前现代的奴隶，失去了脚上的锁链却得到了工资，但消费也被等同于生存。而对于资本主义，这种新“锁链”的一端在人脖子上，另一端则在人自己手中，而“主人”现在只需要操纵思想。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1488955970570964992",
+        "conversation_id": "2063609848777039965",
+        "created_at": "2026-06-08T15:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064013169379651593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1390592139193556992",
+              "start": 0,
+              "username": "nonpolar10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064013169379651593",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063833729378976206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nonpolar10 是被压榨啊，工作后总是身不由己，被现实压力盖住的痛苦从来都不会消失，只会在压不住的临界点上爆发。\n等我攒点经验，立马辞职跑路。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "半途而废的天坑领域学术奴工，不知有几年活头的过期文学少女。生于语言中，死在沉默里，词语的肉身，症候性的非实存。昨日路过的黑猫🐈‍⬛，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 299,
+          "like_count": 2058,
+          "listed_count": 2,
+          "media_count": 137,
+          "tweet_count": 1602
+        },
+        "username": "nonpolar10",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-02T19:22:35.000Z",
+        "description": "你好，很高兴能遇见你（棒读）",
+        "id": "1488955970570964992",
+        "name": "土豆分身术",
+        "pinned_tweet_id": "1647057063263219712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620789551156416517/LOqK13lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 534,
+          "like_count": 18353,
+          "listed_count": 0,
+          "media_count": 285,
+          "tweet_count": 3253
+        },
+        "username": "zhangdepei2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2051996473265717346",
+    "created_at": "2026-05-29T06:39:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T07:39:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060249546022957288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1576928274168561669",
+          "start": 0,
+          "username": "wngzchn11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060249546022957288",
+    "in_reply_to_user_id": "1576928274168561669",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060243215341769043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wngzchn11 许多年前自杀意愿高涨的时候曾有那种浪漫幻想——参与某种基地考察，然后某一天，一个风雪暴烈的日子中，穿戴整齐后独自出走，走到冰山与冷水的交界，望着鲸鱼从水中跃出又落下。\n\n就这么坐着，望着暗白色的冷阳，然后身躯慢慢僵硬。\n\n但现在不想死了，和人说话总是更有意思一些hhh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2051996473265717346",
+        "created_at": "2026-05-29T06:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T07:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060249546022957288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1576928274168561669",
+              "start": 0,
+              "username": "wngzchn11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060249546022957288",
+        "in_reply_to_user_id": "1576928274168561669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060243215341769043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wngzchn11 许多年前自杀意愿高涨的时候曾有那种浪漫幻想——参与某种基地考察，然后某一天，一个风雪暴烈的日子中，穿戴整齐后独自出走，走到冰山与冷水的交界，望着鲸鱼从水中跃出又落下。\n\n就这么坐着，望着暗白色的冷阳，然后身躯慢慢僵硬。\n\n但现在不想死了，和人说话总是更有意思一些hhh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1576928274168561669",
+        "conversation_id": "2051996473265717346",
+        "created_at": "2026-05-29T06:13:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T07:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060243215341769043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1390592139193556992",
+              "start": 0,
+              "username": "nonpolar10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060243215341769043",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060241831510921530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nonpolar10 假使你在南极写调查报告.docx时还想喝一杯热茶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "路过的黑猫🐈‍⬛，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 289,
+          "like_count": 1952,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 1549
+        },
+        "username": "nonpolar10",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-03T13:33:32.000Z",
+        "description": "Here's an apology for being poor in any foreign languages, but fluent in Chinese only.\n‖\n我的繁體字閱讀能力或許不足以支持我完全理解妳的訊息。\n在有歧義時，允許我要求妳重新組織語言。",
+        "id": "1576928274168561669",
+        "name": "梨渦原點",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1576929465204183041/UlvcJXM3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 1094,
+          "like_count": 10102,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 172
+        },
+        "username": "wngzchn11",
+        "verified": false
+      }
+    ]
+  }
+}

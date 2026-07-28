@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2066191640600133994",
+    "created_at": "2026-06-14T16:36:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T17:36:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066198198109225176"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066198198109225176",
+    "in_reply_to_user_id": "1390592139193556992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066191642860851619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "曾有这种经验，人脸识别系统也随之失效，重复也无济于事。录入信息是多年前那个“生无可恋”时期的照片：眼神空洞涣散，表情僵硬，嘴唇抿紧，喉头紧绷，却仿佛一旦放松就会尖叫。\n\n只是回忆，面部神经就像是被劫持了，然后绿灯闪过，门禁打开了，我望着摄像头返回到屏幕的画面，只有说不出的诡异和陌生。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2066191640600133994",
+        "created_at": "2026-06-14T16:36:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T17:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066198198109225176"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066198198109225176",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066191642860851619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "曾有这种经验，人脸识别系统也随之失效，重复也无济于事。录入信息是多年前那个“生无可恋”时期的照片：眼神空洞涣散，表情僵硬，嘴唇抿紧，喉头紧绷，却仿佛一旦放松就会尖叫。\n\n只是回忆，面部神经就像是被劫持了，然后绿灯闪过，门禁打开了，我望着摄像头返回到屏幕的画面，只有说不出的诡异和陌生。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2066191640600133994",
+        "created_at": "2026-06-14T16:10:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T17:10:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066191642860851619"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066191642860851619",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066191640600133994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就如同无法翻身的萨姆沙一样，每天醒来的第一件事几乎就是某种“自我检定”，我暂时不清楚如何描述那种陌生感，说话的语气会不一样，对事物的反应会不一样，躯体症状的类型会不一样，照镜子如果仔细看就能察觉表情的微微妙区别，主要眼周肌肉和嘴角之类，有时会觉得亲切，有时甚至会被自己的眼神惊吓到。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "半途而废的天坑领域学术奴工，不知有几年活头的过期文学少女。生于语言中，死在沉默里，词语的肉身，症候性的非实存。昨日路过的黑猫🐈‍⬛，偶尔微笑的小幽灵，“星期四朋友”。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 301,
+          "like_count": 2066,
+          "listed_count": 2,
+          "media_count": 137,
+          "tweet_count": 1610
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

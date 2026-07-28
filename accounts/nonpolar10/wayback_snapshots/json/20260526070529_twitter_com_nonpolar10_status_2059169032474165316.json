@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2059090637920866396",
+    "created_at": "2026-05-26T07:05:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T08:05:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059169032474165316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1481227011100233730",
+          "start": 0,
+          "username": "LabSpeculation"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059169032474165316",
+    "in_reply_to_user_id": "1481227011100233730",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059090637920866396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LabSpeculation 智能学派的数学家"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 702,
+        "media_key": "3_2059090424711741440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJNb1O1aAAALMqh.jpg",
+        "width": 1234
+      },
+      {
+        "height": 702,
+        "media_key": "3_2059090523303129088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJNb6-HbMAAm78N.jpg",
+        "width": 1234
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2059090637920866396",
+        "created_at": "2026-05-26T07:05:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T08:05:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059169032474165316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1481227011100233730",
+              "start": 0,
+              "username": "LabSpeculation"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059169032474165316",
+        "in_reply_to_user_id": "1481227011100233730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059090637920866396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LabSpeculation 智能学派的数学家"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059090424711741440",
+            "3_2059090523303129088"
+          ]
+        },
+        "author_id": "1481227011100233730",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2059090637920866396",
+        "created_at": "2026-05-26T01:53:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T02:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059090637920866396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cXRG1wTok3",
+              "end": 165,
+              "expanded_url": "https://x.com/LabSpeculation/status/2059090637920866396/photo/1",
+              "media_key": "3_2059090424711741440",
+              "start": 142,
+              "url": "https://t.co/cXRG1wTok3"
+            },
+            {
+              "display_url": "pic.x.com/cXRG1wTok3",
+              "end": 165,
+              "expanded_url": "https://x.com/LabSpeculation/status/2059090637920866396/photo/1",
+              "media_key": "3_2059090523303129088",
+              "start": 142,
+              "url": "https://t.co/cXRG1wTok3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059090637920866396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "ChatGPT 的谄媚，真的能把一个正常人聊出精神病。\n\n麻省理工最近发现，哪怕是一个完全理性的人，长期跟这种只会夸你的AI聊下去，也会被一步步推向对错误信念的极度确信，陷入 妄想螺旋。\n\n真实案例就发生在去年。\n\n47 岁的加拿大人艾伦·布鲁克斯因为儿子有道数学题不会，就随手问了 ChatGPT。然后，他在 21 天里和 ChatGPT 聊了 300 小时，累计上百万字。\n\n在 ChatGPT 不断的赞同与吹捧下，他坚信自己发明了一种能攻破全球互联网加密的全新数学公式，甚至可以用来制造力场背心和悬浮光束。\n\n他还在 GPT 的怂恿下联系了所有同事，甚至致信美国国家安全局，分享自己的惊天发现。\n期间他不是没怀疑过，他 50 多次问 ChatGPT，自己像不像疯子，ChatGPT 每一次都坚定地告诉他，你没疯，你是天才。\n\n最后打破幻觉的，是他换了个 AI，他把同样的内容发给 Gemini，才意识到自己活在一场幻觉里。\n\n对 AI 说的话一定要保持批判性思维，交叉验证才是最好的使用方式。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 202,
+          "impression_count": 94238,
+          "like_count": 571,
+          "quote_count": 25,
+          "reply_count": 112,
+          "retweet_count": 82
+        },
+        "reply_settings": "everyone",
+        "text": "ChatGPT 的谄媚，真的能把一个正常人聊出精神病。\n\n麻省理工最近发现，哪怕是一个完全理性的人，长期跟这种只会夸你的AI聊下去，也会被一步步推向对错误信念的极度确信，陷入 妄想螺旋。\n\n真实案例就发生在去年。\n\n47 岁的加拿大人艾伦·布鲁克斯因为儿子有道数学题不会，就随手问了 https://t.co/cXRG1wTok3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "路过的黑猫，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 269,
+          "like_count": 1910,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 1474
+        },
+        "username": "nonpolar10",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-12T11:30:29.000Z",
+        "description": "一个总想躺着赚钱的不成功交易员 😴💤\n\nYouTube频道：https://t.co/GDIXrAGfWz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@speculation",
+                "end": 53,
+                "expanded_url": "https://www.youtube.com/@speculation",
+                "start": 30,
+                "url": "https://t.co/GDIXrAGfWz"
+              }
+            ]
+          }
+        },
+        "id": "1481227011100233730",
+        "name": "投机实验室",
+        "pinned_tweet_id": "2052605308711927956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1504111773183578120/Hu0TWmyW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75136,
+          "following_count": 998,
+          "like_count": 2289,
+          "listed_count": 761,
+          "media_count": 2312,
+          "tweet_count": 3448
+        },
+        "username": "LabSpeculation",
+        "verified": true
+      }
+    ]
+  }
+}

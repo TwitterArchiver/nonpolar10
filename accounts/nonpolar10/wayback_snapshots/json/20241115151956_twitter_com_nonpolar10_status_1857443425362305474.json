@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "1857443425362305474",
+    "created_at": "2024-11-15T15:19:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-15T16:19:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1857443425362305474"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1857443425362305474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“现实”对那个人来说是过于幽闭的\n\n于是，其将自己最“真”的东西留在一个仿佛无法与自己直接现实发生干涉的空间，从原理上来说，原本，这些东西是只存在于“死”之后的。\n\n与之前的不同是，这一次，它们能够被注视到了，互联网是“现实”吗？我想应该说是的，不过，是每个人直接处境之外的另一种“现实”。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1857443425362305474",
+        "created_at": "2024-11-15T15:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T16:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857443425362305474"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1857443425362305474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“现实”对那个人来说是过于幽闭的\n\n于是，其将自己最“真”的东西留在一个仿佛无法与自己直接现实发生干涉的空间，从原理上来说，原本，这些东西是只存在于“死”之后的。\n\n与之前的不同是，这一次，它们能够被注视到了，互联网是“现实”吗？我想应该说是的，不过，是每个人直接处境之外的另一种“现实”。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "Die Toteninsle/边界的宽度",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770748175294300160/fx_fSZEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 327,
+          "like_count": 1787,
+          "listed_count": 1,
+          "tweet_count": 1323
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

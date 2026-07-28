@@ -1,0 +1,127 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "1788287627164303376",
+    "created_at": "2024-05-08T19:19:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-08T20:19:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1788287629123002719"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1788287629123002719",
+    "in_reply_to_user_id": "1390592139193556992",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1788287627164303376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "断裂，是回溯性尝试中不应存在的东西，当我们要求系统性地地建立起一种关乎价值标准的统计学时必须被修正与选择性呈现或者干脆不纳入解释努力的数据，为了呈现一个完整而有说服力的故事而不得不省却的，某种意义上不该存在的地方。\n\n不再延伸的时间，于是，也是额外的时间，结束的结束，开始的开始。/n"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1788287627164303376",
+        "created_at": "2024-05-08T19:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-08T20:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788287629123002719"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1788287629123002719",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788287627164303376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "断裂，是回溯性尝试中不应存在的东西，当我们要求系统性地地建立起一种关乎价值标准的统计学时必须被修正与选择性呈现或者干脆不纳入解释努力的数据，为了呈现一个完整而有说服力的故事而不得不省却的，某种意义上不该存在的地方。\n\n不再延伸的时间，于是，也是额外的时间，结束的结束，开始的开始。/n"
+      },
+      {
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1788287627164303376",
+        "created_at": "2024-05-08T19:19:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-08T20:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788287627164303376"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1788287627164303376",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "于是都想起来了，自己数年前开始的漫游，其开端是关于物种分类学和进化理论对“断裂”之解释的剧烈不满。\n\n但首先，在幼年时，它体现为一种兴趣，假定这个知识体系包含了更多我不知道的东西。而这种问题意识，回溯性地来看，源于自己在那些断裂之处持续生活的经验，以及自身认知结构中概念的普遍断裂。/n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "Solaris/边界的宽度",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770748175294300160/fx_fSZEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 305,
+          "like_count": 1461,
+          "listed_count": 1,
+          "tweet_count": 1256
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

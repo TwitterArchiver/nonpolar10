@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "1972750887115436169",
+    "created_at": "2025-09-30T17:03:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T18:03:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973071207776829577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1388795004806569986",
+          "start": 0,
+          "username": "Slaivo1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973071207776829577",
+    "in_reply_to_user_id": "1388795004806569986",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972767354204631418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Slaivo1 更多是一种无奈的既成事实，大概。\n\n多数时候，它并不作为一种目的，但总是可以在其他目的运转中产生，即并不一定是被“发生了什么”，也可以被“没发生什么”所塑造，即并非人为，而是“人无为”，这是一个关于有限性的世界，理念在其中经受撕扯的，更为绝对的世界。\n\n我是说，如果，人并非全知全能。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1972750887115436169",
+        "created_at": "2025-09-30T17:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T18:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973071207776829577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1388795004806569986",
+              "start": 0,
+              "username": "Slaivo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973071207776829577",
+        "in_reply_to_user_id": "1388795004806569986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972767354204631418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Slaivo1 更多是一种无奈的既成事实，大概。\n\n多数时候，它并不作为一种目的，但总是可以在其他目的运转中产生，即并不一定是被“发生了什么”，也可以被“没发生什么”所塑造，即并非人为，而是“人无为”，这是一个关于有限性的世界，理念在其中经受撕扯的，更为绝对的世界。\n\n我是说，如果，人并非全知全能。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1388795004806569986",
+        "conversation_id": "1972750887115436169",
+        "created_at": "2025-09-29T20:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T21:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972767354204631418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1390592139193556992",
+              "start": 0,
+              "username": "nonpolar10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972767354204631418",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972750887115436169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nonpolar10 边界是有目的的人为？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 266,
+          "like_count": 1751,
+          "listed_count": 2,
+          "media_count": 129,
+          "tweet_count": 1409
+        },
+        "username": "nonpolar10",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-02T09:58:33.000Z",
+        "description": "",
+        "id": "1388795004806569986",
+        "location": "The Rift",
+        "name": "Morium271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964174472426246149/H_S-aZwT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 108,
+          "like_count": 4154,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 1802
+        },
+        "username": "Slaivo1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "1788716788936818847",
+    "created_at": "2024-05-09T23:58:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-10T00:58:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1788720107264631198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1520548458645663744",
+          "start": 0,
+          "username": "__dbdo_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1788720107264631198",
+    "in_reply_to_user_id": "1390592139193556992",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1788719183259369680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__dbdo_ 虽然刚刚那些表述可能听起来有点不妙……但现在并不处于一个很panic的状态，于是，就只是简单陈述而已，十几分钟前吃了点药，并且那些症状在自己的体验中也可以被归入最温和的一类。\n\n所以不用担心。（如果不小心让你顾虑了的话……）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1788716788936818847",
+        "created_at": "2024-05-09T23:58:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T00:58:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788720107264631198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1520548458645663744",
+              "start": 0,
+              "username": "__dbdo_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788720107264631198",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788719183259369680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__dbdo_ 虽然刚刚那些表述可能听起来有点不妙……但现在并不处于一个很panic的状态，于是，就只是简单陈述而已，十几分钟前吃了点药，并且那些症状在自己的体验中也可以被归入最温和的一类。\n\n所以不用担心。（如果不小心让你顾虑了的话……）"
+      },
+      {
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1788716788936818847",
+        "created_at": "2024-05-09T23:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T00:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788719183259369680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1520548458645663744",
+              "start": 0,
+              "username": "__dbdo_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788719183259369680",
+        "in_reply_to_user_id": "1520548458645663744",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788717592217014611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__dbdo_ 很可能是，之所以这样说是因为就在刚刚，它又重复了一次，捕捉到了自己身体上同时发生的另一些事件。\n\n喉咙不知为什么发紧，心脏跳得不太舒服，左侧的指尖发痛，胃中感觉有东西在上涌，脸上的肌肉有点抽搐，然后鼻塞，就在这个瞬间，又闻到了一样的“柴油味”，随后鼻腔变得不太通气…………"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "Solaris/边界的宽度",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770748175294300160/fx_fSZEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 307,
+          "like_count": 1472,
+          "listed_count": 1,
+          "tweet_count": 1261
+        },
+        "username": "nonpolar10",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-30T23:39:51.000Z",
+        "description": "",
+        "id": "1520548458645663744",
+        "name": "dbdo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1669967280891994112/-ibpocWO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 322,
+          "like_count": 8369,
+          "listed_count": 1,
+          "tweet_count": 124
+        },
+        "username": "__dbdo_",
+        "verified": false
+      }
+    ]
+  }
+}

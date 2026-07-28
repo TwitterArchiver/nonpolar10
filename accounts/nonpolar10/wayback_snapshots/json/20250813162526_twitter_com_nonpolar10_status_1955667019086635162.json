@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "1955667019086635162",
+    "created_at": "2025-08-13T16:25:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T17:25:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1955667019086635162"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1955667019086635162",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "或者，比起说是戒断反应，也像是曾经症状的复萌，只是在这个开端，其表现还相对温和。\n\n时间久了便会忘了一直对精神病学心存芥蒂的自己是如何依赖上药物的，才过了两天，仿佛就要都回想起来。\n\n但我应是属于“那里”的，虽然从来没能习惯，痛楚感受的诸种模式都令人感到…有些亲切……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1955667019086635162",
+        "created_at": "2025-08-13T16:25:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T17:25:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955667019086635162"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955667019086635162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "或者，比起说是戒断反应，也像是曾经症状的复萌，只是在这个开端，其表现还相对温和。\n\n时间久了便会忘了一直对精神病学心存芥蒂的自己是如何依赖上药物的，才过了两天，仿佛就要都回想起来。\n\n但我应是属于“那里”的，虽然从来没能习惯，痛楚感受的诸种模式都令人感到…有些亲切……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 270,
+          "like_count": 1707,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 1368
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

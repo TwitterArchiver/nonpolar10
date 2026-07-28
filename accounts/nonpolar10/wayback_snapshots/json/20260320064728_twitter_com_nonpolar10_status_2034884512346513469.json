@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2034884512346513469",
+    "created_at": "2026-03-20T06:47:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T07:47:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034884512346513469"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2034884512346513469",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "业余弹琴，偶尔还是会有那种健忘，因为一些侵入性的思绪无论怎样都想不起接下来要怎么弹。\n\n无论怎么试都找不到那个正确的音，有点自暴自弃，便想着最后再试一次，此时脑中一片空白，在一种战栗之中，弹出了那个正确的和弦。\n\n正是这种经验的根深蒂固令人有些恐惧，可能很多事情没忘也没变。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2034884512346513469",
+        "created_at": "2026-03-20T06:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T07:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034884512346513469"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034884512346513469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "业余弹琴，偶尔还是会有那种健忘，因为一些侵入性的思绪无论怎样都想不起接下来要怎么弹。\n\n无论怎么试都找不到那个正确的音，有点自暴自弃，便想着最后再试一次，此时脑中一片空白，在一种战栗之中，弹出了那个正确的和弦。\n\n正是这种经验的根深蒂固令人有些恐惧，可能很多事情没忘也没变。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 265,
+          "like_count": 1798,
+          "listed_count": 2,
+          "media_count": 129,
+          "tweet_count": 1418
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

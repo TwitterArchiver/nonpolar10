@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2060339744555561387",
+    "created_at": "2026-05-29T14:17:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T15:17:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060364955384528958"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060364955384528958",
+    "in_reply_to_user_id": "1390592139193556992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060339744555561387",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "本来想继续去说他们各自的姿态问题，但想到毕竟是很久前读的加缪了，我想想，应该是2019年，印象过于模糊，有点担心是错怪了他。\n\n他确实引用了很多陀氏的东西，但我确实没能用关键词检索到上述文段内容的直接引用。为使我对他的意见及由此动机发端的“责难”依旧算是公允，还是重读后再继续这个串。 2/n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1029,
+        "media_key": "3_2060339741304999936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJfMFB0a0AA4GzI.jpg",
+        "width": 1339
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2060339744555561387",
+        "created_at": "2026-05-29T14:17:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:17:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060364955384528958"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060364955384528958",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060339744555561387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本来想继续去说他们各自的姿态问题，但想到毕竟是很久前读的加缪了，我想想，应该是2019年，印象过于模糊，有点担心是错怪了他。\n\n他确实引用了很多陀氏的东西，但我确实没能用关键词检索到上述文段内容的直接引用。为使我对他的意见及由此动机发端的“责难”依旧算是公允，还是重读后再继续这个串。 2/n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060339741304999936"
+          ]
+        },
+        "author_id": "1390592139193556992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Montana",
+              "id": "1004449615544872960",
+              "name": "Montana"
+            }
+          }
+        ],
+        "conversation_id": "2060339744555561387",
+        "created_at": "2026-05-29T12:37:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T13:37:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060339744555561387"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f6L6wAgqOA",
+              "end": 167,
+              "expanded_url": "https://x.com/nonpolar10/status/2060339744555561387/photo/1",
+              "media_key": "3_2060339741304999936",
+              "start": 144,
+              "url": "https://t.co/f6L6wAgqOA"
+            },
+            {
+              "display_url": "x.com/literlandweb1/…",
+              "end": 191,
+              "expanded_url": "https://twitter.com/literlandweb1/status/2060081201675641300",
+              "start": 168,
+              "url": "https://t.co/UArc2JJqHK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060339744555561387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060081201675641300",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "加缪在哲学上其实是很弱的（萨特的理论本身也是种弱哲学，但加缪也与之毫无可比性），而事实上他给自己的定论也只是“一个男人”。\n\n至于青春伤痛虚无主义必读书目的《西西弗斯神话》其中的这个神罚的核心母题，我曾怀疑直接就是洗稿陀氏关于牢狱经验的描写。\n\n加缪真正强过萨特的地方可能就是会凹造型。 https://t.co/f6L6wAgqOA https://t.co/UArc2JJqHK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "路过的黑猫🐈‍⬛，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 295,
+          "like_count": 1968,
+          "listed_count": 2,
+          "media_count": 135,
+          "tweet_count": 1556
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

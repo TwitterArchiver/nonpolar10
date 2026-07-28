@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2059705472207482948",
+    "created_at": "2026-05-27T18:37:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T19:37:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059705472207482948"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amber_medusozo…",
+          "end": 167,
+          "expanded_url": "https://twitter.com/amber_medusozoa/status/2059687310115889261",
+          "start": 144,
+          "url": "https://t.co/BlUluckyvF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059705472207482948",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059687310115889261",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在那些相对易于表述的“女性处境”之外，如果说孕期性别检查与女婴流产——未完全发育的胚胎在医疗机构中被搅碎成肉块（就如同不具备养育条件或被强奸而怀孕的女性使用晾衣架之类自制工具所做的那样），并非一种直接被社会中女性承受的痛，这是一种共同体边界的想象性扩展。其中还有这样的另一重危险，1/4 https://t.co/BlUluckyvF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2059705472207482948",
+        "created_at": "2026-05-27T18:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T19:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059705472207482948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_medusozo…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/amber_medusozoa/status/2059687310115889261",
+              "start": 144,
+              "url": "https://t.co/BlUluckyvF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059705472207482948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059687310115889261",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在那些相对易于表述的“女性处境”之外，如果说孕期性别检查与女婴流产——未完全发育的胚胎在医疗机构中被搅碎成肉块（就如同不具备养育条件或被强奸而怀孕的女性使用晾衣架之类自制工具所做的那样），并非一种直接被社会中女性承受的痛，这是一种共同体边界的想象性扩展。其中还有这样的另一重危险，1/4 https://t.co/BlUluckyvF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2059687310115889261",
+        "created_at": "2026-05-27T17:24:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T18:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059687310115889261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yantanzhang/st…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/yantanzhang/status/2059062207179001951",
+              "start": 32,
+              "url": "https://t.co/z6G4B0AxE1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059687310115889261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 759,
+          "like_count": 22,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059062207179001951",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们是那些被溺死的女婴的后代，我们身上承载了她们全部的恨意和爱 https://t.co/z6G4B0AxE1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "路过的黑猫，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 277,
+          "like_count": 1927,
+          "listed_count": 2,
+          "media_count": 131,
+          "tweet_count": 1515
+        },
+        "username": "nonpolar10",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🥰 https://t.co/ifiQvlVhub\n❤️@noaayoyaoaya\n⚜️@irisdesombres\n📣 @amber_digit @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 58,
+                "start": 44,
+                "username": "irisdesombres"
+              },
+              {
+                "end": 73,
+                "start": 61,
+                "username": "amber_digit"
+              },
+              {
+                "end": 87,
+                "start": 74,
+                "username": "amber_digit2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 25,
+                "expanded_url": "https://buymeacoffee.com/amber_",
+                "start": 2,
+                "url": "https://t.co/ifiQvlVhub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 Toronto",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2058745798477631977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4712,
+          "following_count": 898,
+          "like_count": 4007,
+          "listed_count": 11,
+          "media_count": 82,
+          "tweet_count": 1818
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

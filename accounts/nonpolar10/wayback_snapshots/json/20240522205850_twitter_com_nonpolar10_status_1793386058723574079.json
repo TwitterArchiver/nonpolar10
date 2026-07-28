@@ -1,0 +1,84 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "1793386058723574079",
+    "created_at": "2024-05-22T20:58:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-22T21:58:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793386058723574079"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1793386058723574079",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一种故作的漠不关心，一些阻断着回忆的，连续而浓稠的东西，渗透到器物表面每个裂痕的，不知道由什么构成的“质”，仿佛在特定的时刻，或实际是包含了所有主观性的“情境”下，被冲淡了。\n\n所有消失的回忆，感觉，又或者……\n\n所以，自己是在那之中浸泡了足足两年有余，“井”也是只那里才存在着的东西。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1793386058723574079",
+        "created_at": "2024-05-22T20:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-22T21:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793386058723574079"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1793386058723574079",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一种故作的漠不关心，一些阻断着回忆的，连续而浓稠的东西，渗透到器物表面每个裂痕的，不知道由什么构成的“质”，仿佛在特定的时刻，或实际是包含了所有主观性的“情境”下，被冲淡了。\n\n所有消失的回忆，感觉，又或者……\n\n所以，自己是在那之中浸泡了足足两年有余，“井”也是只那里才存在着的东西。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "Solaris/边界的宽度",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770748175294300160/fx_fSZEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 310,
+          "like_count": 1486,
+          "listed_count": 1,
+          "tweet_count": 1270
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

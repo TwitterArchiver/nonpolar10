@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2059717984822898980",
+    "created_at": "2026-05-27T19:26:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T20:26:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059717984822898980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1390592139193556992",
+          "start": 3,
+          "username": "nonpolar10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059717984822898980",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1636800016290566144",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nonpolar10: BTW，原本的推文编辑功能好像也在某一天醒来之后不见了，难道是打算在未来推出“马氏电子竹简专用削刀”吗？\n\n不得不说，几位马先生都是切实懂得如何做生意的天妒之才（笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2059717984822898980",
+        "created_at": "2026-05-27T19:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T20:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059717984822898980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390592139193556992",
+              "start": 3,
+              "username": "nonpolar10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059717984822898980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1636800016290566144",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nonpolar10: BTW，原本的推文编辑功能好像也在某一天醒来之后不见了，难道是打算在未来推出“马氏电子竹简专用削刀”吗？\n\n不得不说，几位马先生都是切实懂得如何做生意的天妒之才（笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1636800016290566144",
+        "created_at": "2023-03-17T18:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2023-03-17T19:11:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1636800016290566144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nonpolar10/sta…",
+              "end": 106,
+              "expanded_url": "https://twitter.com/nonpolar10/status/1636797893259689984",
+              "start": 83,
+              "url": "https://t.co/GLd6dA9cAs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1636800016290566144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1636797893259689984",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "BTW，原本的推文编辑功能好像也在某一天醒来之后不见了，难道是打算在未来推出“马氏电子竹简专用削刀”吗？\n\n不得不说，几位马先生都是切实懂得如何做生意的天妒之才（笑 https://t.co/GLd6dA9cAs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "路过的黑猫，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 277,
+          "like_count": 1927,
+          "listed_count": 2,
+          "media_count": 131,
+          "tweet_count": 1515
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

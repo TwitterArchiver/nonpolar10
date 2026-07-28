@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "1960369243842597101",
+    "created_at": "2025-08-26T15:50:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T16:50:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960369243842597101"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1960369243842597101",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“自从他准备好了要一刻不停地悔悟，这种关于过去与未来的清醒工作就变成了一种自由谦卑的非进程，变成了对此刻的担保：这是恒久的新开端那仁慈报偿，像罪孽一样无穷，站在所有诞生之前，站在所有实际行动的彼岸。因为献祭与恩赐是一回事，二者的关系不是彼此伴随，而是源于彼此。”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1960369243842597101",
+        "created_at": "2025-08-26T15:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T16:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960369243842597101"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960369243842597101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“自从他准备好了要一刻不停地悔悟，这种关于过去与未来的清醒工作就变成了一种自由谦卑的非进程，变成了对此刻的担保：这是恒久的新开端那仁慈报偿，像罪孽一样无穷，站在所有诞生之前，站在所有实际行动的彼岸。因为献祭与恩赐是一回事，二者的关系不是彼此伴随，而是源于彼此。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 266,
+          "like_count": 1718,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 1390
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

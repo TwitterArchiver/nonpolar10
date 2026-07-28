@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "1930667953630155115",
+    "created_at": "2025-06-05T16:48:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T17:48:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930667956012474420"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1930667956012474420",
+    "in_reply_to_user_id": "1390592139193556992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 19,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930667953630155115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在「主体间」这个“唯一绝对的现实”中，语词吞噬另一些语词，或者说，将另一些语言虚拟化了，进而使某些物真实质存在的意识也虚拟化了，虚拟化的意识忘却了其生成原理，于是成为相应物质现实--即物的囚室。\n\n重点不在“词对物的谋杀”，而是首先，物谋杀人（意识），然后人谋杀人的一切与一切的人。2/n"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1930667953630155115",
+        "created_at": "2025-06-05T16:48:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T17:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930667956012474420"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1930667956012474420",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930667953630155115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在「主体间」这个“唯一绝对的现实”中，语词吞噬另一些语词，或者说，将另一些语言虚拟化了，进而使某些物真实质存在的意识也虚拟化了，虚拟化的意识忘却了其生成原理，于是成为相应物质现实--即物的囚室。\n\n重点不在“词对物的谋杀”，而是首先，物谋杀人（意识），然后人谋杀人的一切与一切的人。2/n"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1930667953630155115",
+        "created_at": "2025-06-05T16:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T17:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930667953630155115"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1930667953630155115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虚拟不是真实的反义，而是一个对象脱离了其原本附着的环境，却还保留着这样或那样的形式特征。\n\n意识是一种物质现实，同时也是其以外物质现实对象一次额外的“发生”，语言以及其他信息与意义的广义编码符号，由主体作出了不可能的担保而从这种现实的虚拟中来到主体间。 1/n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 312,
+          "like_count": 1730,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 1322
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

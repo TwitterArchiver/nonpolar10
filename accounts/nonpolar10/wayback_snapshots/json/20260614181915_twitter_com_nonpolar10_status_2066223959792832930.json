@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2066223959792832930",
+    "created_at": "2026-06-14T18:19:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T19:19:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066223959792832930"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066223959792832930",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "星期三的目光\n星期五的嗅觉\n星期四的听感\n\n星期三的悼亡，镇静与绞痛。\n星期五的纯真，悦乐与窒息。\n星期四的承诺，决意与震颤。\n\n意识中逐渐清晰的几个“时间”位置，许多条系统嬗变的动力学轨迹，相似又总不同，它们并行、错落时而又彼此追走。\n\n而回忆，就像这样一种复调织体，赋格，主题的多重再现。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2066223959792832930",
+        "created_at": "2026-06-14T18:19:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T19:19:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066223959792832930"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066223959792832930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "星期三的目光\n星期五的嗅觉\n星期四的听感\n\n星期三的悼亡，镇静与绞痛。\n星期五的纯真，悦乐与窒息。\n星期四的承诺，决意与震颤。\n\n意识中逐渐清晰的几个“时间”位置，许多条系统嬗变的动力学轨迹，相似又总不同，它们并行、错落时而又彼此追走。\n\n而回忆，就像这样一种复调织体，赋格，主题的多重再现。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "半途而废的天坑领域学术奴工，不知有几年活头的过期文学少女。生于语言中，死在沉默里，词语的肉身，症候性的非实存。昨日路过的黑猫🐈‍⬛，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 301,
+          "like_count": 2066,
+          "listed_count": 2,
+          "media_count": 137,
+          "tweet_count": 1612
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

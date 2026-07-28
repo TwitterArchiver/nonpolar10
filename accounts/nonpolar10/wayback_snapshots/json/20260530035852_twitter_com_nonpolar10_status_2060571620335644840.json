@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2060334377264206332",
+    "created_at": "2026-05-30T03:58:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T04:58:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060571620335644840"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060571620335644840",
+    "in_reply_to_user_id": "1390592139193556992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060570324669006248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我说不清这种满足感是从何而来，也许是种巧合，就像我有五根手指，而每当完整地以它对事物进行计数，内心中就产生了一种闭合着的满足，这是我对这个现象最初也最基本的观测。\n\n两只手就是十进制（如果我们不去想着那些多出或少了几根手指的人类同胞们……），有点像是种“自然审美”，人反身性的自恋 4/n"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2060334377264206332",
+        "created_at": "2026-05-30T03:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T04:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060571620335644840"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060571620335644840",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060570324669006248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我说不清这种满足感是从何而来，也许是种巧合，就像我有五根手指，而每当完整地以它对事物进行计数，内心中就产生了一种闭合着的满足，这是我对这个现象最初也最基本的观测。\n\n两只手就是十进制（如果我们不去想着那些多出或少了几根手指的人类同胞们……），有点像是种“自然审美”，人反身性的自恋 4/n"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2060334377264206332",
+        "created_at": "2026-05-30T03:53:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T04:53:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060570324669006248"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060570324669006248",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060569714972323977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在我的看法里，这纯粹是一种十进制崇拜，十年，百年，千年，万年，人们迷恋着2与5的倍数，它的整齐规律与“神性”。\n\n就像自己幼年期的强迫症状——音乐、他人讲话、自己组织话语或走楼梯时一定要在脑海中或掰着手指计数——必须是5的倍数，否则就要对音节和词语进行缩放增删，台阶则是要回退几步再重走。3/n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "路过的黑猫🐈‍⬛，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 295,
+          "like_count": 1982,
+          "listed_count": 2,
+          "media_count": 135,
+          "tweet_count": 1564
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

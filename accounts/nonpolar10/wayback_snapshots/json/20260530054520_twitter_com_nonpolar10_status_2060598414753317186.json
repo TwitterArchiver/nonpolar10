@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2060598414753317186",
+    "created_at": "2026-05-30T05:45:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T06:45:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060598414753317186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1544825601730588672",
+          "start": 3,
+          "username": "polarized53"
+        },
+        {
+          "end": 32,
+          "id": "1489468526826082312",
+          "start": 17,
+          "username": "Diamond_Kokoro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060598414753317186",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060597737759158735",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @polarized53: @Diamond_Kokoro 说到这里，虽然并不完全一样，但我有点想起村上春树小说里那些痛切的爱。\n\n无数次毁掉自身界限，无数次妄图交付真心以求能够能抵达彼此，却最终没有任何人能不错过对方，阴阳两隔却思念不止，依旧迷失其中而无比痛苦着的人们。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2060598414753317186",
+        "created_at": "2026-05-30T05:45:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T06:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060598414753317186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1544825601730588672",
+              "start": 3,
+              "username": "polarized53"
+            },
+            {
+              "end": 32,
+              "id": "1489468526826082312",
+              "start": 17,
+              "username": "Diamond_Kokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060598414753317186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060597737759158735",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @polarized53: @Diamond_Kokoro 说到这里，虽然并不完全一样，但我有点想起村上春树小说里那些痛切的爱。\n\n无数次毁掉自身界限，无数次妄图交付真心以求能够能抵达彼此，却最终没有任何人能不错过对方，阴阳两隔却思念不止，依旧迷失其中而无比痛苦着的人们。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1544825601730588672",
+        "conversation_id": "2060570129348387308",
+        "created_at": "2026-05-30T05:42:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T06:42:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060597737759158735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1489468526826082312",
+              "start": 0,
+              "username": "Diamond_Kokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060597737759158735",
+        "in_reply_to_user_id": "1544825601730588672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060583135352594435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Diamond_Kokoro 说到这里，虽然并不完全一样，但我有点想起村上春树小说里那些痛切的爱。\n\n无数次毁掉自身界限，无数次妄图交付真心以求能够能抵达彼此，却最终没有任何人能不错过对方，阴阳两隔却思念不止，依旧迷失其中而无比痛苦着的人们。\n\n弹起吉他，轻唱着“挪威的森林”，在泪水中，与她之外的人满心悲哀地交合。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "路过的黑猫🐈‍⬛，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 296,
+          "like_count": 1986,
+          "listed_count": 2,
+          "media_count": 135,
+          "tweet_count": 1565
+        },
+        "username": "nonpolar10",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-06T23:28:35.000Z",
+        "description": "一百四十字不足以充分表达任何稍微复杂的观点，话语的形成也需要时间和精力，于是它们总是未完成的思想，感谢你有耐心听我把话说完。转发评论不代表认同此人其他观点，对反驳性话语提出意见也不等于我认同那个原本被驳斥的东西——也有可能它在我这其实不值一提。接受所有真诚与建设性的批评，如有冒犯或误会，任何时候都欢迎沟通，可以私信。",
+        "id": "1544825601730588672",
+        "location": "eigenlicht",
+        "name": "素心 安",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057892500724195329/TTWt1GIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 38,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 54
+        },
+        "username": "polarized53",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "@irisdesombres 纏繞我臉上悲傷 祢一點點幫我卸妝",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "irisdesombres"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "name": "小羽",
+        "pinned_tweet_id": "2057594069967352086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060371508426592256/Gx-SAITd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 143,
+          "like_count": 7460,
+          "listed_count": 2,
+          "media_count": 206,
+          "tweet_count": 5220
+        },
+        "username": "Diamond_Kokoro",
+        "verified": true
+      }
+    ]
+  }
+}

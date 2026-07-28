@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "1822300702019907745",
+    "created_at": "2024-08-10T15:55:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-10T16:55:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1822300702019907745"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nonpolar10/sta…",
+          "end": 167,
+          "expanded_url": "https://twitter.com/nonpolar10/status/1822297484992847876",
+          "start": 144,
+          "url": "https://t.co/E5y88jTwkU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822300702019907745",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822297484992847876",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "拥有意识的主体就这样从基质中脱落了，却也很大程度上（如果不是完全）继承了这种二重性边界的“形状”，但因为已经脱出，其只能从外部确认基质的性状，并且，没有“镜子”的存在，也无法即刻充分认知自身，无论内外。\n\n终于能看见了，却只因此才真正成为盲目的，在脱离前反思状态的起点上，或许难以避免。 https://t.co/E5y88jTwkU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1822300702019907745",
+        "created_at": "2024-08-10T15:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-10T16:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822300702019907745"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nonpolar10/sta…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/nonpolar10/status/1822297484992847876",
+              "start": 144,
+              "url": "https://t.co/E5y88jTwkU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822300702019907745",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822297484992847876",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "拥有意识的主体就这样从基质中脱落了，却也很大程度上（如果不是完全）继承了这种二重性边界的“形状”，但因为已经脱出，其只能从外部确认基质的性状，并且，没有“镜子”的存在，也无法即刻充分认知自身，无论内外。\n\n终于能看见了，却只因此才真正成为盲目的，在脱离前反思状态的起点上，或许难以避免。 https://t.co/E5y88jTwkU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1822297484992847876",
+        "created_at": "2024-08-10T15:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-10T16:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822297484992847876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nonpolar10/sta…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/nonpolar10/status/1821977631954493449",
+              "start": 143,
+              "url": "https://t.co/glNJb9KiQx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822297484992847876",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821977631954493449",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "而当基质崩解，“孔”的继续存在则意味着死，这导致特定的有意识的痛苦，它们终究是关于死的感觉，并由此提示着“孔”的位置和形状，在这些千奇百怪的痛苦体验中，自我意识以及一个视点（或说主体）相对性地惊醒了，并将自身与基质对象化并作出区分，由此开始了一种“闭合”的尝试。（但从不存在一劳永逸） https://t.co/glNJb9KiQx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "Die Toteninsle/边界的宽度",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770748175294300160/fx_fSZEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 328,
+          "like_count": 1716,
+          "listed_count": 1,
+          "tweet_count": 1312
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

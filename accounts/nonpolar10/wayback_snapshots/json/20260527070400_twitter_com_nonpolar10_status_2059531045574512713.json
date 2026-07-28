@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2059502915291910299",
+    "created_at": "2026-05-27T07:04:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T08:04:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059531045574512713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1523552276119711745",
+          "start": 0,
+          "username": "DeorctheOrigin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059531045574512713",
+    "in_reply_to_user_id": "1523552276119711745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059502915291910299",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DeorctheOrigin 便是一种劣化了的人道主义"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2059502915291910299",
+        "created_at": "2026-05-27T07:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T08:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059531045574512713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1523552276119711745",
+              "start": 0,
+              "username": "DeorctheOrigin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059531045574512713",
+        "in_reply_to_user_id": "1523552276119711745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059502915291910299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DeorctheOrigin 便是一种劣化了的人道主义"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1523552276119711745",
+        "conversation_id": "2059502915291910299",
+        "created_at": "2026-05-27T05:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T06:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059502915291910299"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059502915291910299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你可以对世界纯粹。\n但你不能对自己纯粹。\n人需要理解自己，觉察自己。\n足够的理解和觉察后，仍然选择对世界纯粹，才是真实的纯粹。\n回避自我理解的责任，把生活,决策,情绪,命运交给无意识面对现实给出的最原始的投影模型，然后认为*这是纯粹的*，其实约等于在歌颂纯粹的生物本能和本能化的人类世界。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "路过的黑猫，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 270,
+          "like_count": 1922,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 1505
+        },
+        "username": "nonpolar10",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-09T06:35:57.000Z",
+        "description": "Dark Ambience & Nature's Lover. Medival & Victoria Gothicism. Anti-anthropocentrism. Cure Seeker. Empath/HSP but ASD. Median. She/Her. Safe here🏳️‍⚧️🏳️‍🌈.",
+        "id": "1523552276119711745",
+        "name": "{{the Original Star}}",
+        "pinned_tweet_id": "1914168147600687604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880614058904416256/rjD4Reyf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 341,
+          "like_count": 65818,
+          "listed_count": 2,
+          "media_count": 707,
+          "tweet_count": 19367
+        },
+        "username": "DeorctheOrigin",
+        "verified": false
+      }
+    ]
+  }
+}

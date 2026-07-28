@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2058547832576246166",
+    "created_at": "2026-05-24T13:57:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T14:57:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058547832576246166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1544825601730588672",
+          "start": 3,
+          "username": "polarized53"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058547832576246166",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058546395142095043",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @polarized53: 当然不是，但这些东西与在网上发帖并非对立起来的。\n\n思想以及话语实践与政治实践相关，但无法独立成为能够影响现实政治的因素，它缺乏有效的组织形式、基于某种普遍性而对共同体产生的反身性理解与对某种历史使命的清醒认知及谋划。\n\n发帖键政有时更多是一种…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2058547832576246166",
+        "created_at": "2026-05-24T13:57:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T14:57:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058547832576246166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1544825601730588672",
+              "start": 3,
+              "username": "polarized53"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058547832576246166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058546395142095043",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @polarized53: 当然不是，但这些东西与在网上发帖并非对立起来的。\n\n思想以及话语实践与政治实践相关，但无法独立成为能够影响现实政治的因素，它缺乏有效的组织形式、基于某种普遍性而对共同体产生的反身性理解与对某种历史使命的清醒认知及谋划。\n\n发帖键政有时更多是一种…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1544825601730588672",
+        "conversation_id": "2058546395142095043",
+        "created_at": "2026-05-24T13:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T14:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058546395142095043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/36127z11/statu…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/36127z11/status/2058452625637699653",
+              "start": 143,
+              "url": "https://t.co/CjkAdcgEyZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058546395142095043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058452625637699653",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当然不是，但这些东西与在网上发帖并非对立起来的。\n\n思想以及话语实践与政治实践相关，但无法独立成为能够影响现实政治的因素，它缺乏有效的组织形式、基于某种普遍性而对共同体产生的反身性理解与对某种历史使命的清醒认知及谋划。\n\n发帖键政有时更多是一种基于快感的类政治，或对政治的取消和讽刺。 https://t.co/CjkAdcgEyZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 267,
+          "like_count": 1887,
+          "listed_count": 2,
+          "media_count": 129,
+          "tweet_count": 1460
+        },
+        "username": "nonpolar10",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-06T23:28:35.000Z",
+        "description": "",
+        "id": "1544825601730588672",
+        "name": "素心 安",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057892500724195329/TTWt1GIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 1,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "polarized53",
+        "verified": false
+      }
+    ]
+  }
+}

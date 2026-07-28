@@ -1,0 +1,161 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "1816835417746137568",
+    "created_at": "2024-07-26T13:58:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-26T14:58:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1816835417746137568"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nonpolar10/sta…",
+          "end": 165,
+          "expanded_url": "https://twitter.com/nonpolar10/status/1816829295748350228",
+          "start": 142,
+          "url": "https://t.co/s9fhY2npq5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816835417746137568",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816829295748350228",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "由于精神病理这种无法忽视的社会根源，自己显然从来都没能支持一种纯粹人道主义的精神病学理论，也从来无法简单接受一个病人身份。\n\n如果无法至少局部地废除这种支配性的交换关系（象征的或直接物理的）而单纯依赖药物的调控来对其进行适应，自身仿佛只能被改造为一个它的再生产环节，这令人深感恐惧。 https://t.co/s9fhY2npq5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1816835417746137568",
+        "created_at": "2024-07-26T13:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T14:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816835417746137568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nonpolar10/sta…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/nonpolar10/status/1816829295748350228",
+              "start": 142,
+              "url": "https://t.co/s9fhY2npq5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816835417746137568",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816829295748350228",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "由于精神病理这种无法忽视的社会根源，自己显然从来都没能支持一种纯粹人道主义的精神病学理论，也从来无法简单接受一个病人身份。\n\n如果无法至少局部地废除这种支配性的交换关系（象征的或直接物理的）而单纯依赖药物的调控来对其进行适应，自身仿佛只能被改造为一个它的再生产环节，这令人深感恐惧。 https://t.co/s9fhY2npq5"
+      },
+      {
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1816829295748350228",
+        "created_at": "2024-07-26T13:33:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T14:33:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816829295748350228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nonpolar10/sta…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/nonpolar10/status/1816819930295337211",
+              "start": 142,
+              "url": "https://t.co/gyvJQS43UU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816829295748350228",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816819930295337211",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "必须强调的是，人的社会关系实际上是也决然是一种物质现实，只因为在思维中被对象化，其物质性才因找不到单一实体存在而受到质疑。\n\n但既然语言或非语言性的概念、摹仿、重构的图示也都是现实的，其很有可能就是前者的具体形式，离散地存在于遭到隔离又可相互干涉的神经系统和被编码并流通的媒介之中。 https://t.co/gyvJQS43UU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "Die Toteninsle/边界的宽度",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770748175294300160/fx_fSZEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 326,
+          "like_count": 1705,
+          "listed_count": 1,
+          "tweet_count": 1304
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

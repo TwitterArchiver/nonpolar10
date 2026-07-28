@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061423341446287360",
+        "3_2061423347381260288"
+      ]
+    },
+    "author_id": "1390592139193556992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2061423351181271302",
+    "created_at": "2026-06-01T12:23:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T13:23:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061423351181271302"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Gotl4DopqM",
+          "end": 170,
+          "expanded_url": "https://x.com/nonpolar10/status/2061423351181271302/photo/1",
+          "media_key": "3_2061423341446287360",
+          "start": 147,
+          "url": "https://t.co/Gotl4DopqM"
+        },
+        {
+          "display_url": "pic.x.com/Gotl4DopqM",
+          "end": 170,
+          "expanded_url": "https://x.com/nonpolar10/status/2061423351181271302/photo/1",
+          "media_key": "3_2061423347381260288",
+          "start": 147,
+          "url": "https://t.co/Gotl4DopqM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061423351181271302",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刚刚手指被割伤了，创口不浅但现在已经没有很疼了，只希望明天不要肿得太严重，但这几天只能少打些字。\n\n第二张照片是今天做的普罗旺斯烩菜，致死量橄榄油分别炒甜椒、西葫芦、茄子、西红柿。洋葱、蒜碎加干白炒香，一起用铸铁锅焖煮20～30min，加香叶和百里香，出锅前撒胡椒盐和罗勒碎，材料总价约¥15 https://t.co/Gotl4DopqM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061423341446287360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJulm26a0AAaeHX.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2061423347381260288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJulnNBbUAAw0PA.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061423341446287360",
+            "3_2061423347381260288"
+          ]
+        },
+        "author_id": "1390592139193556992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2061423351181271302",
+        "created_at": "2026-06-01T12:23:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T13:23:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061423351181271302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gotl4DopqM",
+              "end": 170,
+              "expanded_url": "https://x.com/nonpolar10/status/2061423351181271302/photo/1",
+              "media_key": "3_2061423341446287360",
+              "start": 147,
+              "url": "https://t.co/Gotl4DopqM"
+            },
+            {
+              "display_url": "pic.x.com/Gotl4DopqM",
+              "end": 170,
+              "expanded_url": "https://x.com/nonpolar10/status/2061423351181271302/photo/1",
+              "media_key": "3_2061423347381260288",
+              "start": 147,
+              "url": "https://t.co/Gotl4DopqM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061423351181271302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚手指被割伤了，创口不浅但现在已经没有很疼了，只希望明天不要肿得太严重，但这几天只能少打些字。\n\n第二张照片是今天做的普罗旺斯烩菜，致死量橄榄油分别炒甜椒、西葫芦、茄子、西红柿。洋葱、蒜碎加干白炒香，一起用铸铁锅焖煮20～30min，加香叶和百里香，出锅前撒胡椒盐和罗勒碎，材料总价约¥15 https://t.co/Gotl4DopqM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "半途而废的天坑领域学术奴工，不知有几年活头的过期文学少女。生于语言中，死在沉默里，词语的肉身，症候性的非实存。昨日路过的黑猫🐈‍⬛，偶尔微笑的小幽灵。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 297,
+          "like_count": 2014,
+          "listed_count": 2,
+          "media_count": 137,
+          "tweet_count": 1583
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

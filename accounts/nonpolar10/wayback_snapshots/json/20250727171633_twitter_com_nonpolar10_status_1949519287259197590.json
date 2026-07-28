@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "1949519287259197590",
+    "created_at": "2025-07-27T17:16:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T18:16:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949519287259197590"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1949519287259197590",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "它曾变得陌生，而今又重现。\n\n“正确的”弹奏带回了“正确的”——不对劲的感受，曾伴随自己终日的眩晕、心脏的紧张与左手无名指刺痛，重新明晰的记忆与恢复的嗅觉，像一种对过去“此时此地”的召唤。\n\n当下救赎过去还是过去拯救当下，在此已难分清，就如同“历史”的概念从来都只存在于时间性的交错与纠缠之中。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1949519287259197590",
+        "created_at": "2025-07-27T17:16:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T18:16:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949519287259197590"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949519287259197590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "它曾变得陌生，而今又重现。\n\n“正确的”弹奏带回了“正确的”——不对劲的感受，曾伴随自己终日的眩晕、心脏的紧张与左手无名指刺痛，重新明晰的记忆与恢复的嗅觉，像一种对过去“此时此地”的召唤。\n\n当下救赎过去还是过去拯救当下，在此已难分清，就如同“历史”的概念从来都只存在于时间性的交错与纠缠之中。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 304,
+          "like_count": 1729,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 1354
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

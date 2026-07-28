@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "1959677761330754035",
+    "created_at": "2025-08-24T18:02:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T19:02:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1959677761330754035"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1959677761330754035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“许多事情都是为了回忆而发生,最终才揭示出自己是在倾听死亡，而许多伪装成死亡的东西仅仅是回忆，是忧惧而充满渴望的回忆，人们诚惶诚恐地保护着它,以使它永不消逝。”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1959677761330754035",
+        "created_at": "2025-08-24T18:02:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T19:02:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959677761330754035"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959677761330754035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“许多事情都是为了回忆而发生,最终才揭示出自己是在倾听死亡，而许多伪装成死亡的东西仅仅是回忆，是忧惧而充满渴望的回忆，人们诚惶诚恐地保护着它,以使它永不消逝。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 270,
+          "like_count": 1717,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 1387
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

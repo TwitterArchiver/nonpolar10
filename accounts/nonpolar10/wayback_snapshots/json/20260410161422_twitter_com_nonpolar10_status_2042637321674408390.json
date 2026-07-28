@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042637316339175425"
+      ]
+    },
+    "author_id": "1390592139193556992",
+    "conversation_id": "2042637321674408390",
+    "created_at": "2026-04-10T16:14:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T17:14:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042637321674408390"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Fab4ZnUdV2",
+          "end": 37,
+          "expanded_url": "https://x.com/nonpolar10/status/2042637321674408390/photo/1",
+          "media_key": "3_2042637316339175425",
+          "start": 14,
+          "url": "https://t.co/Fab4ZnUdV2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042637321674408390",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一种客体爱，一种符号占有。 https://t.co/Fab4ZnUdV2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2042637316339175425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjn0R1akAEQi3Z.jpg",
+        "width": 1616
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042637316339175425"
+          ]
+        },
+        "author_id": "1390592139193556992",
+        "conversation_id": "2042637321674408390",
+        "created_at": "2026-04-10T16:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T17:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042637321674408390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fab4ZnUdV2",
+              "end": 37,
+              "expanded_url": "https://x.com/nonpolar10/status/2042637321674408390/photo/1",
+              "media_key": "3_2042637316339175425",
+              "start": 14,
+              "url": "https://t.co/Fab4ZnUdV2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042637321674408390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一种客体爱，一种符号占有。 https://t.co/Fab4ZnUdV2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 265,
+          "like_count": 1798,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 1421
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

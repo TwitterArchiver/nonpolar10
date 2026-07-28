@@ -1,0 +1,84 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "1808797712374247568",
+    "created_at": "2024-07-04T09:39:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-04T10:39:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1808797712374247568"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1808797712374247568",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "作为动作的遗忘是不成立的，但就自己的感觉经验而言，它们仿佛又是可能的，实际上，它更接近以某种空洞或断裂填充内意识时间的技术，一种虚无——实际上是存在物，它在意识中将另一些包含人自身真正内容的存在遮掩或吞没。\n\n这种“不存在”造成的断裂或不平滑，反而意味着它们永恒在场，且不得不侵入意识。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1808797712374247568",
+        "created_at": "2024-07-04T09:39:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T10:39:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808797712374247568"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1808797712374247568",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "作为动作的遗忘是不成立的，但就自己的感觉经验而言，它们仿佛又是可能的，实际上，它更接近以某种空洞或断裂填充内意识时间的技术，一种虚无——实际上是存在物，它在意识中将另一些包含人自身真正内容的存在遮掩或吞没。\n\n这种“不存在”造成的断裂或不平滑，反而意味着它们永恒在场，且不得不侵入意识。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "Die Toteninsle/边界的宽度",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770748175294300160/fx_fSZEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 323,
+          "like_count": 1632,
+          "listed_count": 1,
+          "tweet_count": 1286
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

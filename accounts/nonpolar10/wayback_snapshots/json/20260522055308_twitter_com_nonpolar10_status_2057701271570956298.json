@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2055891996317991269",
+    "created_at": "2026-05-22T05:53:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T06:53:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057701271570956298"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2057701271570956298",
+    "in_reply_to_user_id": "1390592139193556992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057701267074687475",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在个人的语言实践中，“我”像是代表了一种存在的边界，相对于外界存在的差异性主张，可判定的责任范畴，自由及其代价。\n\n而“自己”则更多地具有反身性，是那种内省视线的对象，我见证着它们不休的运动与重组。我并不充分理解它们，却被迫以之为依凭来宣言或承诺，为它们赋予一个行动的肉身，一个包络物。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2055891996317991269",
+        "created_at": "2026-05-22T05:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T06:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057701271570956298"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057701271570956298",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057701267074687475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在个人的语言实践中，“我”像是代表了一种存在的边界，相对于外界存在的差异性主张，可判定的责任范畴，自由及其代价。\n\n而“自己”则更多地具有反身性，是那种内省视线的对象，我见证着它们不休的运动与重组。我并不充分理解它们，却被迫以之为依凭来宣言或承诺，为它们赋予一个行动的肉身，一个包络物。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2055891996317991269",
+        "created_at": "2026-05-22T05:53:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T06:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057701267074687475"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057701267074687475",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057701261810733482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最主要是自己的记忆似乎只在不同的声音自身中完全连贯，从一个声音的记忆穿越到另一个声音的记忆往往要花费很大努力且往往伴随着身体的不适，或温和，或剧烈。\n\n与此同时，当下这种声音或自己的状态也会受到来自另一边的影响，以至于它们给我的感觉就像是许多“准人格”的类存在。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOIC.",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 261,
+          "like_count": 1863,
+          "listed_count": 2,
+          "media_count": 129,
+          "tweet_count": 1451
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

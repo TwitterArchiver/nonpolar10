@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "1959840942615314437",
+    "created_at": "2025-08-25T04:51:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T05:51:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1959840942615314437"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1959840942615314437",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "审美是一种无责任的知识，它通过获得某种物一般的惰性而避免了自我消灭，以一种封闭的姿态孑立于世界的彼岸，召唤一种神秘的救赎。\n\n但我们知道，所有的“神秘力量”其实最终都是现实力量，妥协的意味在此就变得浓厚。当一种判断只能依赖判断本身，无罪首先就是不可能的，便更谈不上对现实矛盾的解除。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1959840942615314437",
+        "created_at": "2025-08-25T04:51:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T05:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959840942615314437"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959840942615314437",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "审美是一种无责任的知识，它通过获得某种物一般的惰性而避免了自我消灭，以一种封闭的姿态孑立于世界的彼岸，召唤一种神秘的救赎。\n\n但我们知道，所有的“神秘力量”其实最终都是现实力量，妥协的意味在此就变得浓厚。当一种判断只能依赖判断本身，无罪首先就是不可能的，便更谈不上对现实矛盾的解除。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 270,
+          "like_count": 1717,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 1388
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}

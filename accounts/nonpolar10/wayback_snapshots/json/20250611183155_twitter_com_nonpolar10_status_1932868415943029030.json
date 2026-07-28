@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "1932868415943029030",
+    "created_at": "2025-06-11T18:31:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T19:31:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1932868415943029030"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1932868415943029030",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "尼采主义者其实从来都不需要一位“尼采老师”，也几乎都是出于误会而产生了对一个虚拟形象的爱慕——“他的哲学其实还可以这么读”。\n\n左翼尼采主义者的天真是其与其偶像（即便其会否认这种崇拜而将其表述为一种友爱）间最难逾越的鸿沟，越是追求哲学上的纯粹，这种差别就越明显。\n\n21世纪尼采是被重新发明的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "1932868415943029030",
+        "created_at": "2025-06-11T18:31:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T19:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932868415943029030"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1932868415943029030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "尼采主义者其实从来都不需要一位“尼采老师”，也几乎都是出于误会而产生了对一个虚拟形象的爱慕——“他的哲学其实还可以这么读”。\n\n左翼尼采主义者的天真是其与其偶像（即便其会否认这种崇拜而将其表述为一种友爱）间最难逾越的鸿沟，越是追求哲学上的纯粹，这种差别就越明显。\n\n21世纪尼采是被重新发明的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "NONE OF US ARE HERE BY CHOICE.",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927493282109546497/BBvWBe19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 313,
+          "like_count": 1730,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 1338
+        },
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}
