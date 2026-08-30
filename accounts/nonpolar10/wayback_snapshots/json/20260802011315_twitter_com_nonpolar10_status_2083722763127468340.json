@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2083722763127468340",
+    "created_at": "2026-08-02T01:13:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T02:13:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083722763127468340"
+    ],
+    "entities": {},
+    "geo": {
+      "place_id": "c999e6a453e9ef72"
+    },
+    "id": "2083722763127468340",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "焦虑与悲哀的情愫只能沉入心底，一方面是觉得这样的东西其实并没人想听，另一方面，对我来说，这些念头最终总是多余的，就像，不知不觉间，已经习惯于一种严苛却必要的自处方式。\n\n并非一种道德，只是症状“要求”我如此，而我未能更明智地应对。\n\n漠视痛苦，任凭记忆磨损或断裂，而接受一种平淡的消亡。"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [c999e6a453e9ef72].",
+      "parameter": "geo.place_id",
+      "resource_id": "c999e6a453e9ef72",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "c999e6a453e9ef72"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2083722763127468340",
+        "created_at": "2026-08-02T01:13:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T02:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083722763127468340"
+        ],
+        "entities": {},
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "2083722763127468340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "焦虑与悲哀的情愫只能沉入心底，一方面是觉得这样的东西其实并没人想听，另一方面，对我来说，这些念头最终总是多余的，就像，不知不觉间，已经习惯于一种严苛却必要的自处方式。\n\n并非一种道德，只是症状“要求”我如此，而我未能更明智地应对。\n\n漠视痛苦，任凭记忆磨损或断裂，而接受一种平淡的消亡。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "半途而废的天坑领域学术奴工，不知有几年活头的过期文学少女。生于语言中，死在沉默里，词语的肉身，症候性的非实存。昨日路过的黑猫🐈‍⬛，偶尔微笑的小幽灵，一小丛苔藓。",
+        "id": "1390592139193556992",
+        "location": "边界的宽度",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078272283425349632/WOTCFfxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 302,
+          "like_count": 2078,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 1632
+        },
+        "url": "",
+        "username": "nonpolar10",
+        "verified": false
+      }
+    ]
+  }
+}
