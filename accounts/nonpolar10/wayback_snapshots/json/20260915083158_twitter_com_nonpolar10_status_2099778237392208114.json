@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2099707964231979177",
+    "created_at": "2026-09-15T08:31:58.000Z",
+    "display_text_range": [
+      17,
+      159
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T09:31:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099778237392208114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1408751443360710662",
+          "start": 0,
+          "username": "Jellyfi77885103"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099778237392208114",
+    "in_reply_to_user_id": "1390592139193556992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099744833535672593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jellyfi77885103 相同的记号，相似的发音，但人们并不总是能够将它们同等机械地取用，它们总是在一种微妙的韵律或节奏中组织，符号与意向及感性经验的贯串。\n\n符号的，需要恰当的宿主或共生物才能展开自身的生命过程，依赖这样的个体与群体实现差异化的再生产。\n\n但感性并非永远优先于中介者，这取决于过程的组织方式。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2099707964231979177",
+        "created_at": "2026-09-15T08:31:58.000Z",
+        "display_text_range": [
+          17,
+          159
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T09:31:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099778237392208114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1408751443360710662",
+              "start": 0,
+              "username": "Jellyfi77885103"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099778237392208114",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099744833535672593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jellyfi77885103 相同的记号，相似的发音，但人们并不总是能够将它们同等机械地取用，它们总是在一种微妙的韵律或节奏中组织，符号与意向及感性经验的贯串。\n\n符号的，需要恰当的宿主或共生物才能展开自身的生命过程，依赖这样的个体与群体实现差异化的再生产。\n\n但感性并非永远优先于中介者，这取决于过程的组织方式。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2099707964231979177",
+        "created_at": "2026-09-15T06:19:14.000Z",
+        "display_text_range": [
+          17,
+          159
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T07:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099744833535672593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1408751443360710662",
+              "start": 0,
+              "username": "Jellyfi77885103"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099744833535672593",
+        "in_reply_to_user_id": "1408751443360710662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099707964231979177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jellyfi77885103 符号是一个中介环节，为了避免散逸，跨越某种距离，半流态的感觉被赋予了各异的边界。\n\n像番茄罐头，相同的罐子与印花之下，每颗果实都有自身的历史，或其中有时也混入一些异物，甚至完全就是别的东西。\n\n它们似无区分地被码放在记忆的架上，被投向未来与过去，也投向域外或某个遗忘的深处，而被撷取。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "半途而废的天坑领域学术奴工，不知有几年活头的过期文学少女。生于语言中，死在沉默里，词语的肉身，症候性的非实存。昨日路过的黑猫🐈‍⬛，偶尔微笑的小幽灵，一小丛苔藓。",
+        "id": "1390592139193556992",
+        "is_identity_verified": false,
+        "location": "边界的宽度",
+        "most_recent_tweet_id": "2099778237392208114",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1390592139193556992/1779901767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078272283425349632/WOTCFfxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 300,
+          "like_count": 2090,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 1648
+        },
+        "url": "",
+        "username": "nonpolar10",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-06-26T11:38:21.000Z",
+        "description": "🍥🏳️‍⚧️🏳️‍🌈🇦🇶\nNone of us are here by choice.",
+        "id": "1408751443360710662",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099734425156423854",
+        "name": "果冻鱼",
+        "pinned_tweet_id": "2096203051157921997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1408751443360710662/1788995551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089294945631031296/vooeLn6S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 248,
+          "like_count": 11927,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 2900
+        },
+        "url": "",
+        "username": "Jellyfi77885103",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

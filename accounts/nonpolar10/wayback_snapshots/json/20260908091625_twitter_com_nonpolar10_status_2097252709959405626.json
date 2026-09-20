@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2097252707329519677",
+    "created_at": "2026-09-08T09:16:25.000Z",
+    "display_text_range": [
+      0,
+      142
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T10:16:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097252709959405626"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2097252709959405626",
+    "in_reply_to_user_id": "1390592139193556992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097252707329519677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以如果又要说，在某种现象学的谨慎中，包含主体决断而作为意识运动的取向总是先于作为假设本质或历史经验规定的性别实在，那么此处的后者就也成为另一个空洞的概念。\n\n哦，那么“性别的科学”呢？果真不是一种科学神秘主义或新的世俗信念结构吗？它与其所贬抑的弗洛伊德式分析似乎只有场域和范式之别。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2097252707329519677",
+        "created_at": "2026-09-08T09:16:25.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T10:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097252709959405626"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097252709959405626",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097252707329519677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以如果又要说，在某种现象学的谨慎中，包含主体决断而作为意识运动的取向总是先于作为假设本质或历史经验规定的性别实在，那么此处的后者就也成为另一个空洞的概念。\n\n哦，那么“性别的科学”呢？果真不是一种科学神秘主义或新的世俗信念结构吗？它与其所贬抑的弗洛伊德式分析似乎只有场域和范式之别。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2097252707329519677",
+        "created_at": "2026-09-08T09:16:25.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T10:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097252707329519677"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097252707329519677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当被问及自己的“性取向”时，严格来讲我认为自己并不拥有这样的东西，对于相应询唤也只有一贯的拒斥。\n\n并不怎么会执迷于此类的部分客体，或者说这些“幻想的残肢”对我是无差异、不可分，因而无法劫持注意力的。虽然这不意味着要忽视既成的差异，在许多私人语境中，自己都找不到关心这种“性属性”的必要。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "半途而废的天坑领域学术奴工，不知有几年活头的过期文学少女。生于语言中，死在沉默里，词语的肉身，症候性的非实存。昨日路过的黑猫🐈‍⬛，偶尔微笑的小幽灵，一小丛苔藓。",
+        "id": "1390592139193556992",
+        "is_identity_verified": false,
+        "location": "边界的宽度",
+        "most_recent_tweet_id": "2097252712928911700",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1390592139193556992/1779901767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078272283425349632/WOTCFfxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 301,
+          "like_count": 2077,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 1640
+        },
+        "url": "",
+        "username": "nonpolar10",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

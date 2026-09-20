@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2099502248594444417",
+    "created_at": "2026-09-14T14:15:17.000Z",
+    "display_text_range": [
+      0,
+      145
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T15:15:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099502248594444417"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nonpolar10/sta…",
+          "end": 169,
+          "expanded_url": "https://twitter.com/nonpolar10/status/2099484148243333433",
+          "start": 146,
+          "url": "https://t.co/7IznjmWInD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099502248594444417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099484148243333433",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "或非巧合，更加深入的交往总是只能成为一种语料交换，就像是当身体被溶解，词句及其质料转而成为独立的实在，自己反而成为一种与人共在之物。\n\n我并不“拥有”语言，如同它们也并不是从“内部”出发，而是在得以返回时才被认出，这种回声，置换了“本体”的沉默。\n\n无所顾忌的跳跃\n危险漫长的归途\n或迷失。 https://t.co/7IznjmWInD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2099502248594444417",
+        "created_at": "2026-09-14T14:15:17.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T15:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099502248594444417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nonpolar10/sta…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/nonpolar10/status/2099484148243333433",
+              "start": 146,
+              "url": "https://t.co/7IznjmWInD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099502248594444417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099484148243333433",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "或非巧合，更加深入的交往总是只能成为一种语料交换，就像是当身体被溶解，词句及其质料转而成为独立的实在，自己反而成为一种与人共在之物。\n\n我并不“拥有”语言，如同它们也并不是从“内部”出发，而是在得以返回时才被认出，这种回声，置换了“本体”的沉默。\n\n无所顾忌的跳跃\n危险漫长的归途\n或迷失。 https://t.co/7IznjmWInD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2098678412911198425",
+        "created_at": "2026-09-14T13:03:22.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T14:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099484148243333433"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099484148243333433",
+        "in_reply_to_user_id": "1390592139193556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098678415184556255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但在各种意义上，我自认总是容易相处的，只不过经验上是在所谓关系中感到更多幽闭和不安而非相反。\n\n作为同事或“朋友”总是忠诚可靠的，作为陌生人总是过于友善的，大抵因为这样的角色允许我以一种相对匿名的方式展开自身。\n\n我只是在界面上滑动，而不需要强行拼凑起那些早已断裂甚至粉碎的生存经验史。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "半途而废的天坑领域学术奴工，不知有几年活头的过期文学少女。生于语言中，死在沉默里，词语的肉身，症候性的非实存。昨日路过的黑猫🐈‍⬛，偶尔微笑的小幽灵，一小丛苔藓。",
+        "id": "1390592139193556992",
+        "is_identity_verified": false,
+        "location": "边界的宽度",
+        "most_recent_tweet_id": "2099502253191344532",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1390592139193556992/1779901767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078272283425349632/WOTCFfxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 301,
+          "like_count": 2086,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 1647
+        },
+        "url": "",
+        "username": "nonpolar10",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

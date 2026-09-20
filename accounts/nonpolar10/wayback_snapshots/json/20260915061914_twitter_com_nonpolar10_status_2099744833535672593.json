@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2099707964231979177",
+    "created_at": "2026-09-15T06:19:14.000Z",
+    "display_text_range": [
+      17,
+      159
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T07:19:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099744833535672593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1408751443360710662",
+          "start": 0,
+          "username": "Jellyfi77885103"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099744833535672593",
+    "in_reply_to_user_id": "1408751443360710662",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099707964231979177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jellyfi77885103 符号是一个中介环节，为了避免散逸，跨越某种距离，半流态的感觉被赋予了各异的边界。\n\n像番茄罐头，相同的罐子与印花之下，每颗果实都有自身的历史，或其中有时也混入一些异物，甚至完全就是别的东西。\n\n它们似无区分地被码放在记忆的架上，被投向未来与过去，也投向域外或某个遗忘的深处，而被撷取。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2099707964231979177",
+        "created_at": "2026-09-15T06:19:14.000Z",
+        "display_text_range": [
+          17,
+          159
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T07:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099744833535672593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1408751443360710662",
+              "start": 0,
+              "username": "Jellyfi77885103"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099744833535672593",
+        "in_reply_to_user_id": "1408751443360710662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099707964231979177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jellyfi77885103 符号是一个中介环节，为了避免散逸，跨越某种距离，半流态的感觉被赋予了各异的边界。\n\n像番茄罐头，相同的罐子与印花之下，每颗果实都有自身的历史，或其中有时也混入一些异物，甚至完全就是别的东西。\n\n它们似无区分地被码放在记忆的架上，被投向未来与过去，也投向域外或某个遗忘的深处，而被撷取。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1408751443360710662",
+        "conversation_id": "2099707964231979177",
+        "created_at": "2026-09-15T03:52:44.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T04:52:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099707964231979177"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099707964231979177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我使用“现实”这个词而不是“符号系统”这个词，前者这个概念外延更大一些，包括后者，但还有很多，它是包括“感觉”的。\n\n就是常规意义上的感觉，身体的运动、对外表的审美、对痛苦的忍受……哪怕是一杯水人们也是以不同的感觉去喝的，于是另一些人选择去喝可乐。它极其直接地与我们的生活方式相关。\n\n你会发现健全人总是有非常强的精力，我们这些亚比或者神经多样性的人却很多人总是疲惫。但在羡慕前者之前，你会发现前者的这种强精力是和他们对外界的感觉相关的，他们对很多影响都有更低的损耗，而这种低损耗模式并不是没有代价的。这就是为什么“健全人”被我们用作贬义，我们发现他们总是附和社会规范，也缺乏我们知道的一些感受。低精力让我们痛苦，但我们没有办法模仿前者，我们也只能找自己的生存方式。\n\n在电影院喧哗的人，单独旅行的人，难以入睡的人，泡在网络里的人……绝对不共享相同的感觉。所以这也是审美问题，“改变符号系统”会让人觉得这是学习哲学进行心理咨询改变对事物的看法的过程，而“改变现实”意味着改变自己对事物的直接感觉，是培养一种不同的爱好，是构建自己的欲望，是关心一切从未关心过的问题。素食主义者也有一种不同的感觉，而入门以为这仅仅是道德问题。\n\n一个反驳是，“符号系统”这个概念已经包括了感觉。但这往往是因为结构主义者们认为任何感觉都是被符号所中介的。相反，我们相信符号反而是被感觉所中介的。文学并不是一种特别的符号排列，以产生特殊的感觉。相反，一种感觉先于符号，它排列文字以产生文学，而一切文本本质上都是文学。精神分析通过对文本的解析来揭示言说者的潜意识，而艺术直接通过对文本的感觉来体会撰写者是一个什么样的人。\n\n因此，感觉对于符号具有一种特殊的优先性（不同于符号对感觉的优先，但有点难以解释），在符号之前的是一种对符号的感觉。这是为什么艺术如此重要，要远比理论重要。理论对行动的指导往往是造就一种否定性的道德规范，而感觉对行动的引导则直接而肯定。这和想做什么做什么完全不是一回事，那种感觉太粗糙了，如果你了解那种精细的感觉，就知道应该控制和培养自己。\n\n感觉对符号的优先性不代表我们应该信任自己的感觉并抛弃理论，它只是说明改变感觉比改变理论更重要，只改变理论而不改变感觉可能造成更严重的固化。\n\n对斯宾诺斯的庸俗解读往往援引外在的“健康”、“正常”、“好”的规范，他们根据理论来解释做什么对自己是好的，他们也信任自己庸常的感觉。这最终只是把他们培养成社会的模范角色。\n\n可能感觉和符号的分类就并不是很好，更好的鉴别方式是内在与外在的鉴别、肯定与否定的鉴别，这是另一个话题。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 342,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我使用“现实”这个词而不是“符号系统”这个词，前者这个概念外延更大一些，包括后者，但还有很多，它是包括“感觉”的。\n\n就是常规意义上的感觉，身体的运动、对外表的审美、对痛苦的忍受……哪怕是一杯水人们也是以不同的感觉去喝的，于是另一些人选择去喝可乐。它极其直接地与我们的生活方式相关。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "半途而废的天坑领域学术奴工，不知有几年活头的过期文学少女。生于语言中，死在沉默里，词语的肉身，症候性的非实存。昨日路过的黑猫🐈‍⬛，偶尔微笑的小幽灵，一小丛苔藓。",
+        "id": "1390592139193556992",
+        "is_identity_verified": false,
+        "location": "边界的宽度",
+        "most_recent_tweet_id": "2099744833535672593",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1390592139193556992/1779901767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078272283425349632/WOTCFfxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 301,
+          "like_count": 2087,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 1648
+        },
+        "url": "",
+        "username": "nonpolar10",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-06-26T11:38:21.000Z",
+        "description": "🍥🏳️‍⚧️🏳️‍🌈🇦🇶\nNone of us are here by choice.",
+        "id": "1408751443360710662",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099734425156423854",
+        "name": "果冻鱼",
+        "pinned_tweet_id": "2096203051157921997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1408751443360710662/1788995551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089294945631031296/vooeLn6S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 248,
+          "like_count": 11925,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 2900
+        },
+        "url": "",
+        "username": "Jellyfi77885103",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
