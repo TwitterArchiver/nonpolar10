@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2098678412911198425",
+    "created_at": "2026-09-12T07:41:39.000Z",
+    "display_text_range": [
+      0,
+      143
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T08:41:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098678412911198425"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2098678412911198425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果“爱”的基本态度该是共情、理解与某种面向差异的取消，或许我在根本上并不亲和于所谓“性关系”，于是它成为丧失意义的语汇。\n\n似乎这一点在自己年幼时对于家庭概念的怀疑中已经部分生成，一套亲疏的等级制、角色的淫荡规定，以及对世界的赋魅与伦理化。大约是无意参与这些，我不断确认着类似的感觉。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2098678412911198425",
+        "created_at": "2026-09-12T07:41:39.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T08:41:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098678412911198425"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098678412911198425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果“爱”的基本态度该是共情、理解与某种面向差异的取消，或许我在根本上并不亲和于所谓“性关系”，于是它成为丧失意义的语汇。\n\n似乎这一点在自己年幼时对于家庭概念的怀疑中已经部分生成，一套亲疏的等级制、角色的淫荡规定，以及对世界的赋魅与伦理化。大约是无意参与这些，我不断确认着类似的感觉。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "半途而废的天坑领域学术奴工，不知有几年活头的过期文学少女。生于语言中，死在沉默里，词语的肉身，症候性的非实存。昨日路过的黑猫🐈‍⬛，偶尔微笑的小幽灵，一小丛苔藓。",
+        "id": "1390592139193556992",
+        "is_identity_verified": false,
+        "location": "边界的宽度",
+        "most_recent_tweet_id": "2098678415184556255",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1390592139193556992/1779901767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078272283425349632/WOTCFfxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 301,
+          "like_count": 2084,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 1644
+        },
+        "url": "",
+        "username": "nonpolar10",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

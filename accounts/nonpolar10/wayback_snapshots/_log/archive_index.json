@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-09-20T07:50:16",
+  "last_updated": "2026-10-11T18:43:27",
   "html": {
     "https://web.archive.org/web/20230104150848if_/https://twitter.com/nonpolar10/status/1610654486133080066": {
       "status": "done",
@@ -2055,8 +2055,8 @@
       "last_updated": "2026-09-20T07:49:41"
     },
     "https://web.archive.org/web/20260912074139if_/https://twitter.com/nonpolar10/status/2098678412911198425": {
-      "status": "failed",
-      "last_updated": "2026-09-20T07:49:42",
+      "status": "done",
+      "last_updated": "2026-10-11T18:43:27",
       "last_reason": "HTML 下载失败：HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260912074139if_/https://twitter.com/nonpolar10/status/2098678412911198425",
       "miss_count": 1
     },
@@ -2087,6 +2087,18 @@
     "https://web.archive.org/web/20260912074140if_/https://twitter.com/nonpolar10/status/2098678415184556255": {
       "status": "done",
       "last_updated": "2026-09-20T07:49:47"
+    },
+    "https://web.archive.org/web/20261005121735if_/https://twitter.com/nonpolar10/status/2107082774767386830": {
+      "status": "done",
+      "last_updated": "2026-10-11T18:43:25"
+    },
+    "https://web.archive.org/web/20260927193047if_/https://twitter.com/nonpolar10/status/2104292689990885531": {
+      "status": "done",
+      "last_updated": "2026-10-11T18:43:25"
+    },
+    "https://web.archive.org/web/20260926214848if_/https://twitter.com/nonpolar10/status/2103965035618062484": {
+      "status": "done",
+      "last_updated": "2026-10-11T18:43:25"
     }
   },
   "images": {
@@ -3680,7 +3692,11 @@
         "20260915061914_twitter_com_nonpolar10_status_2099744833535672593.json",
         "20260915083158_twitter_com_nonpolar10_status_2099778237392208114.json",
         "20260915083658_twitter_com_nonpolar10_status_2099779497612689618.json",
-        "20260917021526_twitter_com_nonpolar10_status_2100408256665710804.json"
+        "20260917021526_twitter_com_nonpolar10_status_2100408256665710804.json",
+        "20260912074139_twitter_com_nonpolar10_status_2098678412911198425.json",
+        "20260926214848_twitter_com_nonpolar10_status_2103965035618062484.json",
+        "20260927193047_twitter_com_nonpolar10_status_2104292689990885531.json",
+        "20261005121735_twitter_com_nonpolar10_status_2107082774767386830.json"
       ],
       "last_updated": "2026-07-28T11:33:49"
     },
@@ -10271,6 +10287,50 @@
         ]
       },
       "last_updated": "2026-09-20T07:49:48"
+    },
+    "20260912074139_twitter_com_nonpolar10_status_2098678412911198425.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2078272283425349632/WOTCFfxQ_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-10-11T18:43:27"
+    },
+    "20260926214848_twitter_com_nonpolar10_status_2103965035618062484.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2078272283425349632/WOTCFfxQ_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-10-11T18:43:27"
+    },
+    "20260927193047_twitter_com_nonpolar10_status_2104292689990885531.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2078272283425349632/WOTCFfxQ_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-10-11T18:43:27"
+    },
+    "20261005121735_twitter_com_nonpolar10_status_2107082774767386830.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2078272283425349632/WOTCFfxQ_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-10-11T18:43:27"
     }
   }
 }

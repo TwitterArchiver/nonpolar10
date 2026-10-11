@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390592139193556992",
+    "conversation_id": "2103965035618062484",
+    "created_at": "2026-09-26T21:48:48.000Z",
+    "display_text_range": [
+      0,
+      101
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T22:48:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103965035618062484"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2103965035618062484",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "自述在绝大多数情况下都只能提供一个有限的侧写，这基本取决于自述者当时的具体关切，一般化的语言就是这样的线性结构，某种特定意向的贯串，而无法一劳永逸地表达与沉默同等的杂多，某种前语言存在，几乎确定的感性。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390592139193556992",
+        "conversation_id": "2103965035618062484",
+        "created_at": "2026-09-26T21:48:48.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T22:48:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103965035618062484"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103965035618062484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自述在绝大多数情况下都只能提供一个有限的侧写，这基本取决于自述者当时的具体关切，一般化的语言就是这样的线性结构，某种特定意向的贯串，而无法一劳永逸地表达与沉默同等的杂多，某种前语言存在，几乎确定的感性。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-05-07T09:01:17.000Z",
+        "description": "半途而废的天坑领域学术奴工，不知有几年活头的过期文学少女。生于语言中，死在沉默里，词语的肉身，症候性的非实存。昨日路过的黑猫🐈‍⬛，偶尔微笑的小幽灵，一小丛苔藓。",
+        "id": "1390592139193556992",
+        "is_identity_verified": false,
+        "location": "边界的宽度",
+        "most_recent_tweet_id": "2103965035618062484",
+        "name": "nønpolar",
+        "pinned_tweet_id": "1959677761330754035",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1390592139193556992/1779901767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078272283425349632/WOTCFfxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 304,
+          "like_count": 2088,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 1650
+        },
+        "url": "",
+        "username": "nonpolar10",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
